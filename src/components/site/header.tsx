@@ -211,7 +211,7 @@ export function Header({ quickLinks, search, unitGroups, featured }: Props) {
                 target="_blank"
                 rel="noreferrer"
                 className={cn(
-                  "group ml-2 hidden h-10 items-center gap-2 rounded-full px-5 text-sm font-semibold transition-colors sm:inline-flex",
+                  "group ml-2 hidden h-10 items-center gap-2 whitespace-nowrap rounded-full px-5 text-sm font-semibold transition-colors sm:inline-flex",
                   tone === "light" ? "bg-white text-deu hover:bg-deu-mist" : "bg-deu text-white hover:bg-navy",
                 )}
               >
