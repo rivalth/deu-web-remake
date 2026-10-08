@@ -33,7 +33,7 @@ export default function AnnouncementsPage() {
             <Reveal className="lg:col-span-3">
               <h2 className="sticky top-28 text-2xl font-semibold capitalize tracking-tight">
                 {month}
-                <span className="ml-2 align-top text-sm font-medium text-ink/40">{list.length}</span>
+                <span className="ml-2 align-top text-sm font-medium text-ink/65">{list.length}</span>
               </h2>
             </Reveal>
             <div className="lg:col-span-9">

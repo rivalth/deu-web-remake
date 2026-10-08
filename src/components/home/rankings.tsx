@@ -13,7 +13,7 @@ export function Rankings({ items }: { items: Ranking[] }) {
     <section className="relative overflow-hidden bg-paper-deep py-28 sm:py-36">
       <div
         aria-hidden
-        className="pointer-events-none absolute -right-40 -top-40 size-[640px] rounded-full bg-deu-sky/30 blur-[120px]"
+        className="pointer-events-none absolute -right-[22rem] -top-[22rem] size-[960px] bg-[radial-gradient(closest-side,var(--color-deu-sky),transparent)] opacity-30"
       />
       <div className="container-x relative">
         <div className="grid gap-8 lg:grid-cols-12">
@@ -26,7 +26,7 @@ export function Rankings({ items }: { items: Ranking[] }) {
               parts={["Uluslararası", { text: "sıralamalarda", className: "serif-accent text-deu" }, "yükselen bir üniversite."]}
             />
           </div>
-          <p className="self-end text-lg text-ink/60 lg:col-span-5 lg:col-start-8">
+          <p className="self-end text-lg text-ink/70 lg:col-span-5 lg:col-start-8">
             Sürdürülebilirlikten bilimsel üretime, Dokuz Eylül&apos;ün başarısı bağımsız küresel değerlendirmelerle
             tescilli.
           </p>
@@ -56,7 +56,7 @@ export function Rankings({ items }: { items: Ranking[] }) {
                       {r.unit && <span className="serif-accent ml-2 text-[0.4em] tracking-normal">{r.unit}</span>}
                     </p>
                     <p className="mt-4 text-lg font-semibold leading-snug">{r.title}</p>
-                    <p className={"mt-2 text-sm leading-relaxed " + (i === 0 ? "text-white/70" : "text-ink/55")}>{r.body}</p>
+                    <p className={"mt-2 text-sm leading-relaxed " + (i === 0 ? "text-white/70" : "text-ink/70")}>{r.body}</p>
                   </div>
                 </Link>
               </Tilt>

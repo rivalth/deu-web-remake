@@ -73,12 +73,12 @@ export default function StatsPage() {
           <Stagger className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:col-span-7">
             {s.students.map((x) => (
               <StaggerItem key={x.label} className="rounded-[1.5rem] bg-white p-6">
-                <p className="text-sm text-ink/55">{STUDENT_LABELS[x.label] ?? x.label}</p>
+                <p className="text-sm text-ink/70">{STUDENT_LABELS[x.label] ?? x.label}</p>
                 <Counter value={x.value} className="mt-3 block text-3xl font-semibold tracking-tight sm:text-4xl" />
                 <div className="mt-4 h-1.5 overflow-hidden rounded-full bg-deu-mist">
                   <div className="h-full rounded-full bg-deu" style={{ width: `${Math.max(2, (x.value / s.studentTotal) * 100)}%` }} />
                 </div>
-                <p className="mt-2 text-xs text-ink/45">%{((x.value / s.studentTotal) * 100).toFixed(1).replace(".", ",")}</p>
+                <p className="mt-2 text-xs text-ink/65">%{((x.value / s.studentTotal) * 100).toFixed(1).replace(".", ",")}</p>
               </StaggerItem>
             ))}
           </Stagger>

@@ -35,7 +35,7 @@ export function Timeline({ items }: { items: { year: string; text: string }[] })
           />
         </div>
         <div className="flex items-center gap-6">
-          <p className="hidden text-sm text-ink/50 sm:block">← Sürükleyin →</p>
+          <p className="hidden text-sm text-ink/70 sm:block">← Sürükleyin →</p>
           <ArrowLink href="/hakkimizda#tarihce" className="text-deu">
             Tüm tarihçe
           </ArrowLink>
@@ -68,7 +68,7 @@ export function Timeline({ items }: { items: { year: string; text: string }[] })
               <p className="mt-6 text-6xl font-semibold tracking-[-0.05em] text-ink transition-colors duration-500 group-hover:text-deu">
                 {t.year}
               </p>
-              <p className="mt-4 line-clamp-5 text-sm leading-relaxed text-ink/60">{t.text.replace(/^\d{4}['’]?\w*\s*(yılında|Yılında|Yılında,)?\s*/i, "")}</p>
+              <p className="mt-4 line-clamp-5 text-sm leading-relaxed text-ink/70">{t.text.replace(/^\d{4}['’]?\w*\s*(yılında|Yılında|Yılında,)?\s*/i, "")}</p>
             </motion.div>
           ))}
         </motion.div>

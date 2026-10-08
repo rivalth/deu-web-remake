@@ -73,7 +73,7 @@ for (const [group, units] of Object.entries(index)) {
     if (await newer(src, dest)) {
       await mkdir(path.dirname(dest), { recursive: true });
       if (ext === "webp") {
-        await sharp(src).resize(320, 320, { fit: "inside" }).webp({ quality: 88 }).toFile(dest);
+        await sharp(src).resize(160, 160, { fit: "inside" }).webp({ quality: 88 }).toFile(dest);
       } else {
         await copyFile(src, dest);
       }

@@ -37,7 +37,7 @@ export default function AcademicPage() {
           ].map((s) => (
             <div key={s.l}>
               <Counter value={s.v} className="block text-3xl font-semibold tracking-tight sm:text-4xl" />
-              <span className="text-sm text-ink/50">{s.l}</span>
+              <span className="text-sm text-ink/70">{s.l}</span>
             </div>
           ))}
         </div>
@@ -57,7 +57,7 @@ export default function AcademicPage() {
               className="display mt-5 text-4xl sm:text-5xl"
               parts={["Eğitimi", { text: "destekleyen", className: "serif-accent text-deu" }, "yapılar."]}
             />
-            <p className="mt-6 text-ink/60">
+            <p className="mt-6 text-ink/70">
               Uluslararası ilişkilerden kariyer planlamaya, kaliteden sürdürülebilirliğe üniversite genelinde hizmet veren
               koordinatörlükler.
             </p>
@@ -82,7 +82,7 @@ export default function AcademicPage() {
 
       <section className="container-x py-24">
         <div className="grain relative overflow-hidden rounded-[2.5rem] bg-deu p-10 text-white sm:p-16">
-          <div aria-hidden className="absolute -right-20 -top-20 size-96 rounded-full bg-deu-sky/40 blur-[100px]" />
+          <div aria-hidden className="absolute -right-48 -top-48 size-[36rem] bg-[radial-gradient(closest-side,var(--color-deu-sky),transparent)] opacity-40" />
           <div className="relative flex flex-col justify-between gap-10 lg:flex-row lg:items-end">
             <div>
               <p className="eyebrow text-deu-sky">AVESİS</p>

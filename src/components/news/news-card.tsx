@@ -49,7 +49,7 @@ export function NewsCard({
       >
         <span className="link-underline">{item.title}</span>
       </h3>
-      {size === "lg" && <p className="mt-3 line-clamp-2 max-w-2xl text-ink/60">{item.excerpt}</p>}
+      {size === "lg" && <p className="mt-3 line-clamp-2 max-w-2xl text-ink/70">{item.excerpt}</p>}
     </Link>
   );
 }

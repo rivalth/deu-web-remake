@@ -1,6 +1,6 @@
 "use client";
 
-import { useLenis } from "lenis/react";
+import { useScrollLock } from "../site/providers";
 import { ChevronLeft, ChevronRight, X } from "lucide-react";
 import { AnimatePresence, motion } from "motion/react";
 import Image from "next/image";
@@ -12,7 +12,7 @@ import { Portal } from "./portal";
 export function Gallery({ items, title }: { items: Media[]; title: string }) {
   const [open, setOpen] = useState<number | null>(null);
   const [dir, setDir] = useState(1);
-  const lenis = useLenis();
+  useScrollLock(open !== null);
 
   const go = useCallback(
     (d: number) => {
@@ -24,7 +24,6 @@ export function Gallery({ items, title }: { items: Media[]; title: string }) {
 
   useEffect(() => {
     if (open === null) return;
-    lenis?.stop();
     const onKey = (e: KeyboardEvent) => {
       if (e.key === "Escape") setOpen(null);
       if (e.key === "ArrowRight") go(1);
@@ -32,10 +31,9 @@ export function Gallery({ items, title }: { items: Media[]; title: string }) {
     };
     window.addEventListener("keydown", onKey);
     return () => {
-      lenis?.start();
       window.removeEventListener("keydown", onKey);
     };
-  }, [open, go, lenis]);
+  }, [open, go]);
 
   if (!items.length) return null;
   const current = open !== null ? items[open] : null;

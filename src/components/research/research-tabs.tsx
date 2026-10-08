@@ -53,7 +53,7 @@ export function ResearchTabs({ tabs }: { tabs: Tab[] }) {
               </span>
               <span className="relative">
                 <span className="block text-lg font-semibold">{t.title}</span>
-                <span className={cn("text-sm", on ? "text-white/70" : "text-ink/50")}>{t.links.length} kaynak</span>
+                <span className={cn("text-sm", on ? "text-white/70" : "text-ink/70")}>{t.links.length} kaynak</span>
               </span>
             </button>
           );

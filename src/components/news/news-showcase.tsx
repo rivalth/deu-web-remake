@@ -48,7 +48,7 @@ export function NewsShowcase({ featured, side, rail }: { featured: Item; side: I
                     imgClassName="transition-transform duration-700 ease-[var(--ease-out-expo)] group-hover:scale-110"
                   />
                   <div className="min-w-0">
-                    <p className="text-xs font-semibold text-ink/45">{formatDate(n.date)}</p>
+                    <p className="text-xs font-semibold text-ink/65">{formatDate(n.date)}</p>
                     <h3 className="mt-2 line-clamp-3 font-semibold leading-snug tracking-tight transition-colors group-hover:text-deu">
                       {n.title}
                     </h3>
@@ -101,7 +101,7 @@ function Rail({ items }: { items: Item[] }) {
   return (
     <div className="mt-24">
       <div className="container-x flex items-center justify-between">
-        <p className="text-sm font-semibold text-ink/60">Daha fazla haber</p>
+        <p className="text-sm font-semibold text-ink/70">Daha fazla haber</p>
         <div className="flex gap-2">
           {[
             { dir: -1 as const, Icon: ArrowLeft, disabled: atStart, label: "Önceki" },

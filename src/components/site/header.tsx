@@ -1,12 +1,11 @@
 "use client";
 
-import { useLenis } from "lenis/react";
 import { ArrowUpRight, LayoutGrid, Menu, Search, X } from "lucide-react";
 import { AnimatePresence, motion, useMotionValueEvent, useScroll } from "motion/react";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useEffect, useRef, useState } from "react";
+import { useRef, useState } from "react";
 import { cn } from "@/lib/cn";
 import { slugify } from "@/lib/text";
 import type { Media } from "@/lib/media";
@@ -14,6 +13,7 @@ import { ABOUT_LINKS, CANDIDATE_URL, NAV, RESEARCH_LINKS, type NavItem, type Sea
 import { RollText } from "../ui/button";
 import { Logo } from "../ui/logo";
 import { CommandMenu } from "./command-menu";
+import { useScrollLock } from "./providers";
 
 const EASE = [0.16, 1, 0.3, 1] as const;
 
@@ -26,7 +26,6 @@ type Props = {
 
 export function Header({ quickLinks, search, unitGroups, featured }: Props) {
   const pathname = usePathname();
-  const lenis = useLenis();
   const { scrollY } = useScroll();
   const [scrolled, setScrolled] = useState(false);
   const [hidden, setHidden] = useState(false);
@@ -39,7 +38,9 @@ export function Header({ quickLinks, search, unitGroups, featured }: Props) {
 
   useMotionValueEvent(scrollY, "change", (y) => {
     const prev = scrollY.getPrevious() ?? 0;
-    setScrolled(y > 24);
+    // the home hero is pinned for several screens; stay transparent while it is under the header
+    const hero = document.querySelector("[data-hero]");
+    setScrolled(y > 24 && !(hero && hero.getBoundingClientRect().bottom > window.innerHeight));
     setHidden(y > 420 && y > prev && !mega && !quick);
   });
 
@@ -53,10 +54,7 @@ export function Header({ quickLinks, search, unitGroups, featured }: Props) {
   }
 
   // freeze page scroll under full-screen overlays
-  useEffect(() => {
-    if (mobile || searchOpen) lenis?.stop();
-    else lenis?.start();
-  }, [mobile, searchOpen, lenis]);
+  useScrollLock(mobile || searchOpen);
 
   const overlay = pathname === "/" && !scrolled && !mega && !quick;
   const tone = overlay ? "light" : "dark";
@@ -92,8 +90,9 @@ export function Header({ quickLinks, search, unitGroups, featured }: Props) {
             <div aria-hidden className="pointer-events-none absolute inset-0 -bottom-16 bg-gradient-to-b from-black/45 to-transparent" />
           )}
           <div className="container-x relative flex h-[var(--header-h)] items-center gap-6">
-            <Link href="/" aria-label="Dokuz Eylül Üniversitesi ana sayfa" className="shrink-0 transition-opacity hover:opacity-80">
+            <Link href="/" className="shrink-0 transition-opacity hover:opacity-80">
               <Logo tone={tone} />
+              <span className="sr-only">ana sayfa</span>
             </Link>
 
             <nav aria-label="Ana menü" className="hidden lg:ml-2 lg:block xl:ml-6" onMouseLeave={() => setHovered(null)}>
@@ -183,7 +182,7 @@ export function Header({ quickLinks, search, unitGroups, featured }: Props) {
                       transition={{ duration: 0.25, ease: EASE }}
                       className="absolute right-0 top-[calc(100%+12px)] w-[420px] origin-top-right rounded-3xl border border-line bg-white p-3 text-ink shadow-2xl shadow-navy/15"
                     >
-                      <p className="eyebrow px-3 pb-2 pt-1 text-ink/50">Sık kullanılanlar</p>
+                      <p className="eyebrow px-3 pb-2 pt-1 text-ink/70">Sık kullanılanlar</p>
                       <div className="grid grid-cols-2 gap-1">
                         {quickLinks.map((l, i) => (
                           <motion.a
@@ -315,7 +314,7 @@ function MegaLinks({
             >
               <span>
                 <span className="block text-[15px] font-semibold transition-colors group-hover:text-deu">{l.label}</span>
-                <span className="mt-0.5 block text-sm text-ink/55">{l.hint}</span>
+                <span className="mt-0.5 block text-sm text-ink/70">{l.hint}</span>
               </span>
               <ArrowUpRight className="mt-0.5 size-4 shrink-0 -translate-x-1 text-deu opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100" />
             </Link>
@@ -372,7 +371,7 @@ function MegaAcademic({ groups }: { groups: Props["unitGroups"] }) {
             >
               <span className="text-4xl font-semibold tracking-tight text-deu">{g.count}</span>
               <span className="mt-1 text-[15px] font-semibold">{g.group}</span>
-              <span className="mt-3 line-clamp-3 text-xs leading-relaxed text-ink/55">{g.sample.join(" · ")}</span>
+              <span className="mt-3 line-clamp-3 text-xs leading-relaxed text-ink/70">{g.sample.join(" · ")}</span>
             </Link>
           </motion.div>
         ))}

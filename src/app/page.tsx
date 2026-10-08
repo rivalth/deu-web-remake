@@ -174,7 +174,7 @@ export default function Home() {
                 className="display mt-5 text-5xl sm:text-6xl"
                 parts={["Gündemi", { text: "kaçırmayın", className: "serif-accent text-deu" }]}
               />
-              <p className="mt-6 max-w-sm text-ink/60">
+              <p className="mt-6 max-w-sm text-ink/70">
                 Akademik takvim, sınavlar, başvurular ve etkinliklerle ilgili güncel duyurular.
               </p>
               <ArrowLink href="/duyurular" className="mt-8 text-deu">

@@ -38,14 +38,14 @@ export function AnnouncementsList({ items }: { items: Item[] }) {
               >
                 <span className="flex items-baseline gap-1.5 tabular-nums">
                   <span className="text-3xl font-semibold tracking-tight text-deu sm:text-4xl">{d?.day}</span>
-                  <span className="text-xs font-semibold uppercase text-ink/45">{d?.month}</span>
+                  <span className="text-xs font-semibold uppercase text-ink/65">{d?.month}</span>
                 </span>
                 <span className="min-w-0">
                   <span className="line-clamp-2 text-lg font-semibold leading-snug tracking-tight transition-colors group-hover:text-deu sm:text-xl">
                     {a.title}
                   </span>
                   {a.attachments.length > 0 && (
-                    <span className="mt-1.5 inline-flex items-center gap-1 text-xs text-ink/45">
+                    <span className="mt-1.5 inline-flex items-center gap-1 text-xs text-ink/65">
                       <Paperclip className="size-3" /> {a.attachments.length} ek
                     </span>
                   )}

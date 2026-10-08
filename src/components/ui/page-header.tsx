@@ -28,7 +28,7 @@ export function PageHeader({
     <header className="relative pt-[calc(var(--header-h)+3.5rem)]">
       <div className="container-x">
         <Reveal y={10}>
-          <nav aria-label="Konum" className="flex flex-wrap items-center gap-1.5 text-xs font-medium text-ink/45">
+          <nav aria-label="Konum" className="flex flex-wrap items-center gap-1.5 text-xs font-medium text-ink/65">
             <Link href="/" className="transition-colors hover:text-deu">
               Ana sayfa
             </Link>
@@ -47,7 +47,7 @@ export function PageHeader({
         </p>
         <SplitText as="h1" inView={false} delay={0.1} className="display mt-5 max-w-5xl text-5xl sm:text-7xl lg:text-8xl" parts={title} />
         {description && (
-          <Reveal delay={0.4} className="mt-8 max-w-2xl text-lg leading-relaxed text-ink/60">
+          <Reveal delay={0.4} className="mt-8 max-w-2xl text-lg leading-relaxed text-ink/70">
             {description}
           </Reveal>
         )}

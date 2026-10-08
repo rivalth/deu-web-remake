@@ -48,7 +48,7 @@ async function Announcement({ params }: { params: PageProps<"/duyurular/[slug]">
           <Reveal y={10}>
             <Link
               href="/duyurular"
-              className="group inline-flex items-center gap-2 text-sm font-semibold text-ink/55 transition-colors hover:text-deu"
+              className="group inline-flex items-center gap-2 text-sm font-semibold text-ink/70 transition-colors hover:text-deu"
             >
               <ArrowLeft className="size-4 transition-transform group-hover:-translate-x-1" /> Tüm duyurular
             </Link>
@@ -65,7 +65,7 @@ async function Announcement({ params }: { params: PageProps<"/duyurular/[slug]">
 
           {a.attachments.length > 0 && (
             <Reveal className="mt-14">
-              <h2 className="eyebrow text-ink/50">Ekler</h2>
+              <h2 className="eyebrow text-ink/70">Ekler</h2>
               <ul className="mt-4 grid gap-3">
                 {a.attachments.map((url) => (
                   <li key={url}>
@@ -80,7 +80,7 @@ async function Announcement({ params }: { params: PageProps<"/duyurular/[slug]">
                       </span>
                       <span className="min-w-0 flex-1">
                         <span className="block truncate font-semibold capitalize">{fileName(url)}</span>
-                        <span className="text-xs uppercase text-ink/45">{url.split(".").pop()}</span>
+                        <span className="text-xs uppercase text-ink/65">{url.split(".").pop()}</span>
                       </span>
                       <span className="relative grid size-10 place-items-center overflow-hidden rounded-full bg-paper transition-colors group-hover:bg-deu group-hover:text-white">
                         <ArrowDownToLine className="size-4 transition-transform duration-500 group-hover:translate-y-10" />
@@ -99,7 +99,7 @@ async function Announcement({ params }: { params: PageProps<"/duyurular/[slug]">
               href={a.source}
               target="_blank"
               rel="noreferrer"
-              className="group inline-flex h-11 items-center gap-2 rounded-full px-4 text-sm font-medium text-ink/55 hover:text-deu"
+              className="group inline-flex h-11 items-center gap-2 rounded-full px-4 text-sm font-medium text-ink/70 hover:text-deu"
             >
               Kaynakta görüntüle <ArrowUpRight className="size-4 transition-transform group-hover:rotate-45" />
             </a>
@@ -113,7 +113,7 @@ async function Announcement({ params }: { params: PageProps<"/duyurular/[slug]">
               {others.map((o) => (
                 <li key={o.slug}>
                   <Link href={`/duyurular/${o.slug}`} className="group block py-4">
-                    <span className="text-xs font-semibold text-ink/45">{formatDate(o.date)}</span>
+                    <span className="text-xs font-semibold text-ink/65">{formatDate(o.date)}</span>
                     <span className="mt-1 block font-semibold leading-snug transition-colors group-hover:text-deu">{o.title}</span>
                   </Link>
                 </li>

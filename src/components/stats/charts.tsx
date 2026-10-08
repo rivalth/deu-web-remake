@@ -38,7 +38,7 @@ function ChartFrame({
       <div className="flex items-start justify-between gap-4">
         <figcaption>
           <p className="text-xl font-semibold tracking-tight">{title}</p>
-          {subtitle && <p className="mt-1 text-sm text-ink/55">{subtitle}</p>}
+          {subtitle && <p className="mt-1 text-sm text-ink/70">{subtitle}</p>}
         </figcaption>
         <div className="flex shrink-0 rounded-full border border-line p-1" role="group" aria-label="Görünüm">
           {(
@@ -55,7 +55,7 @@ function ChartFrame({
               aria-label={label}
               className={cn(
                 "relative grid size-9 place-items-center rounded-full transition-colors",
-                view === v ? "text-white" : "text-ink/50 hover:text-ink",
+                view === v ? "text-white" : "text-ink/70 hover:text-ink",
               )}
             >
               {view === v && <motion.span layoutId={`view-${title}`} className="absolute inset-0 rounded-full bg-ink" />}
@@ -105,7 +105,7 @@ function ChartFrame({
           )}
         </AnimatePresence>
       </div>
-      {note && <p className="mt-6 text-xs text-ink/45">{note}</p>}
+      {note && <p className="mt-6 text-xs text-ink/65">{note}</p>}
     </figure>
   );
 }
@@ -145,7 +145,7 @@ export function ColumnChart({
         {/* hairline grid + y ticks */}
         {ticks.map((t) => (
           <div key={t} className="absolute inset-x-0 flex items-center" style={{ bottom: `${(t / top) * 100}%` }}>
-            <span className="w-12 -translate-y-px pr-2 text-right text-[11px] tabular-nums text-ink/40">{fmt.format(t)}</span>
+            <span className="w-12 -translate-y-px pr-2 text-right text-[11px] tabular-nums text-ink/65">{fmt.format(t)}</span>
             <span className={cn("h-px flex-1", t === 0 ? "bg-ink/25" : "bg-line")} />
           </div>
         ))}
@@ -218,7 +218,7 @@ export function ColumnChart({
           <span
             key={d.label}
             className={cn(
-              "flex-1 text-center text-[10px] tabular-nums text-ink/45 transition-colors sm:text-[11px]",
+              "flex-1 text-center text-[10px] tabular-nums text-ink/65 transition-colors sm:text-[11px]",
               hover === i && "font-semibold text-ink",
               data.length > 10 && i % 2 === 1 && "max-sm:invisible",
             )}

@@ -36,7 +36,7 @@ export function HistoryScroller({ items }: { items: { year: string; text: string
               />
             ))}
           </div>
-          <p className="mt-6 text-sm text-ink/50">
+          <p className="mt-6 text-sm text-ink/70">
             {active + 1} / {items.length} kilometre taşı
           </p>
         </div>

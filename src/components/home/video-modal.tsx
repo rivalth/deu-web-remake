@@ -1,6 +1,6 @@
 "use client";
 
-import { useLenis } from "lenis/react";
+import { useScrollLock } from "../site/providers";
 import { Play, X } from "lucide-react";
 import { AnimatePresence, motion } from "motion/react";
 import { useEffect, useState } from "react";
@@ -9,18 +9,16 @@ import { Portal } from "../ui/portal";
 /** Play button that opens a YouTube embed in a full-screen modal. */
 export function VideoButton({ videoId, label = "Tanıtım filmi" }: { videoId: string; label?: string }) {
   const [open, setOpen] = useState(false);
-  const lenis = useLenis();
+  useScrollLock(open);
 
   useEffect(() => {
     if (!open) return;
-    lenis?.stop();
     const onKey = (e: KeyboardEvent) => e.key === "Escape" && setOpen(false);
     window.addEventListener("keydown", onKey);
     return () => {
-      lenis?.start();
       window.removeEventListener("keydown", onKey);
     };
-  }, [open, lenis]);
+  }, [open]);
 
   return (
     <>

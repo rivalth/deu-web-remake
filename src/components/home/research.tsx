@@ -41,7 +41,7 @@ export function Research({ centers, labs }: { centers: string[]; labs: number })
 
   return (
     <section className="grain relative overflow-hidden bg-navy py-28 text-white sm:py-36">
-      <div aria-hidden className="pointer-events-none absolute -left-40 top-1/3 size-[560px] rounded-full bg-deu/50 blur-[140px]" />
+      <div aria-hidden className="pointer-events-none absolute -left-[18rem] top-[calc(33%-140px)] size-[840px] bg-[radial-gradient(closest-side,var(--color-deu),transparent)] opacity-50" />
       <div className="container-x relative grid gap-16 lg:grid-cols-12">
         <div className="lg:col-span-6">
           <p className="eyebrow text-deu-sky">

@@ -44,7 +44,7 @@ export function NewsBrowser({ items }: { items: Item[] }) {
                 }}
                 className={cn(
                   "relative shrink-0 rounded-full px-4 py-2 text-sm font-semibold capitalize transition-colors",
-                  m === month ? "text-white" : "text-ink/60 hover:text-ink",
+                  m === month ? "text-white" : "text-ink/70 hover:text-ink",
                 )}
               >
                 {m === month && (
@@ -56,7 +56,7 @@ export function NewsBrowser({ items }: { items: Item[] }) {
           </div>
         </LayoutGroup>
         <label className="flex h-12 items-center gap-2 rounded-full border border-line bg-white/80 px-4 backdrop-blur-xl transition-shadow focus-within:shadow-lg focus-within:shadow-deu/10 md:w-72">
-          <Search className="size-4 text-ink/40" />
+          <Search className="size-4 text-ink/65" />
           <input
             value={query}
             onChange={(e) => setQuery(e.target.value)}
@@ -84,7 +84,7 @@ export function NewsBrowser({ items }: { items: Item[] }) {
         </AnimatePresence>
       </motion.div>
 
-      {list.length === 0 && <p className="py-20 text-center text-ink/50">Aramanızla eşleşen haber yok.</p>}
+      {list.length === 0 && <p className="py-20 text-center text-ink/70">Aramanızla eşleşen haber yok.</p>}
       {visible < list.length && (
         <div className="mt-16 flex justify-center">
           <button

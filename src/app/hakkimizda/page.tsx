@@ -119,7 +119,7 @@ export default function AboutPage() {
                   {p.email && (
                     <a
                       href={`mailto:${p.email}`}
-                      className="mt-2 inline-flex items-center gap-1.5 text-xs text-ink/50 transition-colors hover:text-deu"
+                      className="mt-2 inline-flex items-center gap-1.5 text-xs text-ink/70 transition-colors hover:text-deu"
                     >
                       <Mail className="size-3" /> {p.email}
                     </a>
@@ -140,7 +140,7 @@ export default function AboutPage() {
             <h2 className="display mt-5 text-4xl sm:text-5xl">
               Mavinin <span className="serif-accent text-deu">anlamı</span>
             </h2>
-            <p className="mt-6 text-ink/60">
+            <p className="mt-6 text-ink/70">
               Amblemimiz, İzmir Cumhuriyet Meydanı&apos;ndaki Atatürk Anıtı&apos;ndan türetilmiştir. Renk değerini
               kopyalamak için bir renge tıklayın.
             </p>

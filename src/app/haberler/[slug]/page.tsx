@@ -70,7 +70,7 @@ async function Article({ params }: { params: PageProps<"/haberler/[slug]">["para
           <Reveal y={10}>
             <Link
               href="/haberler"
-              className="group inline-flex items-center gap-2 text-sm font-semibold text-ink/55 transition-colors hover:text-deu"
+              className="group inline-flex items-center gap-2 text-sm font-semibold text-ink/70 transition-colors hover:text-deu"
             >
               <ArrowLeft className="size-4 transition-transform group-hover:-translate-x-1" /> Tüm haberler
             </Link>
@@ -79,10 +79,10 @@ async function Article({ params }: { params: PageProps<"/haberler/[slug]">["para
             <span className="rounded-full bg-deu px-3 py-1 text-xs font-semibold text-white">
               {article.categories[0] ?? "Haber"}
             </span>
-            <time dateTime={article.date} className="font-medium text-ink/60">
+            <time dateTime={article.date} className="font-medium text-ink/70">
               {formatDate(article.date)}
             </time>
-            <span className="flex items-center gap-1.5 text-ink/45">
+            <span className="flex items-center gap-1.5 text-ink/65">
               <Clock className="size-3.5" /> {readingTime(article.body)} dk okuma
             </span>
           </div>
@@ -111,7 +111,7 @@ async function Article({ params }: { params: PageProps<"/haberler/[slug]">["para
               href={article.source}
               target="_blank"
               rel="noreferrer"
-              className="group inline-flex h-11 items-center gap-2 rounded-full px-4 text-sm font-medium text-ink/55 transition-colors hover:text-deu"
+              className="group inline-flex h-11 items-center gap-2 rounded-full px-4 text-sm font-medium text-ink/70 transition-colors hover:text-deu"
             >
               Kaynakta görüntüle
               <ArrowUpRight className="size-4 transition-transform group-hover:rotate-45" />
@@ -129,7 +129,7 @@ async function Article({ params }: { params: PageProps<"/haberler/[slug]">["para
             <h2 className="text-3xl font-semibold tracking-tight">
               Fotoğraflar <span className="serif-accent text-deu">({gallery.length})</span>
             </h2>
-            <p className="hidden text-sm text-ink/45 sm:block">Büyütmek için tıklayın</p>
+            <p className="hidden text-sm text-ink/65 sm:block">Büyütmek için tıklayın</p>
           </div>
           <Gallery items={gallery} title={article.title} />
         </section>
@@ -142,7 +142,7 @@ async function Article({ params }: { params: PageProps<"/haberler/[slug]">["para
         ].map(({ item, label, align }) =>
           item ? (
             <Link key={label} href={`/haberler/${item.slug}`} className={`group block rounded-3xl p-6 transition-colors hover:bg-white ${align}`}>
-              <span className="eyebrow text-ink/45">{label}</span>
+              <span className="eyebrow text-ink/65">{label}</span>
               <span className="mt-3 block text-xl font-semibold leading-snug tracking-tight transition-colors group-hover:text-deu">
                 {item.title}
               </span>

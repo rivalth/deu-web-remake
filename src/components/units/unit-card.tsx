@@ -33,13 +33,13 @@ export function UnitCard({ unit, index = 0 }: { unit: Unit; index?: number }) {
             <Logotype className="w-10 text-deu" />
           )}
         </span>
-        <span className="grid size-9 place-items-center rounded-full border border-line text-ink/50 transition-all duration-500 group-hover:rotate-45 group-hover:border-deu group-hover:bg-deu group-hover:text-white">
+        <span className="grid size-9 place-items-center rounded-full border border-line text-ink/70 transition-all duration-500 group-hover:rotate-45 group-hover:border-deu group-hover:bg-deu group-hover:text-white">
           <ArrowUpRight className="size-4" />
         </span>
       </div>
       <div className="mt-6">
         <p className="text-lg font-semibold leading-tight tracking-tight transition-colors group-hover:text-deu">{short}</p>
-        <p className="mt-1 text-xs font-medium uppercase tracking-[0.14em] text-ink/45">{kind}</p>
+        <p className="mt-1 text-xs font-medium uppercase tracking-[0.14em] text-ink/65">{kind}</p>
       </div>
     </motion.a>
   );

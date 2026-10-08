@@ -45,7 +45,7 @@ export function Mission({ text, images }: { text: string; images: Media[] }) {
           </div>
           <div className="mt-12 grid max-w-xl gap-8 sm:grid-cols-2">
             <div>
-              <p className="eyebrow text-ink/45">Vizyonumuz</p>
+              <p className="eyebrow text-ink/65">Vizyonumuz</p>
               <p className="mt-3 font-serif text-2xl leading-snug">
                 Girişimcilik ve yenilikçilik alanında geleceğe yön veren; eğitim ve bilim merkezi bir üniversite olmak.
               </p>

@@ -49,7 +49,7 @@ export function CentersDirectory({ centers }: { centers: Center[] }) {
           ))}
         </div>
         <label className="flex h-12 items-center gap-2 rounded-full border border-line bg-white px-4 transition-shadow focus-within:shadow-lg focus-within:shadow-deu/10 lg:w-80">
-          <Search className="size-4 text-ink/40" />
+          <Search className="size-4 text-ink/65" />
           <input
             value={query}
             onChange={(e) => setQuery(e.target.value)}
@@ -59,7 +59,7 @@ export function CentersDirectory({ centers }: { centers: Center[] }) {
         </label>
       </div>
 
-      <p className="mt-6 text-sm text-ink/45">
+      <p className="mt-6 text-sm text-ink/65">
         <motion.span key={list.length} initial={{ opacity: 0, y: -6 }} animate={{ opacity: 1, y: 0 }} className="inline-block font-semibold text-deu">
           {list.length}
         </motion.span>{" "}

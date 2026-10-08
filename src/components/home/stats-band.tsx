@@ -29,7 +29,7 @@ export function StatsBand({ stats }: { stats: Stat[] }) {
               }
             />
             <p className="mt-3 text-sm font-semibold">{s.label}</p>
-            {s.note && <p className="mt-1 text-xs leading-relaxed text-ink/50">{s.note}</p>}
+            {s.note && <p className="mt-1 text-xs leading-relaxed text-ink/70">{s.note}</p>}
           </StaggerItem>
         ))}
       </Stagger>

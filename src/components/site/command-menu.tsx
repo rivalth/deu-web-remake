@@ -84,12 +84,12 @@ export function CommandMenu({
                     ref={inputRef}
                     autoFocus
                     placeholder="Fakülte, haber, duyuru ara…"
-                    className="h-16 flex-1 bg-transparent text-lg outline-none placeholder:text-ink/35 focus-visible:outline-none"
+                    className="h-16 flex-1 bg-transparent text-lg outline-none placeholder:text-ink/65 focus-visible:outline-none"
                   />
-                  <kbd className="rounded-md border border-line px-2 py-1 text-[11px] text-ink/50">ESC</kbd>
+                  <kbd className="rounded-md border border-line px-2 py-1 text-[11px] text-ink/70">ESC</kbd>
                 </div>
                 <Command.List className="max-h-[55vh] overflow-y-auto overscroll-contain p-2" data-lenis-prevent>
-                  <Command.Empty className="px-4 py-12 text-center text-sm text-ink/50">
+                  <Command.Empty className="px-4 py-12 text-center text-sm text-ink/70">
                     Sonuç bulunamadı. Farklı bir kelime deneyin.
                   </Command.Empty>
                   {GROUPS.map((group) => {
@@ -98,7 +98,7 @@ export function CommandMenu({
                       <Command.Group
                         key={group}
                         heading={group}
-                        className="[&_[cmdk-group-heading]]:px-3 [&_[cmdk-group-heading]]:pb-1 [&_[cmdk-group-heading]]:pt-3 [&_[cmdk-group-heading]]:text-[11px] [&_[cmdk-group-heading]]:font-semibold [&_[cmdk-group-heading]]:uppercase [&_[cmdk-group-heading]]:tracking-[0.22em] [&_[cmdk-group-heading]]:text-ink/40"
+                        className="[&_[cmdk-group-heading]]:px-3 [&_[cmdk-group-heading]]:pb-1 [&_[cmdk-group-heading]]:pt-3 [&_[cmdk-group-heading]]:text-[11px] [&_[cmdk-group-heading]]:font-semibold [&_[cmdk-group-heading]]:uppercase [&_[cmdk-group-heading]]:tracking-[0.22em] [&_[cmdk-group-heading]]:text-ink/65"
                       >
                         {items
                           .filter((i) => i.group === group)
@@ -114,7 +114,7 @@ export function CommandMenu({
                               </span>
                               <span className="min-w-0 flex-1">
                                 <span className="block truncate font-medium">{item.title}</span>
-                                {item.hint && <span className="block truncate text-xs text-ink/45">{item.hint}</span>}
+                                {item.hint && <span className="block truncate text-xs text-ink/65">{item.hint}</span>}
                               </span>
                               {item.href.startsWith("http") ? (
                                 <ArrowUpRight className="size-4 opacity-0 group-data-[selected=true]:opacity-100" />
@@ -127,7 +127,7 @@ export function CommandMenu({
                     );
                   })}
                 </Command.List>
-                <div className="flex items-center justify-between border-t border-line px-5 py-3 text-xs text-ink/45">
+                <div className="flex items-center justify-between border-t border-line px-5 py-3 text-xs text-ink/65">
                   <span>↑↓ gezin · ↵ aç</span>
                   <span>
                     <kbd className="font-sans">/</kbd> veya <kbd className="font-sans">⌘K</kbd> ile her yerden açın
