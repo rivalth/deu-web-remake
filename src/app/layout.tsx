@@ -1,5 +1,4 @@
 import type { Metadata, Viewport } from "next";
-import { Instrument_Serif, Montserrat } from "next/font/google";
 import { Footer } from "@/components/site/footer";
 import { Header } from "@/components/site/header";
 import { Providers } from "@/components/site/providers";
@@ -7,22 +6,15 @@ import { ScrollProgress } from "@/components/site/scroll-progress";
 import { getAnnouncements, getNews, getSite, getUnits, UNIT_GROUPS } from "@/lib/content";
 import { ABOUT_LINKS, RESEARCH_LINKS, type SearchItem } from "@/lib/nav";
 import { formatDate } from "@/lib/text";
+// self-hosted fonts (no build-time fetch); unicode-range keeps Turkish glyphs in latin-ext
+import "@fontsource-variable/montserrat/wght.css";
+import "@fontsource/instrument-serif/400.css";
+import "@fontsource/instrument-serif/400-italic.css";
 import "./globals.css";
 
-const montserrat = Montserrat({
-  variable: "--font-montserrat",
-  subsets: ["latin", "latin-ext"],
-});
-
-const instrument = Instrument_Serif({
-  variable: "--font-instrument",
-  subsets: ["latin", "latin-ext"],
-  weight: "400",
-  style: ["normal", "italic"],
-});
-
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000"),
+  // URL is set by Netlify at build time
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? process.env.URL ?? "http://localhost:3000"),
   title: {
     default: "Dokuz Eylül Üniversitesi",
     template: "%s · Dokuz Eylül Üniversitesi",
@@ -89,7 +81,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   ];
 
   return (
-    <html lang="tr" className={`${montserrat.variable} ${instrument.variable} antialiased`}>
+    <html lang="tr" className="antialiased">
       <body className="flex min-h-dvh flex-col font-sans">
         <a
           href="#icerik"

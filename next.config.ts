@@ -3,6 +3,10 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   cacheComponents: true,
   partialPrefetching: true,
+  // content/ is read with fs at render time; make sure serverless bundles include it
+  outputFileTracingIncludes: {
+    "/**": ["./content/**/*.md", "./content/**/*.json"],
+  },
   images: {
     qualities: [75, 85],
     localPatterns: [

@@ -11,6 +11,14 @@ pnpm dev
 
 **Yığın:** Next.js 16 (App Router, Cache Components), Tailwind CSS 4, Motion (animasyon), Lenis (yumuşak kaydırma), cmdk (⌘K arama).
 
+## Deploy (Netlify)
+
+Repo Netlify'a bağlanınca ek ayar gerekmez: [`netlify.toml`](netlify.toml) build komutunu (`pnpm build`), Node 22'yi ve statik varlık cache başlıklarını tanımlar; Next.js, Netlify'ın OpenNext adapter'ı ile otomatik algılanır (Cache Components, PPR ve `next/image` → Netlify Image CDN desteklenir).
+
+- Fontlar `@fontsource` paketleriyle self-host edilir; build sırasında dış servise istek atılmaz.
+- `content/` sunucu tarafında `fs` ile okunduğu için `next.config.ts` içindeki `outputFileTracingIncludes` ile fonksiyon paketine eklenir.
+- `metadataBase`, Netlify'ın verdiği `URL` değişkeninden gelir; özel alan adı için `NEXT_PUBLIC_SITE_URL` tanımlanabilir.
+
 ## Klasörler
 
 - `src/app` — sayfalar: ana sayfa, `/haberler`, `/duyurular`, `/akademik`, `/arastirma`, `/hakkimizda`, `/sayilarla`
