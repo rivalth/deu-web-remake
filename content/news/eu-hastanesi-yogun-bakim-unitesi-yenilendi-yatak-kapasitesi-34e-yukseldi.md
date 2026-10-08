@@ -8,7 +8,7 @@ source: "https://haber.deu.edu.tr/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yat
 
 ![](/images/news/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-4-54b48b.jpeg)
 
-*![](/images/news/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-6-300x200-2f5c4c.jpeg)Dokuz Eylül Üniversitesi Hastanesi bünyesinde yenilenen Yoğun Bakım Ünitesi düzenlenen törenle hizmete açıldı. Modernize edilen ünitenin yatak kapasitesi 18’den 30+4’e yükseltilerek bölgenin sağlık altyapısına önemli katkı sağlandı.*
+*![](/images/news/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-6-9ae620.jpeg)Dokuz Eylül Üniversitesi Hastanesi bünyesinde yenilenen Yoğun Bakım Ünitesi düzenlenen törenle hizmete açıldı. Modernize edilen ünitenin yatak kapasitesi 18’den 30+4’e yükseltilerek bölgenin sağlık altyapısına önemli katkı sağlandı.*
 
 Dokuz Eylül Üniversitesi Hastanesi bünyesinde yenilenen Yoğun Bakım Ünitesinin açılışı gerçekleştirildi. Modern  tıbbi altyapı ve ileri teknolojiyle donatılan ünitenin açılış programına; DEÜ Rektörü Prof. Dr. Bayram Yılmaz, İzmir  
 İl Sağlık Müdürü Doç. Dr. Ayhan Kul, Rektör Yardımcısı ve Hastane Başhekim Vekili Prof. Dr. Mehmet Birhan  
@@ -32,8 +32,8 @@ Yeni yoğun bakım ünitesinin özellikle bölgesel sağlık ihtiyaçlarına yan
 
 Dokuz Eylül Üniversitesi Hastanesi bünyesinde hizmet vermeye başlayan yenilenmiş Yoğun Bakım Ünitesi’nin, başta İzmir olmak üzere Ege Bölgesi’ndeki sağlık hizmetlerinin güçlenmesine önemli katkılar sunması bekleniyor.
 
-[![](/images/news/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-4-357x210-236b83.jpeg)](https://haber.deu.edu.tr/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-4/)
-[![](/images/news/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-357x210-1769f6.jpeg)](https://haber.deu.edu.tr/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi/)
-[![](/images/news/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-5-357x210-691669.jpeg)](https://haber.deu.edu.tr/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-5/)
-[![](/images/news/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-2-357x210-725eab.jpeg)](https://haber.deu.edu.tr/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-2/)
-[![](/images/news/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-6-357x210-165e0a.jpeg)](https://haber.deu.edu.tr/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-6/)
+![](/images/news/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-4-54b48b.jpeg)
+![](/images/news/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-5f9863.jpeg)
+![](/images/news/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-5-fb7631.jpeg)
+![](/images/news/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-2-c943b8.jpeg)
+![](/images/news/eu-hastanesi-yogun-bakim-unitesi-yenilendi-yatak-kapasitesi-34e-yukseldi/deu-hastanesi-yogun-bakim-unitesi-yenilendi-6-9ae620.jpeg)

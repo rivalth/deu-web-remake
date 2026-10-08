@@ -40,6 +40,6 @@ Fizik Tedavi ve Rehabilitasyon Fakültesinde de 2026-2027 Akademik Yılı Açıl
 
 Törende, fakülteye en yüksek puanla yerleşen ilk üç öğrenciye belgeleri takdim edildi. Program kapsamında ayrıca öğrencilerin mesleki eğitim yolculuklarının ilk adımını simgeleyen önlük giyme seremonisi gerçekleştirildi.
 
-[![](/images/news/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi-3-357x210-1d9834.jpeg)](https://haber.deu.edu.tr/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi-3/)
-[![](/images/news/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi-2-357x210-a494e6.jpeg)](https://haber.deu.edu.tr/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi-2/)
-[![](/images/news/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi-1-357x210-8dbc7c.jpeg)](https://haber.deu.edu.tr/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi-1/)
+![](/images/news/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi-3-711a24.jpeg)
+![](/images/news/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi-2-46ba1a.jpeg)
+![](/images/news/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi/deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi-1-591292.jpeg)

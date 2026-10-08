@@ -26,8 +26,8 @@ Kaliteli bir eğitim, güçlü bir yabancı dil altyapısı ve araştırmacı ki
 
 Fuar boyunca büyük özveriyle görev yapan, emeğiyle katkı sunan tüm akademik ve idari personelimize teşekkür ediyor, tercih yapacak tüm aday öğrencilerimize başarılar diliyorum.”
 
-[![](/images/news/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-3-357x210-1ad27e.jpeg)](https://haber.deu.edu.tr/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-3/)
-[![](/images/news/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-2-357x210-53ebb5.jpeg)](https://haber.deu.edu.tr/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-2/)
-[![](/images/news/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-4-357x210-129c5b.jpeg)](https://haber.deu.edu.tr/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-4/)
-[![](/images/news/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-5-357x210-b83acf.jpeg)](https://haber.deu.edu.tr/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-5/)
-[![](/images/news/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-1-357x210-6c7196.jpeg)](https://haber.deu.edu.tr/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-1/)
+![](/images/news/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-3-5f5bf3.jpeg)
+![](/images/news/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-2-6581cf.jpeg)
+![](/images/news/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-4-aba395.jpeg)
+![](/images/news/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-5-434264.jpeg)
+![](/images/news/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu/deu-izmir-universite-tercih-fuarinda-aday-ogrencilerle-bulustu-1-3b172a.jpeg)

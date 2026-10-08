@@ -8,7 +8,7 @@ source: "https://haber.deu.edu.tr/deu-ile-tei-arasinda-stratejik-is-birligi-adim
 
 ![](/images/news/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-4-1c334c.jpeg)
 
-*![](/images/news/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-1-300x223-bbde78.jpeg)Dokuz Eylül Üniversitesi Rektör Yardımcısı Prof. Dr. Hamdi Şükür Kılıç ve beraberindeki heyet, TEI – TUSAŞ D-Motor Sanayii A.Ş.’yi ziyaret eti.*
+*![](/images/news/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-1-e5c9f7.jpeg)Dokuz Eylül Üniversitesi Rektör Yardımcısı Prof. Dr. Hamdi Şükür Kılıç ve beraberindeki heyet, TEI – TUSAŞ D-Motor Sanayii A.Ş.’yi ziyaret eti.*
 
 Dokuz Eylül Üniversitesi (DEÜ), üniversite-sanayi iş birliklerini güçlendirme hedefi doğrultusunda önemli bir temasa daha imza attı. DEÜ Rektörü Prof. Dr. Bayram Yılmaz’ın tensipleriyle gerçekleştirilen ziyarette, Dokuz Eylül Üniversitesi Rektör Yardımcısı Prof. Dr. Hamdi Şükür Kılıç başkanlığındaki heyet, TEI – TUSAŞ Motor Sanayii A.Ş.’yi ziyaret ederek iki kurum arasında geliştirilebilecek iş birliği olanaklarını değerlendirdi.
 
@@ -38,7 +38,7 @@ Dokuz Eylül Üniversitesi, eğitim, araştırma ve inovasyon alanlarındaki bir
 
 DEÜ, bilgi üretimini ekonomik ve toplumsal değere dönüştüren projeleri desteklemeyi, öğrencileri ve araştırmacıları için yeni imkânlar sağlayacak stratejik ortaklıklar geliştirmeyi ve üniversite-sanayi iş birliğini güçlendirmeyi kararlılıkla sürdürüyor.
 
-[![](/images/news/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-1-357x210-d88743.jpeg)](https://haber.deu.edu.tr/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-1/)
-[![](/images/news/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-2-357x210-79b4ba.jpeg)](https://haber.deu.edu.tr/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-2/)
-[![](/images/news/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-3-357x210-29de71.jpeg)](https://haber.deu.edu.tr/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-3/)
-[![](/images/news/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-4-357x210-fc082e.jpeg)](https://haber.deu.edu.tr/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-4/)
+![](/images/news/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-1-e5c9f7.jpeg)
+![](/images/news/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-2-564ba7.jpeg)
+![](/images/news/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-3-029f25.jpeg)
+![](/images/news/deu-ile-tei-arasinda-stratejik-is-birligi-adimi/deu-ile-tei-arasinda-stratejik-is-birligi-adimi-4-1c334c.jpeg)

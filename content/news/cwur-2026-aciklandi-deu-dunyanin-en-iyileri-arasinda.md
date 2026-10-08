@@ -8,7 +8,7 @@ source: "https://haber.deu.edu.tr/cwur-2026-aciklandi-deu-dunyanin-en-iyileri-ar
 
 ![](/images/news/cwur-2026-aciklandi-deu-dunyanin-en-iyileri-arasinda/deu-dunya-universiteler-siralamasinda-en-iyi-yuzde-57lik-dilimde-yer-aldi-2-f8354a.jpeg)
 
-*![](/images/news/cwur-2026-aciklandi-deu-dunyanin-en-iyileri-arasinda/deu-dunya-universiteler-siralamasinda-en-iyi-yuzde-57lik-dilimde-yer-aldi-1-300x-60f9a3.jpeg)CWUR 2026 Dünya Üniversite Sıralaması’nda yükselişini sürdüren Dokuz Eylül Üniversitesi, 21 bini aşkın üniversite arasında 1206’ncı sırada yer alarak dünyanın en iyi yüzde 5,7’lik dilimine girmeyi başardı.*
+*![](/images/news/cwur-2026-aciklandi-deu-dunyanin-en-iyileri-arasinda/deu-dunya-universiteler-siralamasinda-en-iyi-yuzde-57lik-dilimde-yer-aldi-1-ff012b.jpeg)CWUR 2026 Dünya Üniversite Sıralaması’nda yükselişini sürdüren Dokuz Eylül Üniversitesi, 21 bini aşkın üniversite arasında 1206’ncı sırada yer alarak dünyanın en iyi yüzde 5,7’lik dilimine girmeyi başardı.*
 
 Dokuz Eylül Üniversitesi (DEÜ), dünyanın saygın yükseköğretim derecelendirme kuruluşlarından Center for World University Rankings (CWUR) tarafından açıklanan 2026 Dünya Üniversite Sıralaması’nda önemli bir başarıya imza attı. Birleşik Arap Emirlikleri merkezli kuruluş tarafından yayımlanan sıralamada DEÜ, dünya genelinde değerlendirilen 21 bin 291 üniversite arasında 1206’ncı sırada yer alarak dünyanın en iyi yüzde 5,7’lik diliminde kendisine yer buldu.
 
@@ -26,6 +26,6 @@ Rektör Prof. Dr. Bayram Yılmaz yaptığı açıklamada şu ifadeleri kullandı
 
 Rektör Prof. Dr. Bayram Yılmaz, bu başarıda emeği geçen çalışma arkadaşlarına teşekkür ederek “Üniversitemizin farklı alanlardaki çalışmalarının uluslararası arenada karşılık bulduğunu görmek bizler için gurur verici. Bu başarıda emeği geçen tüm mensuplarımıza kurumum ve şahsım adına teşekkür ediyorum,” ifadelerini kullandı.
 
-[![](/images/news/cwur-2026-aciklandi-deu-dunyanin-en-iyileri-arasinda/deu-dunya-universiteler-siralamasinda-en-iyi-yuzde-57lik-dilimde-yer-aldi-1-357x-505a0b.jpg)](https://haber.deu.edu.tr/cwur-2026-aciklandi-deu-dunyanin-en-iyileri-arasinda/deu-dunya-universiteler-siralamasinda-en-iyi-yuzde-57lik-dilimde-yer-aldi-1-2/)
-[![](/images/news/cwur-2026-aciklandi-deu-dunyanin-en-iyileri-arasinda/deu-dunya-universiteler-siralamasinda-en-iyi-yuzde-57lik-dilimde-yer-aldi-1-357x-55e99e.jpeg)](https://haber.deu.edu.tr/cwur-2026-aciklandi-deu-dunyanin-en-iyileri-arasinda/deu-dunya-universiteler-siralamasinda-en-iyi-yuzde-57lik-dilimde-yer-aldi-1/)
-[![](/images/news/cwur-2026-aciklandi-deu-dunyanin-en-iyileri-arasinda/deu-dunya-universiteler-siralamasinda-en-iyi-yuzde-57lik-dilimde-yer-aldi-2-357x-2a83ed.jpeg)](https://haber.deu.edu.tr/cwur-2026-aciklandi-deu-dunyanin-en-iyileri-arasinda/deu-dunya-universiteler-siralamasinda-en-iyi-yuzde-57lik-dilimde-yer-aldi-2/)
+![](/images/news/cwur-2026-aciklandi-deu-dunyanin-en-iyileri-arasinda/deu-dunya-universiteler-siralamasinda-en-iyi-yuzde-57lik-dilimde-yer-aldi-1-0a0eec.jpg)
+![](/images/news/cwur-2026-aciklandi-deu-dunyanin-en-iyileri-arasinda/deu-dunya-universiteler-siralamasinda-en-iyi-yuzde-57lik-dilimde-yer-aldi-1-ff012b.jpeg)
+![](/images/news/cwur-2026-aciklandi-deu-dunyanin-en-iyileri-arasinda/deu-dunya-universiteler-siralamasinda-en-iyi-yuzde-57lik-dilimde-yer-aldi-2-f8354a.jpeg)

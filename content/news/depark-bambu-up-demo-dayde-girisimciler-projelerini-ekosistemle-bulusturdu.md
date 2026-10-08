@@ -8,7 +8,7 @@ source: "https://haber.deu.edu.tr/depark-bambu-up-demo-dayde-girisimciler-projel
 
 ![](/images/news/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu-3-e8cdac.jpg)
 
-*![](/images/news/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu-1-300-bff7bd.jpg)Dokuz Eylül Üniversitesi Teknoparkı (DEPARK) bünyesinde faaliyet gösteren BAMBU Girişim Ofisi tarafından düzenlenen BAMBU UP Demo Day etkinliğinde, girişimcilik programlarına katılan girişimciler geliştirdikleri projeleri yatırımcılar, sektör temsilcileri ve ekosistem paydaşlarının beğenisine* sundu.
+*![](/images/news/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu-1-4b50a2.jpg)Dokuz Eylül Üniversitesi Teknoparkı (DEPARK) bünyesinde faaliyet gösteren BAMBU Girişim Ofisi tarafından düzenlenen BAMBU UP Demo Day etkinliğinde, girişimcilik programlarına katılan girişimciler geliştirdikleri projeleri yatırımcılar, sektör temsilcileri ve ekosistem paydaşlarının beğenisine* sundu.
 
 15 Temmuz Şehitler Salonu’nda gerçekleştirilen etkinliğe; Dokuz Eylül Üniversitesi Rektör Yardımcısı Prof. Dr. Hamdi Şükür Kılıç, T.C. Sanayi ve Teknoloji Bakanlığı İzmir İl Müdürü Hakan Topaç, KOSGEB İzmir İl Müdürü Levent Arslan, DEPARK Genel Müdürü Prof. Dr. Zeki Atıl Bulut, akademisyenler, girişimciler ve öğrenciler katıldı.
 
@@ -32,6 +32,6 @@ Programa başvuran 93 girişimci arasından 36’sı BAMBU Speed Up Programı’
 
 Program, katılımcılara plaket takdimi ve toplu fotoğraf çekiminin ardından girişimcilerin proje sunumlarıyla devam etti. Girişimciler, geliştirdikleri yenilikçi çözümleri tanıtarak projelerine ilişkin bilgi paylaşımında bulundu.
 
-[![](/images/news/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu-2-357-200d67.jpg)](https://haber.deu.edu.tr/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu-2/)
-[![](/images/news/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu-3-357-c12753.jpg)](https://haber.deu.edu.tr/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu-3/)
-[![](/images/news/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu-1-357-7cbfba.jpg)](https://haber.deu.edu.tr/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu-1/)
+![](/images/news/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu-2-96eddc.jpg)
+![](/images/news/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu-3-e8cdac.jpg)
+![](/images/news/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu/depark-bambu-up-demo-dayde-girisimciler-projelerini-ekosistemle-bulusturdu-1-4b50a2.jpg)

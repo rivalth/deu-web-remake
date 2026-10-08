@@ -38,5 +38,5 @@ Aday öğrenciler ve aileleri, iki gün sürecek program boyunca üniversite ya�
 **Yer:** Dokuz Eylül Üniversitesi Rektörlük Binası, 15 Temmuz Şehitler Salonu  
 **Canlı Yayın:** DEÜ Web TV YouTube Kanalı
 
-[![](/images/news/deude-tanitim-ve-tercih-gunleri-basliyor-2/deude-tanitim-ve-tercih-gunleri-basliyor-2-357x210-dda08c.jpeg)](https://haber.deu.edu.tr/deude-tanitim-ve-tercih-gunleri-basliyor-2/deude-tanitim-ve-tercih-gunleri-basliyor-2-2/)
-[![](/images/news/deude-tanitim-ve-tercih-gunleri-basliyor-2/deude-tanitim-ve-tercih-gunleri-basliyor-357x210-9f7efe.jpeg)](https://haber.deu.edu.tr/deude-tanitim-ve-tercih-gunleri-basliyor-2/deude-tanitim-ve-tercih-gunleri-basliyor-2/)
+![](/images/news/deude-tanitim-ve-tercih-gunleri-basliyor-2/deude-tanitim-ve-tercih-gunleri-basliyor-2-082f92.jpeg)
+![](/images/news/deude-tanitim-ve-tercih-gunleri-basliyor-2/deude-tanitim-ve-tercih-gunleri-basliyor-ea7f40.jpeg)

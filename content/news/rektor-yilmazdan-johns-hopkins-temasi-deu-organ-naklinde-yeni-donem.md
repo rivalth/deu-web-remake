@@ -30,6 +30,6 @@ Bu kapsamda yürütülen uluslararası akademik temasların yalnızca bilimsel i
 
 Johns Hopkins Üniversitesi Tıp Fakültesinde görev yapan Prof. Dr. Ahmet Gürakar; karaciğer nakli, hepatoloji, viral hepatitler ve ileri karaciğer hastalıkları alanlarında yürüttüğü çalışmalarla uluslararası düzeyde tanınan bilim insanları arasında yer alıyor.
 
-[![](/images/news/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem-1-357x210-72aa65.jpeg)](https://haber.deu.edu.tr/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem-1/)
-[![](/images/news/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem-2-357x210-0e39e8.jpeg)](https://haber.deu.edu.tr/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem-2/)
-[![](/images/news/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem-3-357x210-cda9f4.jpeg)](https://haber.deu.edu.tr/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem-3/)
+![](/images/news/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem-1-562adf.jpeg)
+![](/images/news/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem-2-a2c58b.jpeg)
+![](/images/news/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem/rektor-yilmazdan-johns-hopkins-temasi-deu-organ-naklinde-yeni-donem-3-33bf91.jpeg)

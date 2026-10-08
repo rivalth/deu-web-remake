@@ -38,7 +38,7 @@ Programın sonunda gerçekleştirilen geleneksel kep atma töreninde öğrencile
 
 Renkli görüntülere sahne olan törende öğrenciler arkadaşları ve akademisyenleriyle hatıra fotoğrafları çektirdi. Büyük bir coşku içerisinde tamamlanan mezuniyet programı, toplu fotoğraf çekiminin ardından sona erdi.
 
-[![](/images/news/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu-2-357x210-c5e9d4.jpg)](https://haber.deu.edu.tr/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu-2/)
-[![](/images/news/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu-3-357x210-d336e9.jpg)](https://haber.deu.edu.tr/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu-3/)
-[![](/images/news/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu-4-357x210-366d36.jpg)](https://haber.deu.edu.tr/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu-4/)
-[![](/images/news/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu-1-357x210-d85a4b.jpg)](https://haber.deu.edu.tr/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu-1/)
+![](/images/news/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu-2-e70a51.jpg)
+![](/images/news/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu-3-ddd187.jpg)
+![](/images/news/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu-4-7d96e5.jpg)
+![](/images/news/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu/deu-hukuk-fakultesi-ve-adalet-myoda-mezuniyet-coskusu-1-02fc13.jpg)

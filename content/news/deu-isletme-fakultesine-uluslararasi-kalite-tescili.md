@@ -8,7 +8,7 @@ source: "https://haber.deu.edu.tr/deu-isletme-fakultesine-uluslararasi-kalite-te
 
 ![](/images/news/deu-isletme-fakultesine-uluslararasi-kalite-tescili/deu-isletme-fakultesine-uluslararasi-kalite-tescili-c098a2.png)
 
-![](/images/news/deu-isletme-fakultesine-uluslararasi-kalite-tescili/deu-isletme-fakultesine-uluslararasi-kalite-tescili-300x101-2bfd09.jpeg)Dokuz Eylül Üniversitesi İşletme Fakültesi, dünyanın en saygın işletme eğitimi akreditasyonlarından AACSB’yi alarak Türkiye’de bu başarıya ulaşan sayılı devlet üniversiteleri arasındaki yerini aldı.
+![](/images/news/deu-isletme-fakultesine-uluslararasi-kalite-tescili/deu-isletme-fakultesine-uluslararasi-kalite-tescili-85256a.jpeg)Dokuz Eylül Üniversitesi İşletme Fakültesi, dünyanın en saygın işletme eğitimi akreditasyonlarından AACSB’yi alarak Türkiye’de bu başarıya ulaşan sayılı devlet üniversiteleri arasındaki yerini aldı.
 
 Dokuz Eylül Üniversitesi (DEÜ) İşletme Fakültesi, işletme eğitimi alanında dünyanın en köklü ve saygın akreditasyon kuruluşlarından biri olan AACSB (Association to Advance Collegiate Schools of Business) tarafından akredite edildi. Bu önemli başarıyla DEÜ, Türkiye’de AACSB akreditasyonuna sahip üç devlet üniversitesinden ve dört vakıf üniversitesinden biri olarak uluslararası kalite standartlarını karşıladığını tescilledi.
 

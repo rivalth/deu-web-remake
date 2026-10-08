@@ -107,7 +107,7 @@ def shrink(data: bytes, ext: str) -> bytes:
         if ext == "png":
             img.save(out, "PNG", optimize=True)
         else:
-            img.convert("RGB").save(out, "JPEG", quality=80, optimize=True, progressive=True)
+            img.convert("RGB").save(out, "JPEG", quality=78, optimize=True, progressive=True)
         return out.getvalue() if out.tell() < len(data) else data
     except OSError:
         return data
@@ -122,11 +122,23 @@ def frontmatter(meta: dict) -> str:
     return "\n".join(lines) + "\n---\n\n"
 
 
+WP_SIZE = re.compile(r"-\d{2,4}x\d{2,4}(?=\.\w+$)")
+
+
 def to_markdown(node, img_dir: Path, base: str) -> tuple[str, list[str]]:
     images = []
     for img in node.find_all("img"):
         src = img.get("data-src") or img.get("src")
-        local = download(urljoin(base, src), img_dir) if src else None
+        if not src:
+            continue
+        url = urljoin(base, src)
+        # WordPress thumbnails (foo-357x210.jpg): fetch the original instead
+        full = WP_SIZE.sub("", url)
+        local = (download(full, img_dir) if full != url else None) or download(url, img_dir)
+        # unwrap thumbnail links that only point to attachment pages
+        parent = img.parent
+        if parent and parent.name == "a" and len(parent.find_all(True)) == 1 and not parent.get_text(strip=True):
+            parent.replace_with(img)
         if local:
             images.append(local)
             img["src"] = "/" + local

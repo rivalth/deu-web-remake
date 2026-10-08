@@ -20,7 +20,7 @@ Dokuz Eylül Üniversitesini temsilen Şûra’ya Genel Sekreter Vekili Prof. Dr
 
 Dokuz Eylül Üniversitesi, ulusal düzeyde düzenlenen bu tür organizasyonlara aktif katılım sağlayarak iletişim alanındaki gelişmeleri yakından izlemeyi, kurumsal iletişim kapasitesini güçlendirmeyi ve kamu iletişimi alanındaki iyi uygulamaları kurumsal süreçlerine yansıtmayı sürdürüyor.
 
-[![](/images/news/deu-2-iletisim-surasinda-yerini-aldi/deu-2-iletisim-s-rasinda-yerini-aldi-1-357x210-977652.jpeg)](https://haber.deu.edu.tr/deu-2-iletisim-surasinda-yerini-aldi/deu-2-iletisim-surasinda-yerini-aldi-1/)
-[![](/images/news/deu-2-iletisim-surasinda-yerini-aldi/deu-2-iletisim-s-rasinda-yerini-aldi-1-357x210-5fa523.jpg)](https://haber.deu.edu.tr/deu-2-iletisim-surasinda-yerini-aldi/deu-2-iletisim-surasinda-yerini-aldi-1-2/)
-[![](/images/news/deu-2-iletisim-surasinda-yerini-aldi/deu-2-iletisim-s-rasinda-yerini-aldi-2-357x210-68013e.jpg)](https://haber.deu.edu.tr/deu-2-iletisim-surasinda-yerini-aldi/deu-2-iletisim-surasinda-yerini-aldi-2/)
-[![](/images/news/deu-2-iletisim-surasinda-yerini-aldi/deu-2-iletisim-s-rasinda-yerini-aldi-357x210-e9d122.jpg)](https://haber.deu.edu.tr/deu-2-iletisim-surasinda-yerini-aldi/deu-2-iletisim-surasinda-yerini-aldi/)
+![](/images/news/deu-2-iletisim-surasinda-yerini-aldi/deu-2-iletisim-s-rasinda-yerini-aldi-1-4c931e.jpeg)
+![](/images/news/deu-2-iletisim-surasinda-yerini-aldi/deu-2-iletisim-s-rasinda-yerini-aldi-1-e45a5e.jpg)
+![](/images/news/deu-2-iletisim-surasinda-yerini-aldi/deu-2-iletisim-s-rasinda-yerini-aldi-2-e1ffa4.jpg)
+![](/images/news/deu-2-iletisim-surasinda-yerini-aldi/deu-2-iletisim-s-rasinda-yerini-aldi-907410.jpg)

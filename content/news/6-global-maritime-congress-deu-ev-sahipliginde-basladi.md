@@ -22,7 +22,7 @@ Farklı ülkelerden akademisyenleri, araştırmacıları, kamu kurumlarının te
 
 Kongre, denizcilik sektöründeki dönüşümün akademik, teknolojik ve sektörel boyutlarının değerlendirilmesine ve uluslararası ölçekte bilgi ve deneyim paylaşımının güçlendirilmesine yönelik oturumlarla devam ediyor.
 
-[![](/images/news/6-global-maritime-congress-deu-ev-sahipliginde-basladi/6-global-maritime-congress-deu-ev-sahipliginde-basladi-4-357x210-0785cf.jpeg)](https://haber.deu.edu.tr/6-global-maritime-congress-deu-ev-sahipliginde-basladi/6-global-maritime-congress-deu-ev-sahipliginde-basladi-4/)
-[![](/images/news/6-global-maritime-congress-deu-ev-sahipliginde-basladi/6-global-maritime-congress-deu-ev-sahipliginde-basladi-1-357x210-dd2c19.jpeg)](https://haber.deu.edu.tr/6-global-maritime-congress-deu-ev-sahipliginde-basladi/6-global-maritime-congress-deu-ev-sahipliginde-basladi-1/)
-[![](/images/news/6-global-maritime-congress-deu-ev-sahipliginde-basladi/6-global-maritime-congress-deu-ev-sahipliginde-basladi-2-357x210-9967dc.jpeg)](https://haber.deu.edu.tr/6-global-maritime-congress-deu-ev-sahipliginde-basladi/6-global-maritime-congress-deu-ev-sahipliginde-basladi-2/)
-[![](/images/news/6-global-maritime-congress-deu-ev-sahipliginde-basladi/6-global-maritime-congress-deu-ev-sahipliginde-basladi-3-357x210-8d188a.jpeg)](https://haber.deu.edu.tr/6-global-maritime-congress-deu-ev-sahipliginde-basladi/6-global-maritime-congress-deu-ev-sahipliginde-basladi-3/)
+![](/images/news/6-global-maritime-congress-deu-ev-sahipliginde-basladi/6-global-maritime-congress-deu-ev-sahipliginde-basladi-4-de068a.jpeg)
+![](/images/news/6-global-maritime-congress-deu-ev-sahipliginde-basladi/6-global-maritime-congress-deu-ev-sahipliginde-basladi-1-b052e0.jpeg)
+![](/images/news/6-global-maritime-congress-deu-ev-sahipliginde-basladi/6-global-maritime-congress-deu-ev-sahipliginde-basladi-2-22b838.jpeg)
+![](/images/news/6-global-maritime-congress-deu-ev-sahipliginde-basladi/6-global-maritime-congress-deu-ev-sahipliginde-basladi-3-94e972.jpeg)

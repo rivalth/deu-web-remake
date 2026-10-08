@@ -8,7 +8,7 @@ source: "https://haber.deu.edu.tr/deude-akademik-dergiler-acik-erisim-ve-yapay-z
 
 ![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-4-e7df4e.jpeg)
 
-*![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-3-300x-77fd2a.jpeg)Dokuz Eylül Üniversitesinin (DEÜ) bilimsel, akademik ve toplumsal konuların ele alındığı etkinlik serisi DEÜ Konferansları kapsamında düzenlenen “Akademik Dergiler, Açık Erişim ve Yapay Zekâ” başlıklı konferansta, TÜBİTAK ULAKBİM Müdürü Mehmet Mirat Satoğlu öğrenciler ve akademisyenlerle bir araya geldi.*
+*![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-3-389dd7.jpeg)Dokuz Eylül Üniversitesinin (DEÜ) bilimsel, akademik ve toplumsal konuların ele alındığı etkinlik serisi DEÜ Konferansları kapsamında düzenlenen “Akademik Dergiler, Açık Erişim ve Yapay Zekâ” başlıklı konferansta, TÜBİTAK ULAKBİM Müdürü Mehmet Mirat Satoğlu öğrenciler ve akademisyenlerle bir araya geldi.*
 
 Dokuz Eylül Üniversitesi tarafından hayata geçirilen DEÜ Konferansları’nın ikinci konuğu TÜBİTAK ULAKBİM Müdürü Mehmet Mirat Satoğlu oldu. DEÜ Mühendislik Fakültesi Konferans Salonu’nda gerçekleştirilen programda, akademik dergilerin gelişim süreci, bilimsel yayıncılık ekosistemi, açık erişim politikaları ve dijital dönüşümün akademik iletişim üzerindeki etkileri ele alındı.
 
@@ -32,9 +32,9 @@ Programda ayrıca yapay zekâ teknolojilerinin araştırma süreçlerinde kullan
 
 Yoğun ilgi gören konferans, katılımcıların sorularının yanıtlandığı soru-cevap bölümünün ardından toplu fotoğraf çekimi ile sona erdi.
 
-[![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-5-357x-a5bc99.jpeg)](https://haber.deu.edu.tr/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-_akademik-dergiler-acik-erisim-ve-yapay-zeka_-konusuldu-5/)
-[![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-6-357x-e359d4.jpeg)](https://haber.deu.edu.tr/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-_akademik-dergiler-acik-erisim-ve-yapay-zeka_-konusuldu-6/)
-[![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-1-357x-c649ca.jpeg)](https://haber.deu.edu.tr/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-_akademik-dergiler-acik-erisim-ve-yapay-zeka_-konusuldu-1/)
-[![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-2-357x-c7bb1e.jpeg)](https://haber.deu.edu.tr/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-_akademik-dergiler-acik-erisim-ve-yapay-zeka_-konusuldu-2/)
-[![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-3-357x-007b50.jpeg)](https://haber.deu.edu.tr/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-_akademik-dergiler-acik-erisim-ve-yapay-zeka_-konusuldu-3/)
-[![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-4-357x-703117.jpeg)](https://haber.deu.edu.tr/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-_akademik-dergiler-acik-erisim-ve-yapay-zeka_-konusuldu-4/)
+![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-5-72f7ca.jpeg)
+![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-6-07bacd.jpeg)
+![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-1-bce2e6.jpeg)
+![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-2-d609a0.jpeg)
+![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-3-389dd7.jpeg)
+![](/images/news/deude-akademik-dergiler-acik-erisim-ve-yapay-zeka-konusuldu/deu-konferanslarinda-akademik-dergiler-acik-erisim-ve-yapay-zek-konusuldu-4-e7df4e.jpeg)

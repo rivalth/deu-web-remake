@@ -8,7 +8,7 @@ source: "https://haber.deu.edu.tr/deu-talksun-4-konugu-tuna-ortayli-oldu/"
 
 ![](/images/news/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-4-49efa6.jpeg)
 
-***![](/images/news/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-5-300x200-692bc1.jpeg)Kültür yönetimi, müzecilik ve sanat projeleri alanındaki çalışmalarıyla tanınan Tuna Ortaylı, Dokuz Eylül Üniversitesinin (DEÜ) düzenlediği “DEÜ Talks” etkinliğinde öğrenciler ve akademisyenlerle bir araya geldi.***
+***![](/images/news/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-5-1ddf26.jpeg)Kültür yönetimi, müzecilik ve sanat projeleri alanındaki çalışmalarıyla tanınan Tuna Ortaylı, Dokuz Eylül Üniversitesinin (DEÜ) düzenlediği “DEÜ Talks” etkinliğinde öğrenciler ve akademisyenlerle bir araya geldi.***
 
 Dokuz Eylül Üniversitesi, alanında uzman isimleri akademi dünyasıyla buluşturmaya devam ediyor. DEÜ Talks etkinlikleri kapsamında kültür yönetimi, müzecilik ve sanat projeleri alanındaki çalışmalarıyla tanınan Tuna Ortaylı, “Bienalden Müzeye: Sanatın Temsil Biçimleri” başlıklı söyleşide DEÜ’lü öğrenciler ve akademisyenlerle buluştu.
 
@@ -34,8 +34,8 @@ Etkinlik kapsamında, yakın zamanda hayatını kaybeden değerli tarihçi Prof.
 
 Program sonunda Tuna Ortaylı’ya teşekkür hediyesi, DEÜ Rektörü Prof. Dr. Bayram Yılmaz tarafından takdim edildi. Öğrencilerden gelen soruların yanıtlanmasının ardından etkinlik, toplu fotoğraf çekimiyle sona erdi.
 
-[![](/images/news/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-5-357x210-85bdba.jpeg)](https://haber.deu.edu.tr/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-5/)
-[![](/images/news/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-1-357x210-360853.jpeg)](https://haber.deu.edu.tr/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-1/)
-[![](/images/news/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-2-357x210-95fbd9.jpeg)](https://haber.deu.edu.tr/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-2/)
-[![](/images/news/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-3-357x210-f89e78.jpeg)](https://haber.deu.edu.tr/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-3/)
-[![](/images/news/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-4-357x210-45cbbf.jpeg)](https://haber.deu.edu.tr/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-4/)
+![](/images/news/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-5-1ddf26.jpeg)
+![](/images/news/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-1-d6a0b3.jpeg)
+![](/images/news/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-2-37ac07.jpeg)
+![](/images/news/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-3-20c715.jpeg)
+![](/images/news/deu-talksun-4-konugu-tuna-ortayli-oldu/deu-talksun-4-konugu-tuna-ortayli-oldu-4-49efa6.jpeg)

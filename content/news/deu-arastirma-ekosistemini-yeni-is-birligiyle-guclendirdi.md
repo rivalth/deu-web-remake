@@ -28,5 +28,5 @@ Protokole, Dokuz Eylül Üniversitesi Rektörü Prof. Dr. Bayram Yılmaz, Atlas 
 
 İş birliği protokolüyle birlikte iki üniversite ile DEÜ İzmir Biyotıp ve Genom Merkezi arasında eğitim, araştırma ve teknoloji geliştirme alanlarında uzun vadeli ve sürdürülebilir bir ortaklık oluşturulması hedefleniyor. Protokolün, ortak projelerin hayata geçirilmesine, araştırmacılar arasındaki akademik etkileşimin artırılmasına ve bilimsel bilgi üretiminin ulusal ve uluslararası düzeyde daha da güçlendirilmesine katkı sağlaması bekleniyor.
 
-[![](/images/news/deu-arastirma-ekosistemini-yeni-is-birligiyle-guclendirdi/deu-arastirma-ekosistemini-yeni-is-birligiyle-guclendirdi-2-357x210-477c2d.jpeg)](https://haber.deu.edu.tr/deu-arastirma-ekosistemini-yeni-is-birligiyle-guclendirdi/deu-arastirma-ekosistemini-yeni-is-birligiyle-guclendirdi-2/)
-[![](/images/news/deu-arastirma-ekosistemini-yeni-is-birligiyle-guclendirdi/deu-arastirma-ekosistemini-yeni-is-birligiyle-guclendirdi-1-357x210-eabfa7.jpeg)](https://haber.deu.edu.tr/deu-arastirma-ekosistemini-yeni-is-birligiyle-guclendirdi/deu-arastirma-ekosistemini-yeni-is-birligiyle-guclendirdi-1/)
+![](/images/news/deu-arastirma-ekosistemini-yeni-is-birligiyle-guclendirdi/deu-arastirma-ekosistemini-yeni-is-birligiyle-guclendirdi-2-0c831c.jpeg)
+![](/images/news/deu-arastirma-ekosistemini-yeni-is-birligiyle-guclendirdi/deu-arastirma-ekosistemini-yeni-is-birligiyle-guclendirdi-1-d9d734.jpeg)

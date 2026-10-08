@@ -36,7 +36,7 @@ Program kapsamında öğrenciler ve akademisyenler tarafından hazırlanan birbi
 
 Dokuz Eylül Üniversitesi’nin uluslararasılaşma vizyonuna katkı sağlayan etkinlik, toplu fotoğraf çekiminin ardından sona erdi.
 
-[![](/images/news/deude-rusya-kultur-gunu-coskusu/deude-rusya-kultur-gunu-coskusu-1-357x210-1b1f56.jpg)](https://haber.deu.edu.tr/deude-rusya-kultur-gunu-coskusu/deude-_rusya-kultur-gunu_-coskusu-1/)
-[![](/images/news/deude-rusya-kultur-gunu-coskusu/deude-rusya-kultur-gunu-coskusu-3-357x210-511f3c.jpg)](https://haber.deu.edu.tr/deude-rusya-kultur-gunu-coskusu/deude-_rusya-kultur-gunu_-coskusu-3/)
-[![](/images/news/deude-rusya-kultur-gunu-coskusu/deude-rusya-kultur-gunu-coskusu-4-357x210-5891a2.jpg)](https://haber.deu.edu.tr/deude-rusya-kultur-gunu-coskusu/deude-_rusya-kultur-gunu_-coskusu-4/)
-[![](/images/news/deude-rusya-kultur-gunu-coskusu/deude-rusya-kultur-gunu-coskusu-2-357x210-dc7d41.jpg)](https://haber.deu.edu.tr/deude-rusya-kultur-gunu-coskusu/deude-_rusya-kultur-gunu_-coskusu-2/)
+![](/images/news/deude-rusya-kultur-gunu-coskusu/deude-rusya-kultur-gunu-coskusu-1-ce0582.jpg)
+![](/images/news/deude-rusya-kultur-gunu-coskusu/deude-rusya-kultur-gunu-coskusu-3-338eeb.jpg)
+![](/images/news/deude-rusya-kultur-gunu-coskusu/deude-rusya-kultur-gunu-coskusu-4-6d0c13.jpg)
+![](/images/news/deude-rusya-kultur-gunu-coskusu/deude-rusya-kultur-gunu-coskusu-2-54a8ee.jpg)

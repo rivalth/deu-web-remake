@@ -70,7 +70,7 @@ EFES-2026 kapsamında 20 Mayıs 2026 tarihinde gerçekleştirilen programlarda i
 
 21 Mayıs 2026 tarihinde Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan’ın katılımıyla gerçekleştirilen EFES-2026 Seçkin Gözlemci Günü programı; Türkiye’nin savunma sanayiinde ulaştığı yüksek teknoloji kapasitesini, stratejik vizyonunu ve millî teknoloji hamlesini uluslararası kamuoyuna yansıtan önemli organizasyonlardan biri olarak hafızalarda yer aldı.
 
-[![](/images/news/cumhurbaskanimiz-sayin-recep-tayyip-erdoganin-katilimiyla-gerceklesen-efes-2026d/foto-5-357x210-e8bfab.jpeg)](https://haber.deu.edu.tr/cumhurbaskanimiz-sayin-recep-tayyip-erdoganin-katilimiyla-gerceklesen-efes-2026da-dokuz-eylul-universitesinden-buyuk-basari/foto-5-26/)
-[![](/images/news/cumhurbaskanimiz-sayin-recep-tayyip-erdoganin-katilimiyla-gerceklesen-efes-2026d/foto-1-357x210-711e9e.jpeg)](https://haber.deu.edu.tr/cumhurbaskanimiz-sayin-recep-tayyip-erdoganin-katilimiyla-gerceklesen-efes-2026da-dokuz-eylul-universitesinden-buyuk-basari/foto-1-44/)
-[![](/images/news/cumhurbaskanimiz-sayin-recep-tayyip-erdoganin-katilimiyla-gerceklesen-efes-2026d/foto-4-357x210-9913ed.jpeg)](https://haber.deu.edu.tr/cumhurbaskanimiz-sayin-recep-tayyip-erdoganin-katilimiyla-gerceklesen-efes-2026da-dokuz-eylul-universitesinden-buyuk-basari/foto-4-31/)
-[![](/images/news/cumhurbaskanimiz-sayin-recep-tayyip-erdoganin-katilimiyla-gerceklesen-efes-2026d/foto-6-357x210-a75e33.jpeg)](https://haber.deu.edu.tr/cumhurbaskanimiz-sayin-recep-tayyip-erdoganin-katilimiyla-gerceklesen-efes-2026da-dokuz-eylul-universitesinden-buyuk-basari/foto-6-18/)
+![](/images/news/cumhurbaskanimiz-sayin-recep-tayyip-erdoganin-katilimiyla-gerceklesen-efes-2026d/foto-5-9fe7cd.jpeg)
+![](/images/news/cumhurbaskanimiz-sayin-recep-tayyip-erdoganin-katilimiyla-gerceklesen-efes-2026d/foto-1-e3f38b.jpeg)
+![](/images/news/cumhurbaskanimiz-sayin-recep-tayyip-erdoganin-katilimiyla-gerceklesen-efes-2026d/foto-4-c4e11d.jpeg)
+![](/images/news/cumhurbaskanimiz-sayin-recep-tayyip-erdoganin-katilimiyla-gerceklesen-efes-2026d/foto-6-59e294.jpeg)

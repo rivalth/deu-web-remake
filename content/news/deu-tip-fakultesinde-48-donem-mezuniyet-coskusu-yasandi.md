@@ -52,7 +52,7 @@ Mezuniyet töreninin geleneksel anlarından biri olan yaş kütüğüne plaka ç
 
 Program, mezun öğrencilerin diplomalarını almalarının ardından gerçekleştirilen geleneksel kep atma töreniyle devam etti. Büyük heyecanın yaşandığı anlarda öğrenciler, yıllar süren emeklerinin karşılığını almanın mutluluğunu aileleri ve akademisyenleriyle birlikte paylaştı. Mezuniyet töreni, toplu fotoğraf çekimiyle sona erdi.
 
-[![](/images/news/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi-2-357x210-06c64b.jpeg)](https://haber.deu.edu.tr/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi-2/)
-[![](/images/news/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi-3-357x210-4d1f0e.jpeg)](https://haber.deu.edu.tr/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi-3/)
-[![](/images/news/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi-4-357x210-1e1816.jpeg)](https://haber.deu.edu.tr/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi-4/)
-[![](/images/news/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi-357x210-0aff8d.jpeg)](https://haber.deu.edu.tr/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi/)
+![](/images/news/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi-2-8eae2e.jpeg)
+![](/images/news/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi-3-87e06e.jpeg)
+![](/images/news/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi-4-7b9566.jpeg)
+![](/images/news/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi/deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi-32f1ad.jpeg)

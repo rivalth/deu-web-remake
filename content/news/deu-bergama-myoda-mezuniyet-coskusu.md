@@ -8,7 +8,7 @@ source: "https://haber.deu.edu.tr/deu-bergama-myoda-mezuniyet-coskusu/"
 
 ![](/images/news/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-8b7589.jpeg)
 
-*![](/images/news/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-3-300x200-811319.jpeg)DEÜ Bergama Meslek Yüksekokulunda 2025-2026 Akademik Yılı Mezuniyet Töreni gerçekleştirildi. Törende mezun olan öğrenciler kep atarak eğitim hayatlarının en önemli dönüm noktalarından birini geride bırakırken, aileleri de çocuklarının gururuna ortak oldu.*
+*![](/images/news/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-3-58e8f0.jpeg)DEÜ Bergama Meslek Yüksekokulunda 2025-2026 Akademik Yılı Mezuniyet Töreni gerçekleştirildi. Törende mezun olan öğrenciler kep atarak eğitim hayatlarının en önemli dönüm noktalarından birini geride bırakırken, aileleri de çocuklarının gururuna ortak oldu.*
 
 Dokuz Eylül Üniversitesi (DEÜ) Bergama Meslek Yüksekokulunun 2025-2026 Akademik Yılı Mezuniyet Töreni, yoğun katılımla gerçekleştirildi. Törene; DEÜ Rektörü Prof. Dr. Bayram Yılmaz, Bergama Belediye Başkanı Prof. Dr. Tanju Çelik, Rektör Yardımcısı Prof. Dr. Hamdi Şükür Kılıç, Genel Sekreter Vekili Prof. Dr. Dündar Yener, Bergama Meslek Yüksekokulu Müdürü Prof. Dr. M. Kemal Özfırat, akademik ve idari personel ile öğrenciler ve aileleri katıldı.
 
@@ -42,8 +42,8 @@ Program kapsamında ayrıca yüksekokul bünyesinde kurulan Bilgisayar Teknoloji
 
 Günün sonunda öğrenciler, aileleri ve akademisyenler hatıra fotoğrafları çektirerek mezuniyet sevincini ölümsüzleştirdi.
 
-[![](/images/news/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-5-357x210-b1da7c.jpeg)](https://haber.deu.edu.tr/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-5/)
-[![](/images/news/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-6-357x210-b523e9.jpeg)](https://haber.deu.edu.tr/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-6/)
-[![](/images/news/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-3-357x210-bb38c4.jpeg)](https://haber.deu.edu.tr/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-3/)
-[![](/images/news/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-357x210-57c09b.jpeg)](https://haber.deu.edu.tr/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu/)
-[![](/images/news/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-4-357x210-25906b.jpeg)](https://haber.deu.edu.tr/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-4/)
+![](/images/news/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-5-a8130a.jpeg)
+![](/images/news/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-6-764190.jpeg)
+![](/images/news/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-3-58e8f0.jpeg)
+![](/images/news/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-8b7589.jpeg)
+![](/images/news/deu-bergama-myoda-mezuniyet-coskusu/deu-bergama-myoda-mezuniyet-coskusu-4-c333dc.jpeg)

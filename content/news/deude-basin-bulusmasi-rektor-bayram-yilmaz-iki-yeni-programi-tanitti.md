@@ -78,7 +78,7 @@ Toplantıda üniversitenin yerleşke isimlendirmesine ilişkin de bilgi veren Re
 
 Rektör Yılmaz, yapılan değişiklikle özellikle YKS tercih dönemlerinde adayların yerleşkeye daha kolay ulaşmasının hedeflendiğini ifade etti.
 
-[![](/images/news/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti-357x210-0f45c8.jpeg)](https://haber.deu.edu.tr/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti/)
-[![](/images/news/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti-2-357x210-c38be4.jpeg)](https://haber.deu.edu.tr/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti-2/)
-[![](/images/news/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti-3-357x210-f07741.jpeg)](https://haber.deu.edu.tr/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti-3/)
-[![](/images/news/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti-4-357x210-6932ec.jpeg)](https://haber.deu.edu.tr/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti-4/)
+![](/images/news/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti-72fd7b.jpeg)
+![](/images/news/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti-2-80e783.jpeg)
+![](/images/news/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti-3-385806.jpeg)
+![](/images/news/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti/deude-basin-bulusmasi-rektor-bayram-yilmaz-iki-yeni-programi-tanitti-4-d8fbf5.jpeg)

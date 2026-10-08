@@ -8,7 +8,7 @@ source: "https://haber.deu.edu.tr/deuden-japonyada-akademik-is-birligi-atagi/"
 
 ![](/images/news/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-2-70580b.jpeg)
 
-*![](/images/news/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-4-300x300-61c7f5.jpeg)Dokuz Eylül Üniversitesi, dünyanın saygın yükseköğretim kurumları arasında yer alan Kyoto University ile eğitim, araştırma ve uluslararasılaşma alanlarında yeni iş birliklerinin temellerini attı. Japonya’da gerçekleştirilen temaslarda tıp, mühendislik, enerji, deprem araştırmaları, ileri malzemeler ve işletme bilimleri başta olmak üzere birçok alanda ortak projeler, akademisyen ve öğrenci değişimi ile bilimsel iş birlikleri masaya yatırıldı.*
+*![](/images/news/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-4-c845c1.jpeg)Dokuz Eylül Üniversitesi, dünyanın saygın yükseköğretim kurumları arasında yer alan Kyoto University ile eğitim, araştırma ve uluslararasılaşma alanlarında yeni iş birliklerinin temellerini attı. Japonya’da gerçekleştirilen temaslarda tıp, mühendislik, enerji, deprem araştırmaları, ileri malzemeler ve işletme bilimleri başta olmak üzere birçok alanda ortak projeler, akademisyen ve öğrenci değişimi ile bilimsel iş birlikleri masaya yatırıldı.*
 
 Dokuz Eylül Üniversitesi (DEÜ), uluslararasılaşma vizyonu doğrultusunda dünyanın saygın yükseköğretim kurumlarıyla akademik ilişkilerini güçlendirmeye devam ediyor. Bu kapsamda Dokuz Eylül Üniversitesi Rektörü Prof. Dr. Bayram Yılmaz, Rektör Yardımcısı Prof. Dr. Hamdi Şükür Kılıç ve Mühendislik Fakültesi Dekan Yardımcısı Prof. Dr. Can Özgür Çolpan, Japonya’da gerçekleştirdikleri akademik temaslar kapsamında 27 Temmuz 2026 tarihinde Kyoto University Rektörlüğünü ziyaret etti.
 
@@ -30,8 +30,8 @@ Toplantılarda ayrıca araştırmacı, akademisyen ve öğrenci hareketliliğini
 
 Gerçekleştirilen akademik temasların, Dokuz Eylül Üniversitesinin uluslararası görünürlüğünün artırılmasına, bilimsel araştırma kapasitesinin güçlendirilmesine ve küresel ölçekte yeni araştırma ortaklıklarının geliştirilmesine katkı sunması bekleniyor. Dünyanın önde gelen araştırma üniversitelerinden biri olan Kyoto University ile yürütülen görüşmelerin, iki üniversite arasında uzun soluklu ve çok yönlü akademik iş birliklerine zemin hazırlaması hedefleniyor.
 
-[![](/images/news/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-357x210-89f523.jpeg)](https://haber.deu.edu.tr/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi/)
-[![](/images/news/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-2-357x210-67a411.jpeg)](https://haber.deu.edu.tr/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-2/)
-[![](/images/news/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-3-357x210-022870.jpeg)](https://haber.deu.edu.tr/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-3/)
-[![](/images/news/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-4-357x210-9f1fc5.jpeg)](https://haber.deu.edu.tr/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-4/)
-[![](/images/news/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-1-357x210-ddb0e7.jpeg)](https://haber.deu.edu.tr/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-1/)
+![](/images/news/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-5aad7a.jpeg)
+![](/images/news/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-2-70580b.jpeg)
+![](/images/news/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-3-7ae7ec.jpeg)
+![](/images/news/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-4-c845c1.jpeg)
+![](/images/news/deuden-japonyada-akademik-is-birligi-atagi/deuden-japonyada-akademik-is-birligi-atagi-1-992835.jpeg)

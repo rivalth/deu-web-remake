@@ -8,7 +8,7 @@ source: "https://haber.deu.edu.tr/deu-izmir-meslek-yuksekokulunda-mezuniyet-cosk
 
 ![](/images/news/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-2-5ab9a8.jpeg)
 
-*![](/images/news/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-4-300x200-1dc3e3.jpeg)Dokuz Eylül Üniversitesi**İzmir Meslek Yüksekokulunun 2025-2026 Akademik Yılı Mezuniyet Töreni, öğrencilerin ve ailelerin yoğun katılımı ile gerçekleştirildi.*
+*![](/images/news/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-4-67241e.jpeg)Dokuz Eylül Üniversitesi**İzmir Meslek Yüksekokulunun 2025-2026 Akademik Yılı Mezuniyet Töreni, öğrencilerin ve ailelerin yoğun katılımı ile gerçekleştirildi.*
 
 Dokuz Eylül Üniversitesi (DEÜ) İzmir Meslek Yüksekokulu (İMYO), 2025-2026 Akademik Yılı Mezuniyet Töreni’nde öğrencilerini meslek hayatına ve yeni yaşamlarına uğurladı. DEÜ Merkez Yerleşke Amfi Tiyatroda düzenlenen törene; DEÜ Rektörü Prof. Dr. Bayram Yılmaz, üniversite üst yönetimi, akademik ve idari personel, öğrenciler ile aileleri katıldı.
 
@@ -34,8 +34,8 @@ Mezunlar adına konuşma yapan Elektronik Teknolojisi Programı öğrencisi ve o
 
 Konuşmaların ardından okul birincisi Elis Aydın tarafından mezuniyet kütüğüne isim plakası çakıldı. Tören, diplomalarını alan öğrencilerin geleneksel kep atma seremonisiyle devam etti. Mezunlar, aileleri birlikte mezuniyet sevincini paylaşırken, program toplu fotoğraf çekimiyle sona erdi.
 
-[![](/images/news/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-5-357x210-b15fe9.jpeg)](https://haber.deu.edu.tr/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-5/)
-[![](/images/news/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-6-357x210-55bca7.jpeg)](https://haber.deu.edu.tr/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-6/)
-[![](/images/news/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-357x210-5b9041.jpeg)](https://haber.deu.edu.tr/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/)
-[![](/images/news/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-2-357x210-8bde7b.jpeg)](https://haber.deu.edu.tr/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-2/)
-[![](/images/news/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-4-357x210-21593c.jpeg)](https://haber.deu.edu.tr/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-4/)
+![](/images/news/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-5-07413b.jpeg)
+![](/images/news/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-6-a14b5c.jpeg)
+![](/images/news/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-0935c7.jpeg)
+![](/images/news/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-2-5ab9a8.jpeg)
+![](/images/news/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu/deu-izmir-meslek-yuksekokulunda-mezuniyet-coskusu-4-67241e.jpeg)

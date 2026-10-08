@@ -34,8 +34,8 @@ Program kapsamında ayrıca mezun öğrencileri temsilen üniversite bayrağı, 
 
 Tören, genç diş hekimlerinin Dekan Prof. Dr. Aliye Akcalı eşliğinde Hipokrat Yemini ederek meslek yaşamlarında etik ilkelere bağlı kalacaklarına söz vermeleriyle devam etti. Program, mezun öğrencilerin hep birlikte kep atarak mezuniyet coşkusunu yaşamalarıyla sona erdi.
 
-[![](/images/news/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi-2-357x210-eff9da.jpeg)](https://haber.deu.edu.tr/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi-2/)
-[![](/images/news/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi-3-357x210-2ae6ff.jpeg)](https://haber.deu.edu.tr/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi-3/)
-[![](/images/news/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-rektoru-prof-dr-bayram-yilmaz-1-357x210-39b413.jpeg)](https://haber.deu.edu.tr/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-rektoru-prof-dr-bayram-yilmaz-1/)
-[![](/images/news/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi-1-357x210-2aa5ca.jpeg)](https://haber.deu.edu.tr/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi-1/)
-[![](/images/news/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-dis-hekimligi-fakultesi-dekani-prof-dr-aliye-akcali-357x210-35ff4d.jpeg)](https://haber.deu.edu.tr/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-dis-hekimligi-fakultesi-dekani-prof-dr-aliye-akcali/)
+![](/images/news/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi-2-8c8032.jpeg)
+![](/images/news/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi-3-c1ece0.jpeg)
+![](/images/news/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-rektoru-prof-dr-bayram-yilmaz-1-5f8c56.jpeg)
+![](/images/news/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi-1-211a1b.jpeg)
+![](/images/news/deu-dis-hekimligi-fakultesi-ilk-mezunlarini-verdi/deu-dis-hekimligi-fakultesi-dekani-prof-dr-aliye-akcali-9213ff.jpeg)

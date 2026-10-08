@@ -8,7 +8,7 @@ source: "https://haber.deu.edu.tr/deu-egitim-fakultesinde-mezuniyet-coskusu-38-y
 
 ![](/images/news/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/deu-egitim-fakultesinde-mezuniyet-coskusu-395fb5.jpeg)
 
-*![](/images/news/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/deu-egitim-fakultesinde-mezuniyet-coskusu-2-300x200-890d3d.jpeg)Dokuz Eylül Üniversitesi (DEÜ) Eğitim Fakültesinin 2025-2026 Akademik Yılı Mezuniyet Töreni, büyük bir coşku ve gurur atmosferinde gerçekleştirildi*. *1959’dan bu yana öğretmen yetiştiren köklü eğitim kurumu, yeni mezunlarını verdiği törende, 21 bölümden mezun olan 1100 öğrenci diplomalarına kavuşurken dönem birincisi olan 57 yaşındaki Nadide Kazmaz’ın 38 yıl sonra tamamladığı eğitim hayatını birincilikle taçlandırması ise mezuniyet törenine damga vurdu.*
+*![](/images/news/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/deu-egitim-fakultesinde-mezuniyet-coskusu-2-135022.jpeg)Dokuz Eylül Üniversitesi (DEÜ) Eğitim Fakültesinin 2025-2026 Akademik Yılı Mezuniyet Töreni, büyük bir coşku ve gurur atmosferinde gerçekleştirildi*. *1959’dan bu yana öğretmen yetiştiren köklü eğitim kurumu, yeni mezunlarını verdiği törende, 21 bölümden mezun olan 1100 öğrenci diplomalarına kavuşurken dönem birincisi olan 57 yaşındaki Nadide Kazmaz’ın 38 yıl sonra tamamladığı eğitim hayatını birincilikle taçlandırması ise mezuniyet törenine damga vurdu.*
 
 Dokuz Eylül Üniversitesi Eğitim Fakültesinin 2025-2026 Akademik Yılı Mezuniyet Töreni, DEÜ Merkez Yerleşke Amfi Tiyatro’da gerçekleştirildi. Kuruluşunun 67. DEÜ çatısı altında 44. yılını tamamlayan Eğitim Fakültesinin mezuniyet sevincine öğrenciler, akademisyenler ve aileler ortak oldu.
 
@@ -44,7 +44,7 @@ Açılış konuşmaları ve ödül töreninin ardından mezun öğrenciler diplo
 
 Programın sonunda gerçekleştirilen geleneksel kep atma töreninde mezunlar büyük heyecan yaşarken, amfi tiyatroyu dolduran aileler de çocuklarının mezuniyet sevincine ortak oldu. Renkli görüntülere sahne olan tören, toplu fotoğraf çekimiyle sona erdi.
 
-[![](/images/news/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/deu-egitim-fakultesinde-mezuniyet-coskusu-2-357x210-80981d.jpeg)](https://haber.deu.edu.tr/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/deu-egitim-fakultesinde-mezuniyet-coskusu-2/)
-[![](/images/news/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/deu-egitim-fakultesinde-mezuniyet-coskusu-357x210-74d26b.jpeg)](https://haber.deu.edu.tr/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/deu-egitim-fakultesinde-mezuniyet-coskusu/)
-[![](/images/news/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/nadide-kazmaz-3-357x210-cd5606.jpeg)](https://haber.deu.edu.tr/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/nadide-kazmaz-3/)
-[![](/images/news/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/nadide-kazmaz-4-357x210-7dcdc6.jpeg)](https://haber.deu.edu.tr/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/nadide-kazmaz-4/)
+![](/images/news/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/deu-egitim-fakultesinde-mezuniyet-coskusu-2-135022.jpeg)
+![](/images/news/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/deu-egitim-fakultesinde-mezuniyet-coskusu-395fb5.jpeg)
+![](/images/news/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/nadide-kazmaz-3-e8e81d.jpeg)
+![](/images/news/deu-egitim-fakultesinde-mezuniyet-coskusu-38-yillik-hayal-birincilikle-taclandi/nadide-kazmaz-4-d34982.jpeg)

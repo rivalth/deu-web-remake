@@ -32,9 +32,9 @@ Oldukça verimli geçen programda, Gazze’deki akademik yaşamın mevcut durumu
 
 Programın hazırlık sürecinden gerçekleştirilmesine kadar emeği geçen akademisyenlere, çeviri desteği sağlayan öğretim elemanlarına, akademik ve idari personele, öğrencilere ve programa katılan İzmir halkına teşekkür edildi.
 
-[![](/images/news/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-1-357x210-eabfcd.jpeg)](https://haber.deu.edu.tr/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-1/)
-[![](/images/news/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-2-357x210-f5eda2.jpeg)](https://haber.deu.edu.tr/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-2/)
-[![](/images/news/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-3-357x210-6cc8f5.jpeg)](https://haber.deu.edu.tr/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-3/)
-[![](/images/news/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-4-357x210-032ac1.jpeg)](https://haber.deu.edu.tr/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-4/)
-[![](/images/news/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-5-357x210-ea7eec.jpeg)](https://haber.deu.edu.tr/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-5/)
-[![](/images/news/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-6-357x210-93d9dc.jpeg)](https://haber.deu.edu.tr/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-6/)
+![](/images/news/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-1-3eee83.jpeg)
+![](/images/news/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-2-33795a.jpeg)
+![](/images/news/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-3-a3e715.jpeg)
+![](/images/news/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-4-7f2bfc.jpeg)
+![](/images/news/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-5-98edb3.jpeg)
+![](/images/news/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi/deude-gazze-icin-bilim-ve-akademik-dayanisma-bulusmasi-6-181d61.jpeg)

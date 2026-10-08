@@ -26,8 +26,8 @@ Programda konuşan Dokuz Eylül Üniversitesinin eski rektörlerinden Prof. Dr. 
 
 Konuşmaların ardından katılımcılar eşliğinde, Dokuz Eylül Üniversitesinin 44. Yıl Dönümü için hazırlanan pasta kesildi. Samimi bir atmosferde gerçekleşen resepsiyon, üniversite mensuplarının birlik ve beraberlik mesajları vermesiyle sona erdi.
 
-[![](/images/news/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-5-357x210-1ed934.jpeg)](https://haber.deu.edu.tr/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-5/)
-[![](/images/news/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-4-357x210-66c0ce.jpeg)](https://haber.deu.edu.tr/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-4/)
-[![](/images/news/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-2-357x210-7c1741.jpeg)](https://haber.deu.edu.tr/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-2/)
-[![](/images/news/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-1-357x210-00e555.jpeg)](https://haber.deu.edu.tr/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-1/)
-[![](/images/news/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-3-357x210-8245c5.jpeg)](https://haber.deu.edu.tr/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-3/)
+![](/images/news/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-5-d5842f.jpeg)
+![](/images/news/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-4-533480.jpeg)
+![](/images/news/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-2-dcf7c7.jpeg)
+![](/images/news/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-1-2a1698.jpeg)
+![](/images/news/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi/deu-44-kurulus-yil-donumunu-tanitim-resepsiyonuyla-kutladi-3-554617.jpeg)

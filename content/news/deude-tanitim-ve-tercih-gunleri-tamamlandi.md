@@ -32,8 +32,8 @@ Etkinlik süresince aday öğrenciler akademisyenlerle birebir görüşme imkân
 
 Hibrit formatta gerçekleştirilen organizasyon, Türkiye’nin farklı şehirlerinden aday öğrencilerin de çevrim içi olarak programa katılmasına olanak sağlayarak Dokuz Eylül Üniversitesinin güçlü akademik kadrosunu, nitelikli altyapısını ve öğrenci odaklı yükseköğretim anlayışını daha geniş kitlelere ulaştırdı.
 
-[![](/images/news/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi-357x210-070bd0.jpeg)](https://haber.deu.edu.tr/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi/)
-[![](/images/news/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi-2-357x210-147f4c.jpeg)](https://haber.deu.edu.tr/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi-2/)
-[![](/images/news/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi-3-357x210-e84fcf.jpeg)](https://haber.deu.edu.tr/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi-3/)
-[![](/images/news/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi-4-357x210-c91e8a.jpeg)](https://haber.deu.edu.tr/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi-4/)
-[![](/images/news/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi-1-357x210-f3ba8c.jpeg)](https://haber.deu.edu.tr/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi-1/)
+![](/images/news/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi-28c4d9.jpeg)
+![](/images/news/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi-2-cea55f.jpeg)
+![](/images/news/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi-3-6101ca.jpeg)
+![](/images/news/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi-4-b94469.jpeg)
+![](/images/news/deude-tanitim-ve-tercih-gunleri-tamamlandi/deude-tanitim-ve-tercih-gunleri-tamamlandi-1-de05c9.jpeg)

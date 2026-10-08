@@ -32,6 +32,6 @@ Konuşmaların ardından İzmir Valisi Dr. Süleyman Elban ve DEÜ Rektörü Pro
 
 31 Ağustos 2026 tarihinde başlayan TAOM 2026, 4 Eylül 2026 tarihine kadar Dokuz Eylül Üniversitesinin ev sahipliğinde devam edecek.
 
-[![](/images/news/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde-1-357x210-c68d39.jpg)](https://haber.deu.edu.tr/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde-1/)
-[![](/images/news/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde-3-357x210-a336cc.jpg)](https://haber.deu.edu.tr/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde-3/)
-[![](/images/news/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde-4-357x210-8b4843.jpg)](https://haber.deu.edu.tr/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde-4/)
+![](/images/news/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde-1-987928.jpg)
+![](/images/news/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde-3-8acf05.jpg)
+![](/images/news/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde/taom-2026-liderlik-bulusmasi-dokuz-eylul-universitesinde-4-8b705c.jpg)

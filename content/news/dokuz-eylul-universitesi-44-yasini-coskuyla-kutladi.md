@@ -22,7 +22,7 @@ Konuşmasında 20 Temmuz’un aynı zamanda Kıbrıs Barış Harekâtı’nın y
 
 Tören, günün anısına çekilen hatıra fotoğrafının ardından sona erdi.
 
-[![](/images/news/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi-4-357x210-6c77e5.jpeg)](https://haber.deu.edu.tr/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi-4/)
-[![](/images/news/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi-1-357x210-58d6bc.jpeg)](https://haber.deu.edu.tr/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi-1/)
-[![](/images/news/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi-2-357x210-3cf568.jpeg)](https://haber.deu.edu.tr/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi-2/)
-[![](/images/news/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi-3-357x210-eea325.jpeg)](https://haber.deu.edu.tr/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi-3/)
+![](/images/news/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi-4-501913.jpeg)
+![](/images/news/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi-1-c5f81b.jpeg)
+![](/images/news/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi-2-295eb1.jpeg)
+![](/images/news/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi/dokuz-eylul-universitesi-44-yasini-coskuyla-kutladi-3-31b939.jpeg)

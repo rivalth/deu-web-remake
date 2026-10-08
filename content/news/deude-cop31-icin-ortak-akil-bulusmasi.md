@@ -32,8 +32,8 @@ Akademisyenler tarafından oluşturulan çalışma grupları; araştırma, tekno
 
 Türkiye’nin ev sahipliği yapacağı COP31 sürecinde Dokuz Eylül Üniversitesi, sürdürülebilirlik ve iklim değişikliği alanlarında yürüttüğü bilimsel çalışmalar ile ulusal ve uluslararası iş birliklerini güçlendirmeyi, yenilikçi proje önerileri geliştirerek yeşil dönüşüm hedeflerine katkı sunmayı amaçlıyor.
 
-[![](/images/news/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-1-357x210-6e6e37.jpeg)](https://haber.deu.edu.tr/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-1/)
-[![](/images/news/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-3-357x210-f8a752.jpeg)](https://haber.deu.edu.tr/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-3/)
-[![](/images/news/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-5-357x210-2dda9a.jpeg)](https://haber.deu.edu.tr/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-5/)
-[![](/images/news/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-4-357x210-e91aaf.jpeg)](https://haber.deu.edu.tr/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-4/)
-[![](/images/news/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-2-357x210-0b3d1a.jpeg)](https://haber.deu.edu.tr/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-2/)
+![](/images/news/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-1-096176.jpeg)
+![](/images/news/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-3-f3afa3.jpeg)
+![](/images/news/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-5-aa808f.jpeg)
+![](/images/news/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-4-242e9a.jpeg)
+![](/images/news/deude-cop31-icin-ortak-akil-bulusmasi/deude-cop31-icin-ortak-akil-bulusmasi-2-dbb656.jpeg)

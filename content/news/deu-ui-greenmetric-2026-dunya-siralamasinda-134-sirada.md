@@ -10,7 +10,7 @@ source: "https://haber.deu.edu.tr/deu-ui-greenmetric-2026-dunya-siralamasinda-13
 
 ***Dokuz Eylül Üniversitesi, UI GreenMetric 2026 Dünya Üniversiteleri Sıralamasında 110 ülkeden 2 bin 16 üniversite arasından 134’üncü sırada yer alarak sürdürülebilirlik alanındaki uluslararası başarısını güçlendirdi.***
 
-![](/images/news/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada-240x300-341565.jpg)Dokuz Eylül Üniversitesi (DEÜ), çevre ve sürdürülebilirlik alanında hayata geçirdiği çalışmalarla uluslararası başarılarına bir yenisini daha ekledi. DEÜ, UI GreenMetric Dünya Üniversiteleri Sıralamasında 2025 yılında 169. sırada yer alırken, 2026 yılında 134. sıraya yükseldi. DEÜ Türkiye sıralamasında ise 11. sırada yer aldı.
+![](/images/news/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada-698e8e.jpg)Dokuz Eylül Üniversitesi (DEÜ), çevre ve sürdürülebilirlik alanında hayata geçirdiği çalışmalarla uluslararası başarılarına bir yenisini daha ekledi. DEÜ, UI GreenMetric Dünya Üniversiteleri Sıralamasında 2025 yılında 169. sırada yer alırken, 2026 yılında 134. sıraya yükseldi. DEÜ Türkiye sıralamasında ise 11. sırada yer aldı.
 
 UI GreenMetric 2026 Dünya Üniversiteleri Sıralaması kapsamında 110 ülkeden toplam 2 bin 16 üniversite değerlendirildi. DEÜ’nün 2026 yılında elde ettiği derece, Üniversitenin UI GreenMetric değerlendirmelerinde bugüne kadar ulaştığı en yüksek başarı olarak kayıtlara geçti.
 
@@ -22,6 +22,6 @@ Dokuz Eylül Üniversitesi Rektörü Prof. Dr. Bayram Yılmaz, elde edilen başa
 
 Dokuz Eylül Üniversitesi, çevreye duyarlı, sürdürülebilir ve yaşanabilir kampüsler oluşturma hedefi doğrultusunda çalışmalarını sürdürürken, uluslararası sıralamalarda elde ettiği sonuçlarla sürdürülebilirlik alanındaki kurumsal yaklaşımını güçlendirmeye devam ediyor.
 
-[![](/images/news/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada-2-357x210-62a1ff.jpeg)](https://haber.deu.edu.tr/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada-2/)
-[![](/images/news/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada-357x210-db9010.jpg)](https://haber.deu.edu.tr/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada/)
-[![](/images/news/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada-4-357x210-dbeb92.jpeg)](https://haber.deu.edu.tr/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada-4/)
+![](/images/news/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada-2-946afa.jpeg)
+![](/images/news/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada-698e8e.jpg)
+![](/images/news/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada/deu-ui-greenmetric-2026-dunya-siralamasinda-134-sirada-4-c69577.jpeg)

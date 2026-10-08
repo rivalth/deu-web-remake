@@ -42,8 +42,8 @@ DEÜ’ye yerleşmeye hak kazanan öğrenciler, elektronik kayıt işlemlerini 2
 
 Öğrenciler, kayıt işlemleri için bu iki yöntemden yalnızca birini tercih edebilecek.
 
-[![](/images/news/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu-4-357x210-70982a.jpeg)](https://haber.deu.edu.tr/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu-4/)
-[![](/images/news/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu-2-357x210-472237.jpeg)](https://haber.deu.edu.tr/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu-2/)
-[![](/images/news/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu-1-357x210-f24c18.jpeg)](https://haber.deu.edu.tr/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu-1/)
-[![](/images/news/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu-357x210-401796.jpeg)](https://haber.deu.edu.tr/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/)
-[![](/images/news/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu-3-357x210-266d62.jpeg)](https://haber.deu.edu.tr/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu-3/)
+![](/images/news/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu-4-5b6d13.jpeg)
+![](/images/news/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu-2-53a210.jpeg)
+![](/images/news/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu-1-eface8.jpeg)
+![](/images/news/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu-604273.jpeg)
+![](/images/news/deu-2026-yksde-de-tercihlerin-gozdesi-oldu/deu-2026-yksde-de-tercihlerin-gozdesi-oldu-3-43008a.jpeg)

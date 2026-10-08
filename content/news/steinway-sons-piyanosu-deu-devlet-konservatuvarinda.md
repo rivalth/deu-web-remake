@@ -8,7 +8,7 @@ source: "https://haber.deu.edu.tr/steinway-sons-piyanosu-deu-devlet-konservatuva
 
 ![](/images/news/steinway-sons-piyanosu-deu-devlet-konservatuvarinda/steinway-sons-piyanosu-deu-devlet-konservatuvarinda-3-4897d2.jpeg)
 
-*![](/images/news/steinway-sons-piyanosu-deu-devlet-konservatuvarinda/steinway-sons-piyanosu-deu-devlet-konservatuvarinda-300x200-c9cb77.jpeg)Arkas Holding Yönetim Kurulu Başkanı Lucien Arkas tarafından Dokuz Eylül Üniversitesi (DEÜ) Devlet Konservatuvarına kazandırılan Steinway & Sons marka piyanonun açılış töreni gerçekleştirildi.*
+*![](/images/news/steinway-sons-piyanosu-deu-devlet-konservatuvarinda/steinway-sons-piyanosu-deu-devlet-konservatuvarinda-6da78b.jpeg)Arkas Holding Yönetim Kurulu Başkanı Lucien Arkas tarafından Dokuz Eylül Üniversitesi (DEÜ) Devlet Konservatuvarına kazandırılan Steinway & Sons marka piyanonun açılış töreni gerçekleştirildi.*
 
 DEÜ Devlet Konservatuvarında düzenlenen programa; DEÜ Rektörü Prof. Dr. Bayram Yılmaz, Arkas Holding Yönetim Kurulu Başkanı Lucien Arkas ve eşi Merve Arkas, Devlet Konservatuvarı Müdürü Prof. Dr. Mehmet Alper Kazancıoğlu, dekanlar, konservatuvar akademisyenleri ve öğrenciler katıldı.
 
@@ -48,6 +48,6 @@ Konserde sahne alan öğrencilerin performanslarından büyük mutluluk duyduğu
 
 Programın sonunda, DEÜ Rektörü Prof. Dr. Bayram Yılmaz tarafından Arkas Holding Yönetim Kurulu Başkanı Lucien Arkas’a plaket ve anı takdim edildi. Devlet Konservatuvarı Müdürü Prof. Dr. Mehmet Alper Kazancıoğlu da Lucien Arkas’a ve Rektör Prof. Dr. Bayram Yılmaz’a anı takdiminde bulundu.
 
-[![](/images/news/steinway-sons-piyanosu-deu-devlet-konservatuvarinda/steinway-sons-piyanosu-deu-devlet-konservatuvarinda-357x210-581c64.jpeg)](https://haber.deu.edu.tr/steinway-sons-piyanosu-deu-devlet-konservatuvarinda/steinway-sons-piyanosu-deu-devlet-konservatuvarinda/)
-[![](/images/news/steinway-sons-piyanosu-deu-devlet-konservatuvarinda/steinway-sons-piyanosu-deu-devlet-konservatuvarinda-2-357x210-337ec3.jpeg)](https://haber.deu.edu.tr/steinway-sons-piyanosu-deu-devlet-konservatuvarinda/steinway-sons-piyanosu-deu-devlet-konservatuvarinda-2/)
-[![](/images/news/steinway-sons-piyanosu-deu-devlet-konservatuvarinda/steinway-sons-piyanosu-deu-devlet-konservatuvarinda-3-357x210-35bb43.jpeg)](https://haber.deu.edu.tr/steinway-sons-piyanosu-deu-devlet-konservatuvarinda/steinway-sons-piyanosu-deu-devlet-konservatuvarinda-3/)
+![](/images/news/steinway-sons-piyanosu-deu-devlet-konservatuvarinda/steinway-sons-piyanosu-deu-devlet-konservatuvarinda-6da78b.jpeg)
+![](/images/news/steinway-sons-piyanosu-deu-devlet-konservatuvarinda/steinway-sons-piyanosu-deu-devlet-konservatuvarinda-2-4f834a.jpeg)
+![](/images/news/steinway-sons-piyanosu-deu-devlet-konservatuvarinda/steinway-sons-piyanosu-deu-devlet-konservatuvarinda-3-4897d2.jpeg)

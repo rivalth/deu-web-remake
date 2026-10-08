@@ -26,7 +26,7 @@ Programda konuşan İzmir Valisi Dr. Süleyman Elban, Türk milletinin vatanına
 
 15 Temmuz Demokrasi ve Millî Birlik Günü etkinlikleri kapsamında Dokuz Eylül Üniversitesi de Konak Atatürk Meydanı’nda stant açtı. DEÜ tarafından kurulan stantta vatandaşlara kandil simidi, ayran ve irmik helvası ikram edilerek birlik, beraberlik ve dayanışma ruhuna katkı sunuldu.
 
-[![](/images/news/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi-3-357x210-96f3de.jpg)](https://haber.deu.edu.tr/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi-3/)
-[![](/images/news/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi-1-357x210-9dfce4.jpeg)](https://haber.deu.edu.tr/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi-1/)
-[![](/images/news/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi-1-357x210-76c58a.jpg)](https://haber.deu.edu.tr/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi-1-2/)
-[![](/images/news/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi-2-357x210-f75979.jpg)](https://haber.deu.edu.tr/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi-2/)
+![](/images/news/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi-3-b8347d.jpg)
+![](/images/news/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi-1-7a0201.jpeg)
+![](/images/news/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi-1-7fe8de.jpg)
+![](/images/news/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi/rektor-bayram-yilmaz-15-temmuz-anma-gunu-programlarina-katildi-2-474bfe.jpg)

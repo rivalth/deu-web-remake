@@ -8,7 +8,7 @@ source: "https://haber.deu.edu.tr/gelecegin-meslekleri-deude-konusuldu-alternati
 
 ![](/images/news/gelecegin-meslekleri-deude-konusuldu-alternatif-enerjide-egitim-ve-istihdam-odag/foto-3-34132a.jpeg)
 
-***![](/images/news/gelecegin-meslekleri-deude-konusuldu-alternatif-enerjide-egitim-ve-istihdam-odag/foto-1-1-300x200-4ff838.jpeg)Dokuz Eylül Üniversitesi (DEÜ), Yükseköğretim Kurulu (YÖK) tarafından tercih ve tanıtım dönemine yönelik başlatılan “Geleceğin Meslekleri” teması kapsamında düzenlenen Bilim Kafe Sohbetleri’nde, alternatif enerji sektörünün sunduğu eğitim ve istihdam olanaklarını ele aldı. DEÜ Kurumsal İletişim Koordinatörlüğü tarafından gerçekleştirilen programda; yenilenebilir enerji alanındaki dönüşüm, sektörde ihtiyaç duyulan yetkinlikler ve geleceğin kariyer fırsatları değerlendirildi.***
+***![](/images/news/gelecegin-meslekleri-deude-konusuldu-alternatif-enerjide-egitim-ve-istihdam-odag/foto-1-1-09bc43.jpeg)Dokuz Eylül Üniversitesi (DEÜ), Yükseköğretim Kurulu (YÖK) tarafından tercih ve tanıtım dönemine yönelik başlatılan “Geleceğin Meslekleri” teması kapsamında düzenlenen Bilim Kafe Sohbetleri’nde, alternatif enerji sektörünün sunduğu eğitim ve istihdam olanaklarını ele aldı. DEÜ Kurumsal İletişim Koordinatörlüğü tarafından gerçekleştirilen programda; yenilenebilir enerji alanındaki dönüşüm, sektörde ihtiyaç duyulan yetkinlikler ve geleceğin kariyer fırsatları değerlendirildi.***
 
 **GELECEĞİN İSTİHDAM ALANLARI DEĞERLENDİRİLDİ**
 
@@ -42,6 +42,6 @@ Bu kapsamda düzenlenen söyleşiler; gençlerin kariyer planlamalarına katkı 
 
 Dokuz Eylül Üniversitesi, eğitim-öğretim faaliyetlerini sektör ihtiyaçlarıyla uyumlu biçimde geliştirmeyi, öğrencilerini geleceğin mesleklerine hazırlamayı ve ülkemizin nitelikli insan kaynağına katkı sunmayı sürdürüyor.
 
-[![](/images/news/gelecegin-meslekleri-deude-konusuldu-alternatif-enerjide-egitim-ve-istihdam-odag/foto-1-1-357x210-4d5dfd.jpeg)](https://haber.deu.edu.tr/gelecegin-meslekleri-deude-konusuldu-alternatif-enerjide-egitim-ve-istihdam-odagi/foto-1-1-2/)
-[![](/images/news/gelecegin-meslekleri-deude-konusuldu-alternatif-enerjide-egitim-ve-istihdam-odag/foto-2-357x210-455740.jpeg)](https://haber.deu.edu.tr/gelecegin-meslekleri-deude-konusuldu-alternatif-enerjide-egitim-ve-istihdam-odagi/foto-2-42/)
-[![](/images/news/gelecegin-meslekleri-deude-konusuldu-alternatif-enerjide-egitim-ve-istihdam-odag/foto-3-357x210-f95998.jpeg)](https://haber.deu.edu.tr/gelecegin-meslekleri-deude-konusuldu-alternatif-enerjide-egitim-ve-istihdam-odagi/foto-3-38/)
+![](/images/news/gelecegin-meslekleri-deude-konusuldu-alternatif-enerjide-egitim-ve-istihdam-odag/foto-1-1-09bc43.jpeg)
+![](/images/news/gelecegin-meslekleri-deude-konusuldu-alternatif-enerjide-egitim-ve-istihdam-odag/foto-2-f1d72f.jpeg)
+![](/images/news/gelecegin-meslekleri-deude-konusuldu-alternatif-enerjide-egitim-ve-istihdam-odag/foto-3-34132a.jpeg)

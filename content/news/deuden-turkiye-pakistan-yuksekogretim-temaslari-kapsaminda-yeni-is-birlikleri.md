@@ -32,6 +32,6 @@ Ortak bildiri kapsamında ayrıca Türkiye-Pakistan Üniversiteler Forumunun her
 
 Dokuz Eylül Üniversitesi, Pakistan’daki yükseköğretim kurumlarıyla gerçekleştirdiği temas ve iş birlikleriyle öğrenci ve akademisyen hareketliliği, ortak araştırma ve eğitim programları ile bilimsel iş birliklerinin geliştirilmesine yönelik çalışmalarını sürdürüyor.
 
-[![](/images/news/deuden-turkiye-pakistan-yuksekogretim-temaslari-kapsaminda-yeni-is-birlikleri/foto-1-357x210-ef2ab3.jpg)](https://haber.deu.edu.tr/deuden-turkiye-pakistan-yuksekogretim-temaslari-kapsaminda-yeni-is-birlikleri/foto-1-45/)
-[![](/images/news/deuden-turkiye-pakistan-yuksekogretim-temaslari-kapsaminda-yeni-is-birlikleri/foto-2-1-357x210-1e2369.jpeg)](https://haber.deu.edu.tr/deuden-turkiye-pakistan-yuksekogretim-temaslari-kapsaminda-yeni-is-birlikleri/foto-2-1/)
-[![](/images/news/deuden-turkiye-pakistan-yuksekogretim-temaslari-kapsaminda-yeni-is-birlikleri/foto-4-1-357x210-d18787.jpeg)](https://haber.deu.edu.tr/deuden-turkiye-pakistan-yuksekogretim-temaslari-kapsaminda-yeni-is-birlikleri/foto-4-1/)
+![](/images/news/deuden-turkiye-pakistan-yuksekogretim-temaslari-kapsaminda-yeni-is-birlikleri/foto-1-667afa.jpg)
+![](/images/news/deuden-turkiye-pakistan-yuksekogretim-temaslari-kapsaminda-yeni-is-birlikleri/foto-2-1-71f487.jpeg)
+![](/images/news/deuden-turkiye-pakistan-yuksekogretim-temaslari-kapsaminda-yeni-is-birlikleri/foto-4-1-29cf04.jpeg)

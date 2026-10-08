@@ -34,5 +34,5 @@ Açılış konuşmalarının ardından DEÜ Yeşil Yakalılar Programı’nı ba
 
 Çevre bilincinin artırılmasına yönelik etkinliklerin gün boyunca devam ettiği sempozyumda, sürdürülebilir bir gelecek için üniversitelerin üstlendiği rol, çevresel sorumlulukların geliştirilmesi ve toplumda çevre farkındalığının artırılmasına yönelik görüş alışverişinde bulunuldu. Program, çevre odaklı çalışmaların yaygınlaştırılması ve sürdürülebilir yaşam anlayışının güçlendirilmesine yönelik ortak mesajlarla sona erdi.
 
-[![](/images/news/deu-7-cevre-gunleri-sempozyumu-gerceklestirildi/deu-7-cevre-gunleri-sempozyumu-gerceklestirildi-2-357x210-3a1b7f.jpg)](https://haber.deu.edu.tr/deu-7-cevre-gunleri-sempozyumu-gerceklestirildi/deu-7-cevre-gunleri-sempozyumu-gerceklestirildi-2/)
-[![](/images/news/deu-7-cevre-gunleri-sempozyumu-gerceklestirildi/deu-7-cevre-gunleri-sempozyumu-gerceklestirildi-1-357x210-4a3f68.jpg)](https://haber.deu.edu.tr/deu-7-cevre-gunleri-sempozyumu-gerceklestirildi/deu-7-cevre-gunleri-sempozyumu-gerceklestirildi-1/)
+![](/images/news/deu-7-cevre-gunleri-sempozyumu-gerceklestirildi/deu-7-cevre-gunleri-sempozyumu-gerceklestirildi-2-975414.jpg)
+![](/images/news/deu-7-cevre-gunleri-sempozyumu-gerceklestirildi/deu-7-cevre-gunleri-sempozyumu-gerceklestirildi-1-756a66.jpg)

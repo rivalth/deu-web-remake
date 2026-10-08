@@ -22,8 +22,8 @@ Program sonunda TDK Başkanı Prof. Dr. Osman Mert’e teşekkür hediyesi, DEÜ
 
 Program öncesinde Prof. Dr. Osman Mert, DEÜ Edebiyat Fakültesi Dekanı Prof. Dr. Kamil İşeri ile birlikte Türkiye’nin ilk bayrakbilim müzesi olan DEÜ Bayrakbilim ve Türk Bayrakları Müzesini ziyaret etti. Ziyarette Prof. Dr. Osman Mert’e müzede yer alan eserler ve koleksiyonlar hakkında bilgi verildi.
 
-[![](/images/news/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu-1-357x210-74bbd7.jpeg)](https://haber.deu.edu.tr/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-_koklerden-gunumuze-turk-dili_-konusuldu-1/)
-[![](/images/news/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu-2-1-357x210-413978.jpeg)](https://haber.deu.edu.tr/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-_koklerden-gunumuze-turk-dili_-konusuldu-2-1/)
-[![](/images/news/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu-4-357x210-c15300.jpeg)](https://haber.deu.edu.tr/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-_koklerden-gunumuze-turk-dili_-konusuldu-4/)
-[![](/images/news/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu-5-357x210-11a733.jpeg)](https://haber.deu.edu.tr/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-_koklerden-gunumuze-turk-dili_-konusuldu-5/)
-[![](/images/news/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu-3-357x210-ec9e5a.jpeg)](https://haber.deu.edu.tr/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-_koklerden-gunumuze-turk-dili_-konusuldu-3/)
+![](/images/news/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu-1-88d4dd.jpeg)
+![](/images/news/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu-2-1-1afb00.jpeg)
+![](/images/news/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu-4-99e704.jpeg)
+![](/images/news/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu-5-a7deab.jpeg)
+![](/images/news/eu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu/deu-soylesilerinde-koklerden-gunumuze-turk-dili-konusuldu-3-bda91c.jpeg)
