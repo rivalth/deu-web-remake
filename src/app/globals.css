@@ -60,10 +60,12 @@ body {
   color: white;
 }
 
-:focus-visible {
-  outline: 2px solid var(--color-deu-bright);
-  outline-offset: 3px;
-  border-radius: 6px;
+/* in a layer so utilities like `outline-none` can override it */
+@layer base {
+  :focus-visible {
+    outline: 2px solid var(--color-deu-bright);
+    outline-offset: 3px;
+  }
 }
 
 /* Lenis */

@@ -7,7 +7,6 @@ import { Rankings, type Ranking } from "@/components/home/rankings";
 import { Research } from "@/components/home/research";
 import { StatsBand } from "@/components/home/stats-band";
 import { Timeline } from "@/components/home/timeline";
-import { ValuesMarquee } from "@/components/home/values-marquee";
 import { SplitText } from "@/components/motion/split-text";
 import { NewsShowcase } from "@/components/news/news-showcase";
 import { ArrowLink } from "@/components/ui/button";
@@ -27,8 +26,8 @@ import type { Media } from "@/lib/media";
 import { nf } from "@/lib/text";
 
 const HERO = [
-  "dokuz-eylul-universitesi-egitim-yelpazesini-yeni-programlarla-guclendiriyor",
   "deu-bergama-myoda-mezuniyet-coskusu",
+  "dokuz-eylul-universitesi-egitim-yelpazesini-yeni-programlarla-guclendiriyor",
   "deude-2026-2027-akademik-yili-ilk-ders-heyecaniyla-basladi",
   "cwur-2026-aciklandi-deu-dunyanin-en-iyileri-arasinda",
   "deu-tip-fakultesinde-48-donem-mezuniyet-coskusu-yasandi",
@@ -116,7 +115,6 @@ export default function Home() {
     .find((t) => t.title.startsWith("Eğitim"))
     ?.rows.filter((r) => /Lab/.test(r.label))
     .reduce((a, r) => a + r.value, 0);
-  const values = [...getPage("temel-degerlerimiz").body.matchAll(/\*\*\*(.+?)\*\*\*/g)].map((m) => m[1]);
   const missionText = getPage("misyonumuz").body.match(/“(.+?)”/)?.[1] ?? "";
 
   const mission = [
@@ -130,7 +128,6 @@ export default function Home() {
   return (
     <>
       <Hero slides={slides} students={nf.format(stats.studentTotal)} units={units.length} centers={centers.length} />
-      <ValuesMarquee values={values} />
       <Mission text={missionText} images={mission} />
       <StatsBand
         stats={[
