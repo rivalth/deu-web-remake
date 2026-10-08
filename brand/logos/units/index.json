@@ -1,0 +1,184 @@
+{
+  "meslek-yuksekokullari": {
+    "adalet-meslek-yuksekokulu": [
+      "adalet-meslek-yuksekokulu.png",
+      "adalet-meslek-yuksekokulu.svg"
+    ],
+    "bergama-meslek-yuksekokulu": [
+      "bergama-meslek-yuksekokulu.png",
+      "bergama-meslek-yuksekokulu.svg"
+    ],
+    "efes-meslek-yuksekokulu": [
+      "efes-myo-logo.jpg",
+      "efes-myo-logo.png",
+      "efes-myo-logo.svg"
+    ],
+    "izmir-meslek-yuksekokulu": [
+      "izmir-meslek-yuksekokulu.png",
+      "izmir-meslek-yuksekokulu.svg"
+    ],
+    "saglik-hizmetleri-meslek-yuksekokulu": [
+      "saglik-hizmetleri-meslek-yuksekokulu.png",
+      "saglik-hizmetleri-meslek-yuksekokulu.svg"
+    ],
+    "torbali-meslek-yuksekokulu": [
+      "torbali-meslek-yuksekokulu.png",
+      "torbali-meslek-yuksekokulu.svg"
+    ]
+  },
+  "enstituler": {
+    "ataturk-ilkeleri-ve-inkilap-tarihi-enstitusu": [
+      "ataturk-ilkeleri-ve-inkilaplari-enstitusu.png",
+      "ataturk-ilkeleri-ve-inkilaplari-enstitusu.svg"
+    ],
+    "deniz-bilimleri-ve-teknolojisi-enstitusu": [
+      "deniz-bilimleri-ve-teknolojisi-enstitusu.png",
+      "deniz-bilimleri-ve-teknolojisi-enstitusu.svg"
+    ],
+    "din-bilimleri-arastirma-enstitusu": [
+      "deu-din-bilimleri-arastirma-enstitusu-logo-01.svg",
+      "deu-din-bilimleri-arastirma-enstitusu-logo.jpg",
+      "deu-din-bilimleri-arastirma-enstitusu-logo.png",
+      "deu-din-bilimleri-arastirma-enstitusu-logo.svg"
+    ],
+    "egitim-bilimleri-enstitusu": [
+      "egitim-bilimleri-enstitusu.png",
+      "egitim-bilimleri-enstitusu.svg"
+    ],
+    "fen-bilimleri-enstitusu": [
+      "fen-bilimleri-enstitusu.png",
+      "fen-bilimleri-enstitusu.svg"
+    ],
+    "guzel-sanatlar-enstitusu": [
+      "guzel-sanatlar-enstitusu-eng-01.png",
+      "guzel-sanatlar-enstitusu-eng-02-white.png",
+      "guzel-sanatlar-enstitusu-eng-03.png",
+      "guzel-sanatlar-enstitusu-eng-04-white.png",
+      "guzel-sanatlar-enstitusu-eng.svg",
+      "guzel-sanatlar-enstitusu-tr-01.png",
+      "guzel-sanatlar-enstitusu-tr-02-beyaz.png",
+      "guzel-sanatlar-enstitusu-tr-03.png",
+      "guzel-sanatlar-enstitusu-tr-04-beyaz.png",
+      "guzel-sanatlar-enstitusu-tr.svg"
+    ],
+    "izmir-uluslararasi-biyotip-ve-genom-enstitusu": [
+      "ibg-izmir-logo-01.jpg",
+      "ibg-izmir-logo-01.png",
+      "ibg-izmir-logo.svg"
+    ],
+    "onkoloji-enstitusu": [
+      "onkoloji-enstitusu.png",
+      "onkoloji-enstitusu.svg"
+    ],
+    "saglik-bilimleri-enstitusu": [
+      "saglik-bilimleri-enstitusu.png",
+      "saglik-bilimleri-enstitusu.svg"
+    ],
+    "sosyal-bilimler-enstitusu": [
+      "sosyal-bilimler-enstitusu.png",
+      "sosyal-bilimler-enstitusu.svg"
+    ]
+  },
+  "fakulteler": {
+    "buca-egitim-fakultesi": [
+      "buca-egitim-fakultesi.png",
+      "buca-egitim-fakultesi.svg"
+    ],
+    "denizcilik-fakultesi": [
+      "denizcilik-fakultesi.png",
+      "denizcilik-fakultesi.svg"
+    ],
+    "dis-hekimligi-fakultesi": [
+      "dis-hekimligi-fakultesi.png",
+      "dis-hekimligi-fakultesi.svg"
+    ],
+    "edebiyat-fakultesi": [
+      "edebiyat-fakultesi.png",
+      "edebiyat-fakultesi.svg"
+    ],
+    "fen-fakultesi": [
+      "fen-fakultesi.png",
+      "fen-fakultesi.svg"
+    ],
+    "fizik-tedavi-ve-rehabilitasyon-fakultesi": [
+      "ftrf-01.jpg",
+      "ftrf-01.png",
+      "ftrf.svg"
+    ],
+    "guzel-sanatlar-fakultesi": [
+      "deu-gsf-logo-sb.jpg",
+      "deu-gsf-logo-sb.png",
+      "deu-gsf-logo-zeminde-kullanim-2x-8.png",
+      "deu-gsf-logo.jpg",
+      "deu-gsf-logo.png"
+    ],
+    "hemsirelik-fakultesi": [
+      "faculty-of-nursing.jpg",
+      "faculty-of-nursing.png",
+      "faculty-of-nursing.svg",
+      "hemsirelik-fakultesi.jpg",
+      "hemsirelik-fakultesi.png",
+      "hemsirelik-fakultesi.svg"
+    ],
+    "hukuk-fakultesi": [
+      "hukuk-fakultesi.png",
+      "hukuk-fakultesi.svg"
+    ],
+    "iktisadi-ve-idari-bilimler-fakultesi": [
+      "iktisadi-ve-idari-bilimler-fakultesi.png",
+      "iktisadi-ve-idari-bilimler-fakultesi.svg"
+    ],
+    "ilahiyat-fakultesi": [
+      "ilahiyat-fakultesi.png",
+      "ilahiyat-fakultesi.svg"
+    ],
+    "isletme-fakultesi": [
+      "isletme-fakultesi.jpg",
+      "isletme-fakultesi.png",
+      "isletme-fakultesi.svg"
+    ],
+    "mimarlik-fakultesi": [
+      "deu-mimarlik-fakultesi-01.svg",
+      "deu-mimarlik-fakultesi.jpg",
+      "deu-mimarlik-fakultesi.png",
+      "deu-mimarlik-fakultesi.svg"
+    ],
+    "muhendislik-fakultesi": [
+      "muhendislik-fakultesi.png",
+      "muhendislik-fakultesi.svg"
+    ],
+    "necat-hepkon-spor-bilimleri-fakultesi": [
+      "spor-bilimleri-fakultesi-01.jpg",
+      "spor-bilimleri-fakultesi-01.png",
+      "spor-bilimleri-fakultesi.svg"
+    ],
+    "tip-fakultesi": [
+      "tip-fakultesi.png",
+      "tip-fakultesi.svg"
+    ],
+    "turizm-fakultesi": [
+      "turizm-fakultesi.png",
+      "turizm-fakultesi.svg"
+    ],
+    "veteriner-fakultesi": [
+      "veteriner-fakultesi.png",
+      "veteriner-fakultesi.svg"
+    ]
+  },
+  "yuksekokullar": {
+    "devlet-konservatuvari": [
+      "devlet-konservatuvari.png",
+      "devlet-konservatuvari.svg"
+    ],
+    "uygulamali-bilimler-yuksekokulu": [
+      "uygulamali-bilimler-yuksekokulu.png",
+      "uygulamali-bilimler-yuksekokulu.svg"
+    ],
+    "yabanci-diller-yuksekokulu": [
+      "ydy-logo-en-1.png",
+      "ydy-logo-en-page-0001.jpg",
+      "ydy-logo-tr-1.png",
+      "ydy-logo-tr-page-0001.jpg"
+    ]
+  }
+}
