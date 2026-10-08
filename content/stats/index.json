@@ -1,0 +1,703 @@
+[
+  {
+    "slug": "index",
+    "title": "Sayılarla Dokuz Eylül Üniversitesi",
+    "source": "https://sayilarla.deu.edu.tr/",
+    "headline": [
+      {
+        "label": "Önlisans",
+        "value": 8868
+      },
+      {
+        "label": "Lisans",
+        "value": 40003
+      },
+      {
+        "label": "Tezli YL",
+        "value": 4339
+      },
+      {
+        "label": "Tezsiz YL",
+        "value": 125
+      },
+      {
+        "label": "Doktora",
+        "value": 1664
+      },
+      {
+        "label": "Sanatta Yet.",
+        "value": 64
+      }
+    ],
+    "tables": []
+  },
+  {
+    "slug": "akademik-personel",
+    "title": "Akademik Personel",
+    "source": "https://sayilarla.deu.edu.tr/akademik-personel/",
+    "headline": null,
+    "tables": [
+      {
+        "title": "Akademisyen Sayıları (Yıllara ve Ünvana Göre)",
+        "columns": [
+          "Tarih",
+          "Profesör",
+          "Doçent",
+          "Dr. Öğr. Üyesi",
+          "Öğretim Gör.",
+          "Araş. Gör.",
+          "Toplam"
+        ],
+        "rows": [
+          [
+            "2018",
+            "737",
+            "306",
+            "583",
+            "679",
+            "938",
+            "3.243"
+          ],
+          [
+            "2019",
+            "744",
+            "337",
+            "525",
+            "652",
+            "965",
+            "3.223"
+          ],
+          [
+            "2020",
+            "728",
+            "359",
+            "501",
+            "651",
+            "995",
+            "3.234"
+          ],
+          [
+            "2021",
+            "736",
+            "367",
+            "483",
+            "642",
+            "1.005",
+            "3.233"
+          ],
+          [
+            "2022",
+            "735",
+            "391",
+            "437",
+            "612",
+            "904",
+            "3.079"
+          ],
+          [
+            "2023",
+            "809",
+            "434",
+            "439",
+            "537",
+            "710",
+            "2.929"
+          ],
+          [
+            "2024",
+            "797",
+            "468",
+            "445",
+            "512",
+            "630",
+            "2.852"
+          ],
+          [
+            "2025",
+            "944",
+            "447",
+            "430",
+            "482",
+            "510",
+            "2.813"
+          ],
+          [
+            "2026",
+            "948",
+            "467",
+            "425",
+            "487",
+            "512",
+            "2.839"
+          ],
+          [
+            "Güncel",
+            "975",
+            "434",
+            "434",
+            "476",
+            "656",
+            "2.975"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "fiziksel-veriler-ve-sosyal-veriler",
+    "title": "Fiziksel Veriler ve Sosyal Veriler",
+    "source": "https://sayilarla.deu.edu.tr/fiziksel-veriler-ve-sosyal-veriler/",
+    "headline": null,
+    "tables": [
+      {
+        "title": "Eğitim Alanları",
+        "columns": [
+          "Eğitim Alanı Türü",
+          "Sayısı"
+        ],
+        "rows": [
+          [
+            "Amfi",
+            "47"
+          ],
+          [
+            "Sınıf (Derslik)",
+            "846"
+          ],
+          [
+            "Bilgisayar Lab.",
+            "113"
+          ],
+          [
+            "Diğer Lab.",
+            "245"
+          ]
+        ]
+      },
+      {
+        "title": "Kantin ve Kafeteryalar",
+        "columns": [
+          "Hizmet Alanları",
+          "Sayı"
+        ],
+        "rows": [
+          [
+            "Kantin",
+            "17"
+          ],
+          [
+            "Büfe",
+            "0"
+          ],
+          [
+            "Kafeterya",
+            "0"
+          ],
+          [
+            "Market",
+            "0"
+          ],
+          [
+            "Restoran",
+            "1"
+          ],
+          [
+            "Lokal",
+            "0"
+          ]
+        ]
+      },
+      {
+        "title": "Yemekhane Hizmet Alanları",
+        "columns": [
+          "Hizmet Alanı",
+          "Sayı"
+        ],
+        "rows": [
+          [
+            "Öğrenci Yemekhanesi",
+            "6"
+          ],
+          [
+            "Personel Yemekhanesi",
+            "6"
+          ],
+          [
+            "Ortak Yemekhaneler",
+            "11"
+          ]
+        ]
+      },
+      {
+        "title": "Misafirhane ve Lojman",
+        "columns": [
+          "Sosyal Alan Adı",
+          "Oda Sayısı"
+        ],
+        "rows": [
+          [
+            "Otel Dokuz Eylül",
+            "44"
+          ],
+          [
+            "Öğrenci Yurdu Konukevi",
+            "30"
+          ],
+          [
+            "Bergama M.Y.O. Konukevi",
+            "3"
+          ],
+          [
+            "Araştırma Gör. Konukevi",
+            "71"
+          ],
+          [
+            "Bergama Lojmanı",
+            "5"
+          ]
+        ]
+      },
+      {
+        "title": "Toplantı ve Konferans Salonları",
+        "columns": [
+          "Salonlar",
+          "Sayı"
+        ],
+        "rows": [
+          [
+            "Toplantı Salonu",
+            "103"
+          ],
+          [
+            "Konferans Salonu",
+            "40"
+          ],
+          [
+            "Okuma Salonu",
+            "7"
+          ],
+          [
+            "Mahkeme Salonu",
+            "1"
+          ]
+        ]
+      },
+      {
+        "title": "Öğrenci Yurtları",
+        "columns": [
+          "Öğrenci Yurdu Adı",
+          "Oda Sayısı"
+        ],
+        "rows": [
+          [
+            "DEÜ Öğrenci Yurdu",
+            "334"
+          ],
+          [
+            "Buca Kız Öğrenci Yurdu",
+            "18"
+          ],
+          [
+            "Reha Midilli Öğrenci Yurdu",
+            "20"
+          ],
+          [
+            "Bergama MYO Öğr. Yurdu",
+            "33"
+          ]
+        ]
+      },
+      {
+        "title": "Diğer Sosyal Alanlar",
+        "columns": [
+          "Alan Adı",
+          "Sayı"
+        ],
+        "rows": [
+          [
+            "Desem Sinema Salonu",
+            "1"
+          ],
+          [
+            "Öğrenci Aktivite Merkezi Cep Sinemaları",
+            "2"
+          ],
+          [
+            "Konser Alanı / Amfi Tiyatro",
+            "1"
+          ],
+          [
+            "Tiyatro Sahnesi / Salonu",
+            "2"
+          ],
+          [
+            "Sergi Alanı / Fuaye",
+            "3"
+          ],
+          [
+            "Seferihisar Eğitim ve Dinlenme Tesisleri",
+            "1"
+          ]
+        ]
+      },
+      {
+        "title": "Kapalı Spor Alanları ve Tesisleri",
+        "columns": [
+          "Birim Adı",
+          "Sayı"
+        ],
+        "rows": [
+          [
+            "Merkez Yerleşke",
+            "1"
+          ],
+          [
+            "Rektörlük Yerleşkesi",
+            "1"
+          ],
+          [
+            "Dokuzçeşmeler Yerleşkesi",
+            "1"
+          ],
+          [
+            "Eğitim Fakültesi Yerleşkesi",
+            "1"
+          ],
+          [
+            "İnciraltı Sağlık Yerleşkesi",
+            "2"
+          ]
+        ]
+      },
+      {
+        "title": "Açık Spor Alanları ve Tesisleri",
+        "columns": [
+          "Birim Adı",
+          "Sayı"
+        ],
+        "rows": [
+          [
+            "Dokuzçeşmeler Yerleşkesi",
+            "1"
+          ],
+          [
+            "Merkez Yerleşke",
+            "6"
+          ],
+          [
+            "İlahiyat Fakültesi Yerleşkesi",
+            "1"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "idari-personel",
+    "title": "İdari Personel",
+    "source": "https://sayilarla.deu.edu.tr/idari-personel/",
+    "headline": null,
+    "tables": [
+      {
+        "title": "İdari Personel Sayıları (Yıllara ve Hizmet Sınıfına Göre)",
+        "columns": [
+          "Yıl",
+          "Genel İdari Hiz.",
+          "Teknik Hiz.",
+          "Sağlık Hiz.",
+          "Eğitim-Öğretim Hiz.",
+          "Avukatlık",
+          "Din Hiz.",
+          "Yardımcı Hiz.",
+          "Toplam"
+        ],
+        "rows": [
+          [
+            "2017",
+            "1.362",
+            "301",
+            "1.020",
+            "0",
+            "7",
+            "2",
+            "343",
+            "3.035"
+          ],
+          [
+            "2018",
+            "1.307",
+            "299",
+            "975",
+            "1",
+            "7",
+            "2",
+            "330",
+            "2.921"
+          ],
+          [
+            "2019",
+            "1.262",
+            "290",
+            "960",
+            "0",
+            "7",
+            "2",
+            "288",
+            "2.809"
+          ],
+          [
+            "2020",
+            "1.200",
+            "279",
+            "924",
+            "2",
+            "8",
+            "2",
+            "268",
+            "2.683"
+          ],
+          [
+            "2021",
+            "1.117",
+            "262",
+            "887",
+            "2",
+            "7",
+            "2",
+            "243",
+            "2.520"
+          ],
+          [
+            "2022",
+            "1.100",
+            "246",
+            "869",
+            "2",
+            "7",
+            "1",
+            "233",
+            "2.458"
+          ],
+          [
+            "2023",
+            "1.002",
+            "222",
+            "1.373",
+            "2",
+            "8",
+            "0",
+            "217",
+            "2.824"
+          ],
+          [
+            "2024",
+            "971",
+            "213",
+            "1.323",
+            "2",
+            "8",
+            "0",
+            "208",
+            "2.725"
+          ],
+          [
+            "2025",
+            "944",
+            "203",
+            "1.310",
+            "2",
+            "8",
+            "1",
+            "189",
+            "2.657"
+          ],
+          [
+            "2026",
+            "948",
+            "202",
+            "1.295",
+            "2",
+            "9",
+            "1",
+            "220",
+            "2.677"
+          ],
+          [
+            "Güncel",
+            "949",
+            "204",
+            "1.299",
+            "2",
+            "9",
+            "1",
+            "223",
+            "2.687"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ogrenci-sayisi-ve-dagilim",
+    "title": "Öğrenci Sayısı ve Dağılım",
+    "source": "https://sayilarla.deu.edu.tr/ogrenci-sayisi-ve-dagilim/",
+    "headline": null,
+    "tables": [
+      {
+        "title": "Öğretim Türüne Göre Öğrenci Sayıları",
+        "columns": [
+          "Öğretim Yılı",
+          "Önlisans",
+          "Lisans",
+          "Tezli YL",
+          "Tezsiz YL",
+          "Doktora",
+          "Sanatta Yeterlilik",
+          "Toplam"
+        ],
+        "rows": [
+          [
+            "2012-2013",
+            "9.700",
+            "42.025",
+            "5.209",
+            "998",
+            "1.484",
+            "58",
+            "59.474"
+          ],
+          [
+            "2013-2014",
+            "10.600",
+            "43.833",
+            "6.177",
+            "1.193",
+            "1.591",
+            "73",
+            "63.467"
+          ],
+          [
+            "2014-2015",
+            "11.957",
+            "45.571",
+            "7.297",
+            "1.320",
+            "1.750",
+            "62",
+            "67.957"
+          ],
+          [
+            "2015-2016",
+            "13.210",
+            "46.885",
+            "7.813",
+            "1.487",
+            "1.946",
+            "70",
+            "71.411"
+          ],
+          [
+            "2016-2017",
+            "14.842",
+            "50.128",
+            "8.230",
+            "1.910",
+            "2.014",
+            "80",
+            "77.204"
+          ],
+          [
+            "2017-2018",
+            "16.062",
+            "50.471",
+            "8.771",
+            "2.238",
+            "2.229",
+            "101",
+            "77.682"
+          ],
+          [
+            "2018-2019",
+            "11.637",
+            "51.169",
+            "7.900",
+            "917",
+            "2.135",
+            "114",
+            "73.872"
+          ],
+          [
+            "2019-2020",
+            "11.721",
+            "50.990",
+            "4.578",
+            "701",
+            "2.172",
+            "120",
+            "70.282"
+          ],
+          [
+            "2020-2021",
+            "11.528",
+            "47.660",
+            "4.741",
+            "521",
+            "2.207",
+            "123",
+            "66.780"
+          ],
+          [
+            "2021-2022",
+            "11.904",
+            "45.671",
+            "4.995",
+            "548",
+            "2.211",
+            "122",
+            "65.451"
+          ],
+          [
+            "2022-2023",
+            "11.746",
+            "41.773",
+            "5.764",
+            "555",
+            "2.233",
+            "103",
+            "62.174"
+          ],
+          [
+            "2023-2024",
+            "12.519",
+            "47.257",
+            "5.232",
+            "521",
+            "2.073",
+            "90",
+            "67.692"
+          ],
+          [
+            "2025-2026",
+            "8.990",
+            "40.090",
+            "4.193",
+            "126",
+            "1.653",
+            "64",
+            "55.116"
+          ],
+          [
+            "Güncel",
+            "8.868",
+            "40.003",
+            "4.339",
+            "125",
+            "1.664",
+            "64",
+            "55.063"
+          ]
+        ]
+      }
+    ]
+  }
+]

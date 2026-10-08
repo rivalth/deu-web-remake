@@ -1,0 +1,869 @@
+{
+  "navigation": [
+    {
+      "text": "Anasayfa",
+      "url": "https://www.deu.edu.tr/"
+    },
+    {
+      "text": "Üniversitemiz",
+      "url": "#",
+      "children": [
+        {
+          "text": "Tarihçe",
+          "url": "https://www.deu.edu.tr/tarihce/"
+        },
+        {
+          "text": "Misyonumuz",
+          "url": "https://www.deu.edu.tr/misyonumuz/"
+        },
+        {
+          "text": "Vizyonumuz",
+          "url": "https://www.deu.edu.tr/vizyonumuz/"
+        },
+        {
+          "text": "Temel Değerlerimiz",
+          "url": "https://www.deu.edu.tr/temel-degerlerimiz/"
+        },
+        {
+          "text": "Politikalarımız",
+          "url": "https://kalite.deu.edu.tr/politika-belgeleri/"
+        },
+        {
+          "text": "Mevzuat",
+          "url": "#",
+          "children": [
+            {
+              "text": "Yönetmelikler",
+              "url": "https://www.deu.edu.tr/yonetmelikler/"
+            },
+            {
+              "text": "Uygulama ve Araştırma Merkez Yönetmelikleri",
+              "url": "https://www.deu.edu.tr/uygulama-ve-arastirma-merkez-yonetmelikleri/"
+            },
+            {
+              "text": "Yönergeler",
+              "url": "https://www.deu.edu.tr/yonergeler/"
+            },
+            {
+              "text": "Esaslar",
+              "url": "https://www.deu.edu.tr/esaslar/"
+            }
+          ]
+        },
+        {
+          "text": "Kurumsal Organizasyon Şeması",
+          "url": "https://www.deu.edu.tr/file/2025/09/DEU-00.OR_.01-DEU-Organizasyon-Semasi-30.04.2024.pdf"
+        },
+        {
+          "text": "Birim Organizasyon Şeması",
+          "url": "http://strateji.deu.edu.tr/pdf/Organizasyon-Semalari.pdf"
+        },
+        {
+          "text": "Stratejik Amaç ve Hedefler",
+          "url": "https://bid.deu.edu.tr/WtgdV"
+        },
+        {
+          "text": "Kurumsal Kimlik",
+          "url": "https://kurumsalkimlik.deu.edu.tr/"
+        },
+        {
+          "text": "Tanıtım Filmi",
+          "url": "https://www.youtube.com/watch?v=ACSpMK66k5E"
+        },
+        {
+          "text": "Öğrenci Toplulukları",
+          "url": "https://ogrencitopluluklari.deu.edu.tr/"
+        }
+      ]
+    },
+    {
+      "text": "E-Bülten",
+      "url": "https://www.deu.edu.tr/e-bulten/"
+    },
+    {
+      "text": "Yönetim",
+      "url": "#",
+      "children": [
+        {
+          "text": "Rektör",
+          "url": "https://www.deu.edu.tr/rektor/"
+        },
+        {
+          "text": "Rektör Yardımcıları",
+          "url": "https://www.deu.edu.tr/rektor-yardimcilari/"
+        },
+        {
+          "text": "Genel Sekreter",
+          "url": "https://www.deu.edu.tr/genel-sekreter/"
+        },
+        {
+          "text": "Genel Sekreter Yardımcıları",
+          "url": "https://www.deu.edu.tr/genel-sekreter-yardimcilari/"
+        },
+        {
+          "text": "Üniversite Senatosu",
+          "url": "http://gensek.deu.edu.tr/senato/"
+        },
+        {
+          "text": "Üniversite Yönetim Kurulu",
+          "url": "http://gensek.deu.edu.tr/universite-yonetim-kurulu-uyeleri/"
+        }
+      ]
+    },
+    {
+      "text": "Akademik",
+      "url": "#",
+      "children": [
+        {
+          "text": "Akademik Birimler",
+          "url": "https://www.deu.edu.tr/akademik-birimler/"
+        },
+        {
+          "text": "Akademik Personel Arama",
+          "url": "https://avesis.deu.edu.tr/"
+        }
+      ]
+    },
+    {
+      "text": "İdari",
+      "url": "#",
+      "children": [
+        {
+          "text": "İdari Birimler",
+          "url": "https://www.deu.edu.tr/idari-birimler/"
+        },
+        {
+          "text": "İç Denetim Birimi Başkanlığı",
+          "url": "https://icdenetim.deu.edu.tr/"
+        }
+      ]
+    },
+    {
+      "text": "Araştırma",
+      "url": "https://www.deu.edu.tr/arastirma-deu/"
+    },
+    {
+      "text": "Kütüphane",
+      "url": "https://kutuphane.deu.edu.tr/"
+    },
+    {
+      "text": "Aday Öğrenci",
+      "url": "https://adayogrenci.deu.edu.tr/"
+    },
+    {
+      "text": "İletişim",
+      "url": "https://www.deu.edu.tr/iletisim/"
+    }
+  ],
+  "topLinks": [
+    {
+      "text": "Engelsiz Anasayfa",
+      "url": "https://www.deu.edu.tr/engelsiz/"
+    },
+    {
+      "text": "Aday Öğrenci",
+      "url": "https://adayogrenci.deu.edu.tr/"
+    },
+    {
+      "text": "Mezun",
+      "url": "https://mezun.deu.edu.tr/"
+    },
+    {
+      "text": "OGEB",
+      "url": "http://gensek.deu.edu.tr/ogeb/"
+    },
+    {
+      "text": "DEBİS",
+      "url": "http://debis.deu.edu.tr/debis.php"
+    },
+    {
+      "text": "Personel E-Posta",
+      "url": "https://webmail3.deu.edu.tr/"
+    },
+    {
+      "text": "Öğrenci E-Posta",
+      "url": "https://ogrmail.deu.edu.tr/"
+    },
+    {
+      "text": "Bilgi Güvenliği",
+      "url": "https://bilgiguvenligi.deu.edu.tr/"
+    },
+    {
+      "text": "KVKK",
+      "url": "https://kvkk.deu.edu.tr/"
+    }
+  ],
+  "academicUnits": [
+    {
+      "title": "Enstitüler",
+      "links": [
+        {
+          "text": "Enstitü Bilgi Sistemi (EBS)",
+          "url": "https://enstitu.deu.edu.tr/"
+        },
+        {
+          "text": "Atatürk İlkeleri ve İnkılap Tarihi Enstitüsü",
+          "url": "https://ataturkilkeleri.deu.edu.tr/"
+        },
+        {
+          "text": "Deniz Bilimleri ve Teknolojisi Enstitüsü",
+          "url": "https://imst.deu.edu.tr/"
+        },
+        {
+          "text": "Din Bilimleri Araştırma Enstitüsü",
+          "url": "https://dinbilimleri.deu.edu.tr/"
+        },
+        {
+          "text": "Eğitim Bilimleri Enstitüsü",
+          "url": "https://egitimbilimleri.deu.edu.tr"
+        },
+        {
+          "text": "Fen Bilimleri Enstitüsü",
+          "url": "https://www.fbe.deu.edu.tr/"
+        },
+        {
+          "text": "Güzel Sanatlar Enstitüsü",
+          "url": "https://gse.deu.edu.tr/"
+        },
+        {
+          "text": "İzmir Uluslararası Biyotıp ve Genom Enstitüsü",
+          "url": "https://ibg.deu.edu.tr"
+        },
+        {
+          "text": "Onkoloji Enstitüsü",
+          "url": "https://onkoloji.deu.edu.tr/"
+        },
+        {
+          "text": "Sağlık Bilimleri Enstitüsü",
+          "url": "https://saglikbil.deu.edu.tr/"
+        },
+        {
+          "text": "Sosyal Bilimler Enstitüsü",
+          "url": "https://sbe.deu.edu.tr"
+        }
+      ],
+      "text": "Enstitü Bilgi Sistemi (EBS) Atatürk İlkeleri ve İnkılap Tarihi Enstitüsü Deniz Bilimleri ve Teknolojisi Enstitüsü Din Bilimleri Araştırma Enstitüsü Eğitim Bilimleri Enstitüsü Fen Bilimleri Enstitüsü Güzel Sanatlar Enstitüsü İzmir Uluslararası Biyotıp ve Genom Enstitüsü Onkoloji Enstitüsü Sağlık Bilimleri Enstitüsü Sosyal Bilimler Enstitüsü"
+    },
+    {
+      "title": "Fakülteler",
+      "links": [
+        {
+          "text": "Buca Eğitim Fakültesi",
+          "url": "https://bef.deu.edu.tr/"
+        },
+        {
+          "text": "Denizcilik Fakültesi",
+          "url": "https://denizcilik.deu.edu.tr"
+        },
+        {
+          "text": "Diş Hekimliği Fakültesi",
+          "url": "https://dis.deu.edu.tr/"
+        },
+        {
+          "text": "Edebiyat Fakültesi",
+          "url": "https://edebiyat.deu.edu.tr/"
+        },
+        {
+          "text": "Fen Fakültesi",
+          "url": "https://fen.deu.edu.tr/tr/"
+        },
+        {
+          "text": "Fizik Tedavi ve Rehabilitasyon Fakültesi",
+          "url": "https://ftr.deu.edu.tr"
+        },
+        {
+          "text": "Güzel Sanatlar Fakültesi",
+          "url": "https://gsf.deu.edu.tr/"
+        },
+        {
+          "text": "Hemşirelik Fakültesi",
+          "url": "https://hemsirelik.deu.edu.tr/"
+        },
+        {
+          "text": "Hukuk Fakültesi",
+          "url": "https://hukuk.deu.edu.tr/"
+        },
+        {
+          "text": "İktisadi ve İdari Bilimler Fakültesi",
+          "url": "https://iibf.deu.edu.tr/tr/"
+        },
+        {
+          "text": "İlahiyat Fakültesi",
+          "url": "https://ilahiyat.deu.edu.tr/index.php/tr/"
+        },
+        {
+          "text": "İşletme Fakültesi",
+          "url": "https://isletme.deu.edu.tr"
+        },
+        {
+          "text": "Mimarlık Fakültesi",
+          "url": "https://mimarlik.deu.edu.tr/"
+        },
+        {
+          "text": "Mühendislik Fakültesi",
+          "url": "https://eng.deu.edu.tr/"
+        },
+        {
+          "text": "Turizm Fakültesi",
+          "url": "https://turizm.deu.edu.tr"
+        },
+        {
+          "text": "Necat Hepkon Spor Bilimleri Fakültesi",
+          "url": "https://sporbilimleri.deu.edu.tr"
+        },
+        {
+          "text": "Tıp Fakültesi",
+          "url": "https://tip.deu.edu.tr"
+        },
+        {
+          "text": "Veteriner Fakültesi",
+          "url": "https://veteriner.deu.edu.tr/"
+        }
+      ],
+      "text": "Buca Eğitim Fakültesi Denizcilik Fakültesi Diş Hekimliği Fakültesi Edebiyat Fakültesi Fen Fakültesi Fizik Tedavi ve Rehabilitasyon Fakültesi Güzel Sanatlar Fakültesi Hemşirelik Fakültesi Hukuk Fakültesi İktisadi ve İdari Bilimler Fakültesi İlahiyat Fakültesi İşletme Fakültesi Mimarlık Fakültesi Mühendislik Fakültesi Turizm Fakültesi Necat Hepkon Spor Bilimleri Fakültesi Tıp Fakültesi Veteriner Fakültesi"
+    },
+    {
+      "title": "Yüksekokullar",
+      "links": [
+        {
+          "text": "Devlet Konservatuvarı",
+          "url": "https://konservatuvar.deu.edu.tr/"
+        },
+        {
+          "text": "Uygulamalı Bilimler Yüksekokulu",
+          "url": "https://seferihisaruby.deu.edu.tr/"
+        },
+        {
+          "text": "Yabancı Diller Yüksekokulu",
+          "url": "https://ydy.deu.edu.tr/"
+        }
+      ],
+      "text": "Devlet Konservatuvarı Uygulamalı Bilimler Yüksekokulu Yabancı Diller Yüksekokulu"
+    },
+    {
+      "title": "Meslek Yüksekokulları",
+      "links": [
+        {
+          "text": "Adalet Meslek Yüksekokulu",
+          "url": "https://adaletmyo.deu.edu.tr/tr/"
+        },
+        {
+          "text": "Bergama Meslek Yüksekokulu",
+          "url": "https://bergamamyo.deu.edu.tr/"
+        },
+        {
+          "text": "Efes Meslek Yüksekokulu",
+          "url": "https://efesmyo.deu.edu.tr/"
+        },
+        {
+          "text": "İzmir Meslek Yüksekokulu",
+          "url": "https://imyo.deu.edu.tr/"
+        },
+        {
+          "text": "Kiraz Meslek Yüksekokulu",
+          "url": "https://kirazmyo.deu.edu.tr/"
+        },
+        {
+          "text": "Sağlık Hizmetleri Meslek Yüksekokulu",
+          "url": "https://saglikhmyo.deu.edu.tr"
+        },
+        {
+          "text": "Torbalı Meslek Yüksekokulu",
+          "url": "https://torbali.deu.edu.tr/"
+        }
+      ],
+      "text": "Adalet Meslek Yüksekokulu Bergama Meslek Yüksekokulu Efes Meslek Yüksekokulu İzmir Meslek Yüksekokulu Kiraz Meslek Yüksekokulu Sağlık Hizmetleri Meslek Yüksekokulu Torbalı Meslek Yüksekokulu"
+    },
+    {
+      "title": "Ortak Zorunlu Dersler Bölümü",
+      "links": [
+        {
+          "text": "Ortak Zorunlu Dersler Bölümü",
+          "url": "https://ozd.deu.edu.tr/"
+        }
+      ],
+      "text": "Ortak Zorunlu Dersler Bölümü"
+    },
+    {
+      "title": "Koordinatörlükler",
+      "links": [
+        {
+          "text": "BAP-Bilimsel Araştırma Projeleri Koordinasyon Birimi",
+          "url": "http://bap.deu.edu.tr/"
+        },
+        {
+          "text": "Bağımlılıkla Mücadele Koordinatörlüğü",
+          "url": "https://bagimliliklamucadele.deu.edu.tr/"
+        },
+        {
+          "text": "Büyük Veri Koordinatörlüğü",
+          "url": "https://buyukveri.deu.edu.tr/"
+        },
+        {
+          "text": "Uluslararası Akademik İlişkiler Koordinatörlüğü",
+          "url": "http://international.deu.edu.tr/"
+        },
+        {
+          "text": "Engelsiz Dokuz Eylül Koordinatörlüğü",
+          "url": "https://engelsiz.deu.edu.tr/"
+        },
+        {
+          "text": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
+          "url": "https://isg.deu.edu.tr/"
+        },
+        {
+          "text": "Kalite Koordinatörlüğü",
+          "url": "https://kalite.deu.edu.tr/"
+        },
+        {
+          "text": "Kariyer Planlama ve Mezunlarla İlişkiler Koordinatörlüğü",
+          "url": "https://kariyer.deu.edu.tr/"
+        },
+        {
+          "text": "Kurumsal İletişim Koordinatörlüğü",
+          "url": "https://kurumsaliletisim.deu.edu.tr/"
+        },
+        {
+          "text": "Kurumsal Veri Yönetim Koordinatörlüğü",
+          "url": "https://veriyonetimi.deu.edu.tr/"
+        },
+        {
+          "text": "ÖYP-Öğretim Üyesi Yetiştirme Programı Koordinatörlüğü",
+          "url": "http://oyp.deu.edu.tr/"
+        },
+        {
+          "text": "Sıfır Atık ve Çevre Yönetimi Koordinatörlüğü",
+          "url": "https://sifiratik.deu.edu.tr/"
+        },
+        {
+          "text": "Toplumsal Katkı Koordinatörlüğü",
+          "url": "https://toplumsalkatki.deu.edu.tr/"
+        },
+        {
+          "text": "Uluslararası Öğrenci Koordinatörlüğü",
+          "url": "https://iso.deu.edu.tr/"
+        },
+        {
+          "text": "100/2000 Yükseköğretim Kurulu Doktora Bursu Koordinatörlüğü",
+          "url": "https://yuzikibin.deu.edu.tr/tr/anasayfa/"
+        }
+      ],
+      "text": "BAP-Bilimsel Araştırma Projeleri Koordinasyon Birimi Bağımlılıkla Mücadele Koordinatörlüğü Bilimsel Dergiler Koordinatörlüğü Büyük Veri Koordinatörlüğü Uluslararası Akademik İlişkiler Koordinatörlüğü Engelsiz Dokuz Eylül Koordinatörlüğü İş Sağlığı ve Güvenliği Koordinatörlüğü Kalite Koordinatörlüğü Kariyer Planlama ve Mezunlarla İlişkiler Koordinatörlüğü Kurumsal İletişim Koordinatörlüğü Kurumsal Veri Yönetim Koordinatörlüğü ÖYP-Öğretim Üyesi Yetiştirme Programı Koordinatörlüğü Sıfır Atık ve Çevre Yönetimi Koordinatörlüğü Toplumsal Katkı Koordinatörlüğü Uluslararası Öğrenci Koordinatörlüğü Yurt Dışı Lisansüstü Öğrenim Burs Koordinatörlüğü 100/2000 Yükseköğretim Kurulu Doktora Bursu Koordinatörlüğü Acil Durumlar ve Savunma Planlaması Koordinatörlüğü"
+    }
+  ],
+  "research": [
+    {
+      "title": "Projeler",
+      "links": [
+        {
+          "text": "Bilimsel Araştırma Projeleri Koordinasyon Birimi (BAP)",
+          "url": "http://bap.deu.edu.tr/tr/"
+        },
+        {
+          "text": "Proje Destek",
+          "url": "http://bap.deu.edu.tr/tr/kurumsal/fon-veren-kurumlar/"
+        },
+        {
+          "text": "Dokuz Eylül Üniversitesi Proje Rapor ve İstatistikler",
+          "url": "https://avesis.deu.edu.tr/raporlar/projeler/kurumun-yillara-gore-proje-dagilimi"
+        }
+      ],
+      "text": "Bilimsel Araştırma Projeleri Koordinasyon Birimi (BAP) Proje Destek Dokuz Eylül Üniversitesi Proje Rapor ve İstatistikler"
+    },
+    {
+      "title": "Teknoloji ve İnovasyon",
+      "links": [
+        {
+          "text": "Dokuz Eylül Üniversitesi Teknoloji Transfer Ofisi",
+          "url": "https://www.dokuzeylultto.com/"
+        },
+        {
+          "text": "Dokuz Eylül Üniversitesi Teknoparkı (DEPARK)",
+          "url": "https://www.depark.com/"
+        },
+        {
+          "text": "BAMBU DEÜ KULUÇKA",
+          "url": "https://bambu.depark.com/"
+        },
+        {
+          "text": "Kurumsal Fikri Mülkiyet Dağılımı",
+          "url": "https://avesis.deu.edu.tr/raporlar/patentler/kurumun-yillara-gore-fikri-m%C3%BClkiyet-dagilimi"
+        }
+      ],
+      "text": "Dokuz Eylül Üniversitesi Teknoloji Transfer Ofisi Dokuz Eylül Üniversitesi Teknoparkı (DEPARK) BAMBU DEÜ KULUÇKA Kurumsal Fikri Mülkiyet Dağılımı"
+    },
+    {
+      "title": "Bilimsel Faaliyetler",
+      "links": [
+        {
+          "text": "Atıflar Dağılımı",
+          "url": "https://avesis.deu.edu.tr/raporlar/atiflar/kurumun-yillara-gore-atif-dagilimi"
+        },
+        {
+          "text": "Bilimsel Faaliyet Rapor ve İstatistikleri",
+          "url": "https://avesis.deu.edu.tr/raporlar/bilimsel-faaliyetler/bilimsel-dergilerdeki-gorevlerin-dagilimi"
+        },
+        {
+          "text": "Bilimsel Yayın Dağılımı",
+          "url": "https://avesis.deu.edu.tr/raporlar/yayinlar/kurumun-yillara-gore-yayin-dagilimi"
+        }
+      ],
+      "text": "Atıflar Dağılımı Bilimsel Faaliyet Rapor ve İstatistikleri Bilimsel Yayın Dağılımı"
+    },
+    {
+      "title": "Laboratuvarlar",
+      "links": [
+        {
+          "text": "Laboratuvar Yönetim Sistemi için",
+          "url": "http://delab.deu.edu.tr/"
+        },
+        {
+          "text": "tıklayınız",
+          "url": "http://delab.deu.edu.tr/"
+        },
+        {
+          "text": ".",
+          "url": "http://delab.deu.edu.tr/"
+        },
+        {
+          "text": "tıklayınız.",
+          "url": "https://www.deu.edu.tr/file/2023/03/DEU-Laboratuvar-Deney-Listesi-2023.xlsx"
+        }
+      ],
+      "text": "Laboratuvar Yönetim Sistemi için tıklayınız . Dokuz Eylül Üniversitesi’nin bilimsel ve akademik çalışmaları kapsamında etkin eğitim, öğretim ve araştırma desteği sağlayan gelişmiş laboratuvar altyapısı; Sağlık Bilimlerinden Fen Bilimlerine, Mühendislik Bilimlerinden Denizcilik Eğitimlerine, uygulama ölçekleri bakımından da Fakülteler düzeyinden Meslek Yüksek Okulları ve Araştırma-Uygulama Merkezlerine kadar bünyesinde barındırdığı tüm modern ekipmanlar ve eğitimli/deneyimli teknik personeli sayesinde akademik araştırma ve geliştirme çalışmalarının yanı sıra farklı disiplinlere ilişkin iş sektörlerinin de ihtiyaç duyduğu her alanda uygulama hizmetleri sunmaktadır. Fen ve Mühendislik Bilimlerinde hizmet veren araştırma laboratuvarlarında lisans eğitimlerinin yanı sıra lisansüstü araştırmalar da gerçekleştirilebilmektedir. Mevcut durumda, küresel, ulusal ve Ege Bölgesi özelinde bölgesel olarak ortaya çıkan problemlere ve araştırma önceliklerine hizmet verebilecek şekilde güncel donanım ve yazılım imkanlarına sahip olan bu laboratuvar altyapıları, uygulamalı analizlere ihtiyaç duyan sektör unsurlarının ve ekosistem paydaşlarının talepleri, değişim dinamikleri ve teknolojik ilerlemeler doğrultusunda artmaya devam eden bir hizmet farkındalığı ile güncel uygulama ve araştırma imkanları sunmaya devam etmektedir. Üniversitemiz Laboratuvar Deney listesi için tıklayınız."
+    },
+    {
+      "title": "Uygulama ve Araştırma Merkezleri",
+      "links": [
+        {
+          "text": "Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezi",
+          "url": "https://agizdis.deu.edu.tr/"
+        },
+        {
+          "text": "Akademik Acil Tıp ve Afet Eğitim Uygulama ve Araştırma Merkezi (ATAMER)",
+          "url": "https://atamer.deu.edu.tr/"
+        },
+        {
+          "text": "Akademik ve Kişisel Gelişimi Destekleme Uygulama ve Araştırma Merkezi (AKADEMİ-DE)",
+          "url": "https://akademi-de.deu.edu.tr"
+        },
+        {
+          "text": "Avrupa Çalışmaları Uygulama ve Araştırma Merkezi (ATMER)",
+          "url": "http://atmer.deu.edu.tr/"
+        },
+        {
+          "text": "Bilişim Teknolojileri Araştırma ve Uygulama Merkezi (DEBTAM)",
+          "url": "https://debtam.deu.edu.tr/"
+        },
+        {
+          "text": "Bilim ve Teknoloji Uygulama ve Araştırma Merkezi",
+          "url": "https://team.deu.edu.tr"
+        },
+        {
+          "text": "Bioizmir Uluslararası Sağlık Teknolojileri Geliştirici Ve Hızlandırıcı Uygulama Ve Araştırma Merkezi",
+          "url": "http://bioizmir.deu.edu.tr/"
+        },
+        {
+          "text": "Bölgesel Kalkınma ve İşletme Bilimleri Araştırma ve Uygulama Merkezi (BIMER)",
+          "url": "http://bimer.deu.edu.tr/"
+        },
+        {
+          "text": "Çevre Araştırma ve Uygulama Merkezi (ÇEVMER)",
+          "url": "http://cevmer.deu.edu.tr"
+        },
+        {
+          "text": "Çocuk Eğitimi Uygulama ve Araştırma Merkezi (DEÇEM)",
+          "url": "http://decem.deu.edu.tr/"
+        },
+        {
+          "text": "Dil Eğitimi Uygulama ve Araştırma Merkezi (DİLMER)",
+          "url": "http://dedam.deu.edu.tr/index.php?lang=tr"
+        },
+        {
+          "text": "Deprem Araştırma ve Uygulama Merkezi (DAUM)",
+          "url": "http://daum.deu.edu.tr/"
+        },
+        {
+          "text": "DEÜ Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezi",
+          "url": "https://www.dokuzeylultto.com/"
+        },
+        {
+          "text": "Ege Bölgesi Kültür Varlıkları Uygulama ve Araştırma Merkezi",
+          "url": "https://ekvam.deu.edu.tr"
+        },
+        {
+          "text": "Ege Bölgesi Uygulama ve Araştırma Merkezi (EBAMER)",
+          "url": "http://ebamer.deu.edu.tr/"
+        },
+        {
+          "text": "Elektronik Malzemeler Üretimi ve Uygulama Merkezi (EMUM)",
+          "url": "https://emum.deu.edu.tr/tr/"
+        },
+        {
+          "text": "Enerji Uygulama ve Araştırma Merkezi (EUAM)",
+          "url": "http://euam.deu.edu.tr"
+        },
+        {
+          "text": "Fauna ve Flora Araştırma ve Uygulama Merkezi",
+          "url": "http://famer.deu.edu.tr/"
+        },
+        {
+          "text": "Fevziye Hepkon Spor Bilimleri ve Sporcu Sağlığı Uygulama ve Araştırma Merkezi",
+          "url": "https://sbss.deu.edu.tr/"
+        },
+        {
+          "text": "Geleneksel ve Tamamlayıcı Tıp Uygulama ve Araştırma Merkezi",
+          "url": "https://getat.deu.edu.tr/"
+        },
+        {
+          "text": "İş Sağlığı Araştırma ve Uygulama Merkezi (İSAMER)",
+          "url": "https://isamer.deu.edu.tr/"
+        },
+        {
+          "text": "İzmir İli Stratejik Planlama, Yönetişim, Araştırma ve Uygulama Merkezi (İZİSYÖM)",
+          "url": "http://izisyom.deu.edu.tr"
+        },
+        {
+          "text": "Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezi (DEKAUM)",
+          "url": "https://dekaum.deu.edu.tr/"
+        },
+        {
+          "text": "Kalp Ritm Bozuklukları Uygulama ve Araştırma Merkezi",
+          "url": "https://ritim.deu.edu.tr/"
+        },
+        {
+          "text": "Kozmetoloji Uygulama ve Araştırma Merkezi",
+          "url": "https://kozmetoloji.deu.edu.tr/"
+        },
+        {
+          "text": "Köy Enstitüleri ve İsmail Hakkı TONGUÇ Araştırma ve Uygulama Merkezi (KETAM)",
+          "url": "https://ketam.deu.edu.tr/"
+        },
+        {
+          "text": "Mevlana Uygulama ve Araştırma Merkezi (DEUMAM)",
+          "url": "https://deumam.deu.edu.tr/"
+        },
+        {
+          "text": "Rehberlik ve Psikolojik Danışmanlık Uygulama ve Araştırma Merkezi",
+          "url": "https://psikolojikdanismanlik.deu.edu.tr/"
+        },
+        {
+          "text": "Sağlık Uygulama ve Araştırma Merkezi (Üniversite Hastanesi)",
+          "url": "http://hastane.deu.edu.tr/"
+        },
+        {
+          "text": "Stratejik Araştırmalar Merkezi",
+          "url": "http://www.deusam.deu.edu.tr/"
+        },
+        {
+          "text": "Su Kaynakları Yönetimi ve Su Kaynaklı Doğal Afetlerin Kontrolü Araştırma ve Uygulama Merkezi (SUMER)",
+          "url": "https://sumer.deu.edu.tr/"
+        },
+        {
+          "text": "Sualtı Kültür Mirası ve Denizcilik Tarihi Uygulama ve Araştırma Merkezi",
+          "url": "https://sudemer.deu.edu.tr/"
+        },
+        {
+          "text": "Sürekli Eğitim Merkezi (DESEM)",
+          "url": "http://desem.deu.edu.tr/"
+        },
+        {
+          "text": "Türk Dünyası Uygulama ve Araştırma Merkezi",
+          "url": "https://turkdunyasi.deu.edu.tr/"
+        },
+        {
+          "text": "Ulusal Klinik Araştırma Altyapı Ağı Uygulama ve Araştırma Merkezi",
+          "url": "http://tucrin.deu.edu.tr/"
+        },
+        {
+          "text": "Uzaktan Eğitim Uygulama ve Araştırma Merkezi (DEUZEM)",
+          "url": "http://deuzem.deu.edu.tr/"
+        },
+        {
+          "text": "Üniversite – Sanayi Uygulama ve Araştırma Merkezi (DESUM)",
+          "url": "http://desum.deu.edu.tr/"
+        }
+      ],
+      "text": "Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezi Akademik Acil Tıp ve Afet Eğitim Uygulama ve Araştırma Merkezi (ATAMER) Akademik ve Kişisel Gelişimi Destekleme Uygulama ve Araştırma Merkezi (AKADEMİ-DE) Arkeoloji ve Arkeometri Uygulama ve Araştırma Merkezi Avrupa Çalışmaları Uygulama ve Araştırma Merkezi (ATMER) Bilişim Teknolojileri Araştırma ve Uygulama Merkezi (DEBTAM) Bilim ve Teknoloji Uygulama ve Araştırma Merkezi Bioizmir Uluslararası Sağlık Teknolojileri Geliştirici Ve Hızlandırıcı Uygulama Ve Araştırma Merkezi Bölgesel Kalkınma ve İşletme Bilimleri Araştırma ve Uygulama Merkezi (BIMER) Çevre Araştırma ve Uygulama Merkezi (ÇEVMER) Çocuk Eğitimi Uygulama ve Araştırma Merkezi (DEÇEM) Çok Boyutlu Enfeksiyonlar ve Lyme Hastalığı Araştırma ve Uygulama Merkezi (DEBLAUM) Dil Eğitimi Uygulama ve Araştırma Merkezi (DİLMER) Deprem Araştırma ve Uygulama Merkezi (DAUM) DEÜ Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezi Ege Bölgesi Kültür Varlıkları Uygulama ve Araştırma Merkezi Ege Bölgesi Uygulama ve Araştırma Merkezi (EBAMER) Elektronik Malzemeler Üretimi ve Uygulama Merkezi (EMUM) Enerji Uygulama ve Araştırma Merkezi (EUAM) Fauna ve Flora Araştırma ve Uygulama Merkezi Fevziye Hepkon Spor Bilimleri ve Sporcu Sağlığı Uygulama ve Araştırma Merkezi Geleneksel ve Tamamlayıcı Tıp Uygulama ve Araştırma Merkezi Hukuk Araştırmaları Merkezi (DEHAMER) İş Sağlığı Araştırma ve Uygulama Merkezi (İSAMER) İzmir İli Stratejik Planlama, Yönetişim, Araştırma ve Uygulama Merkezi (İZİSYÖM) Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezi (DEKAUM) Kalp Ritm Bozuklukları Uygulama ve Araştırma Merkezi Kozmetoloji Uygulama ve Araştırma Merkezi Köy Enstitüleri ve İsmail Hakkı TONGUÇ Araştırma ve Uygulama Merkezi (KETAM) Mevlana Uygulama ve Araştırma Merkezi (DEUMAM) Rehberlik ve Psikolojik Danışmanlık Uygulama ve Araştırma Merkezi Sağlık Uygulama ve Araştırma Merkezi (Üniversite Hastanesi) Stratejik Araştırmalar Merkezi Su Kaynakları Yönetimi ve Su Kaynaklı Doğal Afetlerin Ko"
+    },
+    {
+      "title": "Etik Kurullar",
+      "links": [],
+      "text": ""
+    }
+  ],
+  "administrativeUnits": [
+    {
+      "title": "Genel Sekreterlik",
+      "links": [
+        {
+          "text": "Genel Sekreterlik",
+          "url": "https://gensek.deu.edu.tr/"
+        },
+        {
+          "text": "Genel Sekreterlik Birimi",
+          "url": "https://gensek.deu.edu.tr/genel-sekreterlik-sube-mudurlugu/"
+        },
+        {
+          "text": "Koruma ve Güvenlik Merkez Birimi",
+          "url": "https://gensek.deu.edu.tr/koruma-guvenlik-mudurlugu/"
+        },
+        {
+          "text": "CİMER – Bilgi Edinme Birimi",
+          "url": "https://gensek.deu.edu.tr/bilgi-edinme-cimer/"
+        }
+      ],
+      "text": "Genel Sekreterlik Genel Sekreterlik Birimi Koruma ve Güvenlik Merkez Birimi CİMER – Bilgi Edinme Birimi"
+    },
+    {
+      "title": "Hukuk Müşavirliği",
+      "links": [
+        {
+          "text": "Hukuk Müşavirliği",
+          "url": "http://hukukmusavirligi.deu.edu.tr/"
+        }
+      ],
+      "text": "Hukuk Müşavirliği"
+    },
+    {
+      "title": "Daire Başkanlıkları",
+      "links": [
+        {
+          "text": "Bilgi İşlem Dairesi Başkanlığı",
+          "url": "http://bid.deu.edu.tr/"
+        },
+        {
+          "text": "İdari ve Mali İşler Daire Başkanlığı",
+          "url": "https://imid.deu.edu.tr/"
+        },
+        {
+          "text": "Kütüphane ve Dokümantasyon Dairesi Başkanlığı",
+          "url": "http://www.kutuphane.deu.edu.tr/tr/anasayfa/"
+        },
+        {
+          "text": "Öğrenci İşleri Dairesi Başkanlığı",
+          "url": "http://ogrenci.deu.edu.tr/index.php?lang=tr"
+        },
+        {
+          "text": "Personel Dairesi Başkanlığı",
+          "url": "http://personel.deu.edu.tr"
+        },
+        {
+          "text": "Sağlık Kültür ve Spor Dairesi Başkanlığı",
+          "url": "http://sks.deu.edu.tr/tr/anasayfa/"
+        },
+        {
+          "text": "Strateji Geliştirme Daire Başkanlığı",
+          "url": "http://strateji.deu.edu.tr/"
+        },
+        {
+          "text": "Yapı İşleri ve Teknik Daire Başkanlığı",
+          "url": "https://yid.deu.edu.tr/"
+        }
+      ],
+      "text": "Bilgi İşlem Dairesi Başkanlığı İdari ve Mali İşler Daire Başkanlığı Kütüphane ve Dokümantasyon Dairesi Başkanlığı Öğrenci İşleri Dairesi Başkanlığı Personel Dairesi Başkanlığı Sağlık Kültür ve Spor Dairesi Başkanlığı Strateji Geliştirme Daire Başkanlığı Yapı İşleri ve Teknik Daire Başkanlığı"
+    },
+    {
+      "title": "Merkez Birimler",
+      "links": [
+        {
+          "text": "Döner Sermaye İşletmesi Müdürlüğü",
+          "url": "https://dsi.deu.edu.tr"
+        }
+      ],
+      "text": "Döner Sermaye İşletmesi Müdürlüğü"
+    }
+  ],
+  "footer": {
+    "links": [
+      {
+        "text": "Bilişim Servisleri",
+        "url": "javascript:void(0);"
+      },
+      {
+        "text": "Hızlı Erişim",
+        "url": "javascript:void(0);"
+      },
+      {
+        "text": "Web Kayıt",
+        "url": "http://kayit.deu.edu.tr/"
+      },
+      {
+        "text": "YÖK 100/2000 Doktora",
+        "url": "http://yuzikibin.deu.edu.tr"
+      },
+      {
+        "text": "DEÜ SANAL POS",
+        "url": "https://pos.deu.edu.tr"
+      },
+      {
+        "text": "Öğrenci",
+        "url": "javascript:void(0);"
+      },
+      {
+        "text": "Personel",
+        "url": "javascript:void(0);"
+      },
+      {
+        "text": "Mezun",
+        "url": "http://mezun.deu.edu.tr/"
+      },
+      {
+        "text": "Engelsiz DEÜ Koordinatörlüğü",
+        "url": "http://engelsiz.deu.edu.tr/"
+      },
+      {
+        "text": "Sayılarla D.E.Ü.",
+        "url": "http://sayilarla.deu.edu.tr"
+      },
+      {
+        "text": "BURSLAR / STAJLAR",
+        "url": "http://ogrenci.deu.edu.tr/burslar/"
+      },
+      {
+        "text": "KALİTE KOORDİNATÖRLÜĞÜ",
+        "url": "http://kalite.deu.edu.tr/"
+      },
+      {
+        "text": "STRATEJİK PLAN 2026-2030",
+        "url": "http://strateji.deu.edu.tr/stratejik-planlar/"
+      },
+      {
+        "text": "İDARE FAALİYET RAPORLARI",
+        "url": "http://strateji.deu.edu.tr/faaliyet-raporlari/"
+      },
+      {
+        "text": "KİŞİSEL VERİLERİN KORUNMASI",
+        "url": "https://kvkk.deu.edu.tr"
+      },
+      {
+        "text": "HRS4R",
+        "url": "https://hrs4r.deu.edu.tr"
+      },
+      {
+        "text": "Üniversitelerarası Araştırma Üniversitesi Arge Destek Programı (ADEP)",
+        "url": "https://bap.deu.edu.tr/"
+      }
+    ],
+    "text": "Bilişim Servisleri\nHızlı Erişim\nWeb Kayıt\nYÖK 100/2000 Doktora\nDEÜ SANAL POS\nÖğrenci\nPersonel\nMezun\nEngelsiz DEÜ Koordinatörlüğü\nSayılarla D.E.Ü.\nBURSLAR / STAJLAR\nKALİTE KOORDİNATÖRLÜĞÜ\nSTRATEJİK PLAN 2026-2030\nİDARE FAALİYET RAPORLARI\nKİŞİSEL VERİLERİN KORUNMASI\nHRS4R\nÜniversitelerarası Araştırma Üniversitesi Arge Destek Programı (ADEP)\nDOKUZ EYLÜL ÜNİVERSİTESİ REKTÖRLÜĞÜ Cumhuriyet Bulvarı No: 144 35210 Alsancak / İZMİR - Telefon:+90(232) 412 12 12 Faks:+90 (232) 464 81 35\nKep Adresi: dokuzeyluluniversitesi@hs01.kep.tr - UETS:\n35424-84249-98534"
+  },
+  "social": [
+    "http://twitter.com/universitemDEU",
+    "http://www.facebook.com/dokuzeylul",
+    "http://www.instagram.com/universitemdeu",
+    "https://www.youtube.com/c/DEUwebtv",
+    "https://www.youtube.com/watch?v=ACSpMK66k5E"
+  ],
+  "slider": [
+    {
+      "image": "images/slider/avrupa-u-yelig-i-slider-3aa98e.jpg",
+      "alt": "Avrupa Üyeliği_Slider",
+      "link": "https://haber.deu.edu.tr/dokuz-eylul-universitesi-rektoru-prof-dr-bayram-yilmaz-avrupa-bilimler-akademisi-academia-europaea-uyeligine-secildi/"
+    },
+    {
+      "image": "images/slider/deu-slider-3revizeli-min-45277c.jpg",
+      "alt": "deü slider 3revizeli-min",
+      "link": "https://haber.deu.edu.tr/gazeteci-hakan-celik-kuresel-gelismeleri-ve-turkiyenin-konumunu-deude-degerlendirdi/"
+    }
+  ]
+}
