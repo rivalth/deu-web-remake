@@ -6,6 +6,7 @@
 [build.environment]
   NODE_VERSION = "22"
   NEXT_TELEMETRY_DISABLED = "1"
+  NEXT_PUBLIC_SITE_URL = "https://deu.salivra.com"
 
 # Brand assets and synced content images never change between deploys
 # without a new filename, so let browsers keep them for a day.

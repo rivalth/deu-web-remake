@@ -2,6 +2,8 @@
 
 Dokuz Eylül Üniversitesi web sitesinin yeniden tasarımı. Next.js (App Router) + Tailwind CSS.
 
+Canlı: **https://deu.salivra.com**
+
 ```bash
 pnpm install
 pnpm dev
