@@ -129,7 +129,7 @@ export default function Home() {
 
   return (
     <>
-      <Hero slides={slides} students={nf.format(stats.studentTotal)} units={units.length} />
+      <Hero slides={slides} students={nf.format(stats.studentTotal)} units={units.length} centers={centers.length} />
       <ValuesMarquee values={values} />
       <Mission text={missionText} images={mission} />
       <StatsBand

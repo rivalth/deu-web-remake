@@ -62,7 +62,7 @@ type RawNews = {
 
 function toNews(n: RawNews): NewsItem {
   const title = smartTitle(n.title);
-  const all = n.images.map((p) => media(p, title)).filter((m): m is Media => !!m);
+  const all = [...new Set(n.images)].map((p) => media(p, title)).filter((m): m is Media => !!m);
   // inline galleries are mostly 357px thumbnails; keep only usable sizes
   const gallery = all.filter((m) => m.width >= 900);
   const lead = [...gallery].sort((x, y) => y.width - x.width)[0] ?? null;
@@ -145,7 +145,7 @@ export function getPage(slug: string) {
 /* ------------------------------------------------------------------ site */
 
 type Link = { text: string; url: string };
-type Tab = { title: string; links: Link[]; text: string };
+export type Tab = { title: string; links: Link[]; text: string };
 
 type Site = {
   navigation: (Link & { children?: (Link & { children?: Link[] })[] })[];
@@ -186,8 +186,22 @@ export function getUnits(): Unit[] {
     );
 }
 
-export function getResearchCenters(): Link[] {
-  return getSite().research.find((t) => t.title.startsWith("Uygulama"))?.links ?? [];
+/** Research centers from the Araştırma page (includes ones without a website). */
+export function getResearchCenters(): { text: string; url: string | null }[] {
+  const { body } = getPage("arastirma-deu");
+  return [...body.matchAll(/^\s*\+\s+(.+)$/gm)].map((m) => {
+    const link = m[1].match(/^\[(.+?)\]\((.+?)\)/);
+    return link ? { text: link[1].trim(), url: link[2] } : { text: m[1].trim(), url: null };
+  });
+}
+
+export function getResearchTabs(): Tab[] {
+  return getSite().research.filter((t) => t.links.length && !t.title.startsWith("Uygulama"));
+}
+
+export function getLabsIntro(): string {
+  const { body } = getPage("arastirma-deu");
+  return body.split(/\n{2,}/).find((p) => p.startsWith("Dokuz Eylül Üniversitesi’nin bilimsel")) ?? "";
 }
 
 export function getCoordinatorships(): Link[] {
@@ -271,4 +285,39 @@ export function listSlugs(dir: "news" | "announcements"): string[] {
   return readdirSync(path.join(ROOT, dir))
     .filter((f) => f.endsWith(".md"))
     .map((f) => f.replace(/\.md$/, ""));
+}
+
+/* ------------------------------------------------------------ leadership */
+
+export type Person = { role: string; name: string; email: string | null; photo: Media | null; tier: number };
+
+/** People cards from the management pages (photo, bold role, name, email). */
+export function getLeadership(): Person[] {
+  const pages = ["rektor", "rektor-yardimcilari", "genel-sekreter", "genel-sekreter-yardimcilari"];
+  return pages.flatMap((slug, tier) =>
+    getPage(slug)
+      .body.split(/(?=!\[)/)
+      .filter((seg) => seg.startsWith("!["))
+      .map((seg) => {
+        const img = seg.match(/^!\[[^\]]*\]\(([^)]+)\)/)?.[1];
+        const role = seg.match(/\*\*(.+?)\*\*/)?.[1]?.trim() ?? "";
+        const lines = seg
+          .replace(/^!\[[^\]]*\]\([^)]+\)/, "")
+          .replace(/\[[^\]]*\]\([^)]*\)/g, "")
+          .replace(/\*\*.+?\*\*/, "")
+          .split("\n")
+          .map((l) => l.trim())
+          .filter(Boolean);
+        const emailLine = lines.find((l) => l.includes("(@)"));
+        const name = lines.find((l) => l !== emailLine) ?? "";
+        return {
+          role,
+          name,
+          email: emailLine ? emailLine.replace("(@)", "@") : null,
+          photo: media(img, name),
+          tier,
+        };
+      })
+      .filter((p) => p.name && p.role),
+  );
 }

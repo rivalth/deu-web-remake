@@ -24,7 +24,17 @@ const EASE = [0.16, 1, 0.3, 1] as const;
 
 export type Slide = { media: Media; caption: string; href: string };
 
-export function Hero({ slides, students, units }: { slides: Slide[]; students: string; units: number }) {
+export function Hero({
+  slides,
+  students,
+  units,
+  centers,
+}: {
+  slides: Slide[];
+  students: string;
+  units: number;
+  centers: number;
+}) {
   const [index, setIndex] = useState(0);
   const [paused, setPaused] = useState(false);
   const reduce = useReducedMotion();
@@ -127,7 +137,7 @@ export function Hero({ slides, students, units }: { slides: Slide[]; students: s
           className="mt-8 flex flex-col gap-8 sm:flex-row sm:items-end sm:justify-between"
         >
           <p className="max-w-xl text-base leading-relaxed text-white/80 sm:text-lg">
-            {students} öğrenci, {units} akademik birim ve 37 araştırma merkeziyle Ege&apos;nin köklü araştırma
+            {students} öğrenci, {units} akademik birim ve {centers} araştırma merkeziyle Ege&apos;nin köklü araştırma
             üniversitesi.
           </p>
           <div className="flex flex-wrap items-center gap-3">
