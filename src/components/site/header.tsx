@@ -38,9 +38,7 @@ export function Header({ quickLinks, search, unitGroups, featured }: Props) {
 
   useMotionValueEvent(scrollY, "change", (y) => {
     const prev = scrollY.getPrevious() ?? 0;
-    // the home hero is pinned for several screens; stay transparent while it is under the header
-    const hero = document.querySelector("[data-hero]");
-    setScrolled(y > 24 && !(hero && hero.getBoundingClientRect().bottom > window.innerHeight));
+    setScrolled(y > 24);
     setHidden(y > 420 && y > prev && !mega && !quick);
   });
 
