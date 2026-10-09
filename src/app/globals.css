@@ -1,5 +1,94 @@
 @import "tailwindcss";
 
+/* Self-hosted webfonts (copied to /fonts by scripts/sync-media.mjs). latin-ext carries ğ, ş, İ. */
+@font-face {
+  font-family: "Montserrat Variable";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/fonts/montserrat-latin-wght-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+@font-face {
+  font-family: "Montserrat Variable";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/fonts/montserrat-latin-ext-wght-normal.woff2") format("woff2");
+  unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+@font-face {
+  font-family: "Instrument Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/instrument-serif-latin-400-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+@font-face {
+  font-family: "Instrument Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/instrument-serif-latin-ext-400-normal.woff2") format("woff2");
+  unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+@font-face {
+  font-family: "Instrument Serif";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/instrument-serif-latin-400-italic.woff2") format("woff2");
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+@font-face {
+  font-family: "Instrument Serif";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/instrument-serif-latin-ext-400-italic.woff2") format("woff2");
+  unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* Metric-matched fallbacks so the swap to the webfont doesn't shift layout.
+   size-adjust = measured width ratio; overrides = font metrics / size-adjust. */
+@font-face {
+  font-family: "Montserrat Fallback";
+  src: local("Arial");
+  font-weight: 100 549;
+  size-adjust: 112%;
+  ascent-override: 86.43%;
+  descent-override: 22.41%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Montserrat Fallback";
+  src: local("Arial Bold"), local("Arial-BoldMT");
+  font-weight: 550 900;
+  size-adjust: 108.4%;
+  ascent-override: 89.3%;
+  descent-override: 23.15%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Instrument Serif Fallback";
+  src: local("Times New Roman");
+  size-adjust: 89.6%;
+  ascent-override: 110.5%;
+  descent-override: 34.6%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: "Instrument Serif Fallback";
+  src: local("Times New Roman Italic"), local("TimesNewRomanPS-ItalicMT");
+  font-style: italic;
+  size-adjust: 89.6%;
+  ascent-override: 110.5%;
+  descent-override: 34.6%;
+  line-gap-override: 0%;
+}
+
+
 /* DEÜ brand tokens — see brand/README.md */
 @theme {
   --color-paper: #f5f3ee;
@@ -16,8 +105,8 @@
   --color-gold-light: #d2b07a;
   --color-line: rgb(11 27 43 / 0.12);
 
-  --font-sans: "Montserrat Variable", ui-sans-serif, system-ui, sans-serif;
-  --font-serif: "Instrument Serif", ui-serif, Georgia, serif;
+  --font-sans: "Montserrat Variable", "Montserrat Fallback", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Instrument Serif", "Instrument Serif Fallback", ui-serif, Georgia, serif;
 
   --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
   --ease-in-out-quart: cubic-bezier(0.76, 0, 0.24, 1);

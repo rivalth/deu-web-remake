@@ -6,10 +6,7 @@ import { ScrollProgress } from "@/components/site/scroll-progress";
 import { getAnnouncements, getNews, getSite, getUnits, UNIT_GROUPS } from "@/lib/content";
 import { ABOUT_LINKS, RESEARCH_LINKS, type SearchItem } from "@/lib/nav";
 import { formatDate } from "@/lib/text";
-// self-hosted fonts (no build-time fetch); unicode-range keeps Turkish glyphs in latin-ext
-import "@fontsource-variable/montserrat/wght.css";
-import "@fontsource/instrument-serif/400.css";
-import "@fontsource/instrument-serif/400-italic.css";
+import { preload } from "react-dom";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -62,6 +59,10 @@ function buildSearch(): SearchItem[] {
 }
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
+  // fonts are declared in globals.css; fetching them early keeps the headline from reflowing
+  for (const f of ["montserrat-latin-wght-normal", "montserrat-latin-ext-wght-normal"]) {
+    preload(`/fonts/${f}.woff2`, { as: "font", type: "font/woff2", crossOrigin: "anonymous" });
+  }
   const site = getSite();
   const units = getUnits();
   const latest = getNews()[0];

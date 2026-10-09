@@ -43,6 +43,7 @@ next-env.d.ts
 # generated media (scripts/sync-media.mjs)
 /public/images
 /public/units
+/public/fonts
 /src/generated
 
 # netlify

@@ -1,4 +1,4 @@
-// Copies scraped images + unit logos into public/ and writes a manifest
+// Copies scraped images, unit logos and webfonts into public/ and writes a manifest
 // (width, height, blur placeholder) to src/generated/media.json.
 // Runs before `dev` and `build`; outputs are gitignored.
 import { existsSync } from "node:fs";
@@ -81,6 +81,22 @@ for (const [group, units] of Object.entries(index)) {
     }
     manifest.units[slug] = { url, group };
   }
+}
+
+// 3. webfonts at stable URLs so the layout can preload them (latin + latin-ext cover Turkish)
+const FONTS = [
+  "@fontsource-variable/montserrat/files/montserrat-latin-wght-normal.woff2",
+  "@fontsource-variable/montserrat/files/montserrat-latin-ext-wght-normal.woff2",
+  "@fontsource/instrument-serif/files/instrument-serif-latin-400-normal.woff2",
+  "@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-normal.woff2",
+  "@fontsource/instrument-serif/files/instrument-serif-latin-400-italic.woff2",
+  "@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-italic.woff2",
+];
+await mkdir(path.join(publicDir, "fonts"), { recursive: true });
+for (const f of FONTS) {
+  const src = path.join(root, "node_modules", f);
+  const dest = path.join(publicDir, "fonts", path.basename(f));
+  if (await newer(src, dest)) await copyFile(src, dest);
 }
 
 await mkdir(path.dirname(manifestPath), { recursive: true });
