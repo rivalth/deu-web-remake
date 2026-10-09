@@ -2,12 +2,33 @@
   "name": "deu-web-remake",
   "version": "0.1.0",
   "private": true,
+  "description": "An unofficial redesign concept for Dokuz Eylül University's website, built with Next.js 16, Tailwind CSS 4 and Motion.",
+  "license": "MIT",
+  "author": "rivalth",
+  "homepage": "https://deu.salivra.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivalth/deu-web-remake.git"
+  },
+  "bugs": "https://github.com/rivalth/deu-web-remake/issues",
+  "keywords": [
+    "nextjs",
+    "react",
+    "tailwindcss",
+    "motion",
+    "university",
+    "redesign",
+    "dokuz-eylul",
+    "deu",
+    "izmir"
+  ],
   "scripts": {
     "media": "node scripts/sync-media.mjs",
     "dev": "node scripts/sync-media.mjs && next dev",
     "build": "node scripts/sync-media.mjs && next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "next typegen && tsc --noEmit"
   },
   "dependencies": {
     "@fontsource-variable/montserrat": "^5.3.0",

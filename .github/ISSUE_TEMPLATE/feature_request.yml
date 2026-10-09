@@ -1,0 +1,20 @@
+name: Idea or improvement
+description: Suggest a design, UX or technical improvement
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you change?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why?
+      description: Who benefits, and how?
+  - type: textarea
+    id: refs
+    attributes:
+      label: References
+      description: Links or screenshots of sites that do it well.

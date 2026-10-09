@@ -1,33 +1,135 @@
-# deu-web-remake
+<div align="center">
 
-Dokuz Eylül Üniversitesi web sitesinin yeniden tasarımı. Next.js (App Router) + Tailwind CSS.
+# DEÜ Web — a redesign concept
 
-Canlı: **https://deu.salivra.com**
+**A modern, image-led, motion-rich website concept for Dokuz Eylül University (İzmir, 1982), built on its real content.**
+
+[**Live demo → deu.salivra.com**](https://deu.salivra.com) · [Türkçe](README.tr.md) · [Architecture](docs/ARCHITECTURE.md)
+
+[![CI](https://github.com/rivalth/deu-web-remake/actions/workflows/ci.yml/badge.svg)](https://github.com/rivalth/deu-web-remake/actions/workflows/ci.yml)
+![Next.js 16](https://img.shields.io/badge/Next.js-16-000?logo=nextdotjs)
+![React 19](https://img.shields.io/badge/React-19-149eca?logo=react&logoColor=white)
+![Tailwind CSS 4](https://img.shields.io/badge/Tailwind_CSS-4-38bdf8?logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?logo=typescript&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse_mobile-97%2B-0cce6b?logo=lighthouse&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
+
+<img src="docs/screenshots/home-hero.webp" alt="Homepage hero: full-bleed campus photo with the headline “Geleceğe yön veren eğitim ve bilim merkezi.”" width="100%" />
+
+</div>
+
+> [!NOTE]
+> This is an **independent, unofficial** design study. It is not affiliated with or endorsed by Dokuz Eylül University. The university's content, photos and logos belong to the university; see [Content & trademarks](#content--trademarks).
+
+## Why
+
+University websites tend to grow into link directories. This project asks what DEÜ's site could feel like if it were designed today: photography first, clear paths for prospective students, fast search, and motion that guides the eye instead of decorating. Every word, number and photo on the site is real, scraped from DEÜ's public websites, so the design is tested against actual content rather than lorem ipsum.
+
+## Highlights
+
+- **Real content, statically built.** 60 news stories, 19 announcements, 38 academic units, 39 research centres and 341 campus photos, read from a Markdown/JSON archive at build time. 92 pages are prerendered.
+- **⌘K search everywhere.** Pages, units, news and announcements in one command palette. Turkish characters are folded, so `ogrenci` finds *öğrenci*.
+- **Motion with a purpose.** Word-by-word headline reveals, an autoplaying hero with Ken Burns photos, a pinned horizontal "campus life" reel, magnetic buttons, count-up stats, page transitions. All of it respects `prefers-reduced-motion`.
+- **Data you can read.** The *Sayılarla DEÜ* page turns the official statistics into accessible charts with hover tooltips and a table view for every chart.
+- **On brand.** Colours, type and logo usage follow DEÜ's official corporate identity guide (Pantone 301 C, Montserrat; the emblem is never recoloured or rotated).
+- **Fast on phones.** Lighthouse mobile: Performance 97–98, Accessibility 97, Best Practices 100, SEO 100 ([how](docs/ARCHITECTURE.md#performance)).
+
+## Screenshots
+
+| | |
+| --- | --- |
+| <img src="docs/screenshots/home-units.webp" alt="Academic units explorer with faculty logos and filter tabs" /> | <img src="docs/screenshots/home-news.webp" alt="News showcase with a featured story and a side list" /> |
+| Academic units, filterable and searchable | News showcase |
+| <img src="docs/screenshots/home-research.webp" alt="Research section on a dark navy background with centre list" /> | <img src="docs/screenshots/search.webp" alt="Command palette open, searching for “tıp”" /> |
+| Research and innovation | ⌘K search across the whole site |
+| <img src="docs/screenshots/academic.webp" alt="Academic page: “38 birim, sonsuz olasılık.”" /> | <img src="docs/screenshots/stats.webp" alt="Statistics page with bar charts of student and staff numbers" /> |
+| Academic overview | Statistics with accessible charts |
+
+<p align="center">
+  <img src="docs/screenshots/mobile-home.webp" alt="Mobile homepage" width="30%" />
+  <img src="docs/screenshots/mobile-stats.webp" alt="Mobile statistics page" width="30%" />
+  <img src="docs/screenshots/mobile-menu.webp" alt="Mobile full-screen menu" width="30%" />
+</p>
+
+## Tech stack
+
+| | |
+| --- | --- |
+| Framework | [Next.js 16](https://nextjs.org) App Router with Cache Components and Partial Prerendering, React 19 |
+| Styling | [Tailwind CSS 4](https://tailwindcss.com) with brand tokens in `@theme` |
+| Motion | [Motion](https://motion.dev) for scroll- and gesture-driven animation, CSS keyframes for above-the-fold entrances, [Lenis](https://lenis.darkroom.engineering) for smooth wheel scrolling on desktop |
+| Search | [cmdk](https://cmdk.paco.me) |
+| Content | Markdown and JSON in [`content/`](content/), rendered with `react-markdown` and `remark-gfm` |
+| Images | `next/image` with build-time blur placeholders and dimensions generated by [sharp](https://sharp.pixelplumbing.com) |
+| Fonts | Montserrat and Instrument Serif, self-hosted, preloaded, with metric-matched fallbacks |
+| Scraper | Python 3.11+ (`requests`, `beautifulsoup4`, `markdownify`, Pillow), run with [uv](https://docs.astral.sh/uv/) |
+| Hosting | [Netlify](https://www.netlify.com) via the OpenNext adapter |
+
+## Getting started
+
+Requirements: **Node.js 22** (see [`.nvmrc`](.nvmrc)) and **pnpm 10** (`corepack enable` picks the pinned version).
 
 ```bash
+git clone https://github.com/rivalth/deu-web-remake.git
+cd deu-web-remake
 pnpm install
 pnpm dev
 ```
 
-`dev` ve `build`, önce `scripts/sync-media.mjs` ile `content/` görsellerini ve birim logolarını `public/` altına kopyalar ve boyut/blur manifest'ini (`src/generated/media.json`) üretir. Bu çıktılar git'e girmez.
+Open <http://localhost:3000>. The content archive is committed, so no scraping is needed to run the site.
 
-**Yığın:** Next.js 16 (App Router, Cache Components), Tailwind CSS 4, Motion (animasyon), Lenis (yumuşak kaydırma), cmdk (⌘K arama).
+| Script | What it does |
+| --- | --- |
+| `pnpm dev` | Syncs media, then starts the dev server |
+| `pnpm build` | Syncs media, then makes a production build |
+| `pnpm start` | Serves the production build |
+| `pnpm media` | Copies images, unit logos and fonts into `public/` and writes `src/generated/media.json` |
+| `pnpm lint` | ESLint |
+| `pnpm typecheck` | Generates route types, then runs TypeScript |
 
-## Deploy (Netlify)
+To refresh the content from DEÜ's public sites (optional, needs [uv](https://docs.astral.sh/uv/)):
 
-Repo Netlify'a bağlanınca ek ayar gerekmez: [`netlify.toml`](netlify.toml) build komutunu (`pnpm build`), Node 22'yi ve statik varlık cache başlıklarını tanımlar; Next.js, Netlify'ın OpenNext adapter'ı ile otomatik algılanır (Cache Components, PPR ve `next/image` → Netlify Image CDN desteklenir).
+```bash
+uv run scripts/scrape_deu.py                 # everything
+uv run scripts/scrape_deu.py --only news     # or one of: home, pages, news, announcements, stats
+```
 
-- Fontlar `@fontsource` paketleriyle self-host edilir; build sırasında dış servise istek atılmaz.
-- `content/` sunucu tarafında `fs` ile okunduğu için `next.config.ts` içindeki `outputFileTracingIncludes` ile fonksiyon paketine eklenir.
-- `metadataBase`, Netlify'ın verdiği `URL` değişkeninden gelir; özel alan adı için `NEXT_PUBLIC_SITE_URL` tanımlanabilir.
+## Project structure
 
-## Klasörler
+```
+├── brand/                 Official logos, identity guide pages, colour and type tokens
+├── content/               Scraped archive: pages, news, announcements, stats, images
+├── docs/                  Architecture notes and screenshots
+├── scripts/
+│   ├── scrape_deu.py      Content scraper
+│   └── sync-media.mjs     Media pipeline: public/ assets and the image manifest
+└── src/
+    ├── app/               Routes: /, /haberler, /duyurular, /akademik, /arastirma, /hakkimizda, /sayilarla
+    ├── components/
+    │   ├── motion/        Reusable motion primitives: reveal, split text, counter, magnetic, tilt…
+    │   ├── home/          Homepage sections
+    │   ├── site/          Header, footer, command menu, providers
+    │   └── …              news, units, research, stats, about, ui
+    └── lib/               Content loaders, media helpers, Turkish-aware text utilities
+```
 
-- `src/app` — sayfalar: ana sayfa, `/haberler`, `/duyurular`, `/akademik`, `/arastirma`, `/hakkimizda`, `/sayilarla`
-- `src/components` — `motion/` (reveal, split-text, counter, magnetic, tilt, parallax…), `home/`, `site/` (header, footer, arama)
-- `src/lib/content.ts` — `content/` arşivini build sırasında okuyan veri katmanı
-- `brand/` — resmi logolar, kurumsal kimlik kılavuzu, renk/font token'ları ([brand/README.md](brand/README.md))
-- `content/` — deu.edu.tr'den çekilen içerik: sayfalar, haberler, duyurular, istatistikler ([content/README.md](content/README.md))
-- `scripts/scrape_deu.py` — içerik çekici (`uv run scripts/scrape_deu.py`)
+How the pieces fit together, and why, is in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
-Bu bağımsız bir tasarım çalışmasıdır; DEÜ'nün resmi projesi değildir. Logolar ve içerik Dokuz Eylül Üniversitesi'ne aittir.
+## Deployment
+
+The repo deploys to Netlify with no extra settings. [`netlify.toml`](netlify.toml) sets the build command, Node 22, cache headers for static assets and security headers. Netlify detects Next.js and uses its OpenNext adapter, which supports Cache Components, PPR and `next/image` through the Netlify Image CDN. Set `NEXT_PUBLIC_SITE_URL` for a custom domain so canonical and Open Graph URLs are correct.
+
+## Contributing
+
+Ideas, bug reports and pull requests are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
+
+## Content & trademarks
+
+The **source code** is released under the [MIT License](LICENSE).
+
+Everything in [`content/`](content/) and [`brand/`](brand/), including texts, photographs, logos, the emblem and the corporate identity guide, is the property of **Dokuz Eylül University**. It was collected from the university's public websites and is included only to demonstrate this design study. It is **not** covered by the MIT License. See [NOTICE.md](NOTICE.md).
+
+## Acknowledgements
+
+- Dokuz Eylül University, for the content, photography and the [corporate identity guide](https://kurumsalkimlik.deu.edu.tr/)
+- The teams behind Next.js, Tailwind CSS, Motion, Lenis, cmdk and Lucide
