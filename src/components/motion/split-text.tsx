@@ -31,13 +31,33 @@ export function SplitText({
     for (const w of text.split(/\s+/).filter(Boolean)) words.push({ word: w, className: cls });
   }
   const label = words.map((w) => w.word).join(" ");
-  const trigger = inView
-    ? { whileInView: "show", viewport: { once: true, amount: 0.4 } }
-    : { animate: "show" };
+
+  // above-the-fold headings animate with CSS so they don't wait for hydration
+  if (!inView) {
+    return (
+      <Tag className={className} aria-label={label}>
+        <span className="inline" aria-hidden>
+          {words.map((w, i) => (
+            <Fragment key={i}>
+              <span className="inline-block overflow-hidden pb-[0.12em] -mb-[0.12em] align-bottom">
+                <span
+                  className={`anim-word inline-block ${w.className ?? ""}`}
+                  style={{ animationDelay: `${delay + i * stagger}s` }}
+                >
+                  {w.word}
+                </span>
+              </span>
+              {i < words.length - 1 ? " " : null}
+            </Fragment>
+          ))}
+        </span>
+      </Tag>
+    );
+  }
 
   return (
     <Tag className={className} aria-label={label}>
-      <motion.span initial="hidden" {...trigger} className="inline" aria-hidden>
+      <motion.span initial="hidden" whileInView="show" viewport={{ once: true, amount: 0.4 }} className="inline" aria-hidden>
         {words.map((w, i) => (
           <Fragment key={i}>
             <span className="inline-block overflow-hidden pb-[0.12em] -mb-[0.12em] align-bottom">

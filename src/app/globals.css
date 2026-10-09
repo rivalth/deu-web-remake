@@ -186,10 +186,38 @@ html.lenis body {
   }
 }
 
+/* entrance animations that run before hydration (hero, page titles) */
+@keyframes word-up {
+  from {
+    transform: translateY(105%) rotate(4deg);
+  }
+}
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+}
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+}
+.anim-word {
+  animation: word-up 0.9s var(--ease-out-expo) both;
+}
+.anim-fade-up {
+  animation: fade-up 0.9s var(--ease-out-expo) both;
+}
+.anim-fade {
+  animation: fade-in 0.6s ease both;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
   *::after {
+    animation-delay: 0s !important;
     animation-duration: 0.001ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 0.001ms !important;
